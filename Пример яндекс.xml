@@ -2,7 +2,7 @@
 <realty-feed xmlns="http://webmaster.yandex.ru/schemas/feed/realty/2010-06">
 	<generation-date>2021-07-07T12:32:45+03:00</generation-date>
 	<!-- Квартира в новостройке-->
-	<offer internal-id="1245">
+	<offer internal-id="1">
 		<type>продажа</type>
 		<property-type>жилая</property-type>
 		<category>квартира</category>
@@ -27,6 +27,8 @@
 			<value>61,3</value>
 			<unit>кв. м</unit>
 		</area>
+		<image>https://1drv.ms/u/s!AvzDYBPR1esvglHLb4zpoFfc8jNQ?e=I501DZ</image>
+		<image>https://1drv.ms/u/s!AvzDYBPR1esvglaGQ5sNlOC1RRZY?e=z6fj7s</image>
 		<rooms>2</rooms>
 		<floor>3</floor>
 	</offer>
