@@ -2874,4 +2874,1384 @@
 <parking>0</parking>
 <rubbish-chute>0</rubbish-chute>
 </offer>
+<offer internal-id="apartment_41">
+<creation-date>2021-07-22T00:00:00+03:00</creation-date>
+<location>
+<country>Россия</country>
+<region>Ярославль</region>
+<district>Дзержинский</district>
+<locality-name>Ярославская область</locality-name>
+<address>Красноборская, 32</address>
+</location>
+<sales-agent>
+<name>Вадим</name>
+<phone>8(996)241-25-71</phone>
+<category>agency</category>
+</sales-agent>
+<price>
+<value>3202100</value>
+<currency>RUB</currency>
+</price>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%90%D0%BB%D1%8B%D0%B5%20%D0%BF%D0%B0%D1%80%D1%83%D1%81%D0%B0%20%D0%BF%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/2%D0%BA-58.22.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%90%D0%BB%D1%8B%D0%B5%20%D0%BF%D0%B0%D1%80%D1%83%D1%81%D0%B0%20%D0%BF%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/2%D0%BA-58.22.jpg</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_150832.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_150841.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_150848.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_150851.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_151019.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_151022.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_151034.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_151045.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_151253.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_151326.jpg?raw=true</image>
+<area>
+<value>58.22</value>
+<unit>sq. m</unit>
+</area>
+<description>ЖК «Алые паруса» в Заволжском районе города Ярославля – это уникальный проект, который будет располагаться по улице Красноборской, вблизи дома 41. ЖК «Алые паруса» состоит из 4 многоквартирных домов этажностью от 10 до 24 этажей. Все дома комплекса строятся в едином архитектурном стиле по кирпично-монолитной технологии. Планируемый срок сдачи первого дома — 4 квартал 2022 года. В доме 24 жилых этажа, 2 подъезда, 238 квартир: в том числе однокомнатные квартиры площадью от 37 кв.м., двухкомнатные квартиры от 57 до 72 кв.м. и трехкомнатные квартиры 89 кв.м. Квартиры будут сдаваться с предчистовой отделкой: стены – простая штукатурка без обоев и окраски, потолки – бетонная плита монолитного каркаса без окраски, полы – полусухая цементно-песчаная стяжка без покрытия, скрытая электропроводка с розетками и выключателями, система отопления с радиаторами, стояки холодного и горячего водоснабжения с приборами учета, канализационный стояк, без межкомнатных дверей, без электроплиты, без сантехники, окна ПВХ, входная дверь. Высота потолков 2,7 метра. Мусоропроводы не предусмотрены, в каждом подъезде 3 лифта (пассажирский и 2 грузовых). В каждом подъезде 4 строения предусмотрены коммерческие помещения 20,08 кв.м. На благоустроенной территории появятся тротуары, наземная парковка, детская площадка, зеленые насаждения и зона отдыха. Экология в районе комплекса хорошая, т.к. он расположен недалеко от Тверицкого бора. Инфраструктура рядом с ЖК «Алые паруса» обеспеченна сетевыми продуктовыми магазинами «Дикси», «Пятерочка» и «Магнит», в километре расположен гипермаркет Глобус и Леруа Мерлен, чуть дальше — детские сады, школы. Рядом с ЖК по улице Красноборской располагаются остановочные пункты. Бесплатное сопровождение сделки с использованием счетов эскроу.</description>
+<floor>24</floor>
+<floors-total>24</floors-total>
+<ceiling-height>2.7</ceiling-height>
+<built-year>2024</built-year>
+<ready-quarter>4</ready-quarter>
+<type>продажа</type>
+<property-type>living</property-type>
+<category>flat</category>
+<deal-status>reassignment</deal-status>
+<living-space>
+<value>33.27</value>
+</living-space>
+<room-space>
+<value>14.76</value>
+</room-space>
+<room-space>
+<value>18.51</value>
+</room-space>
+<rooms>2</rooms>
+<rooms-offered>2</rooms-offered>
+<kitchen-space>
+<value>9.01</value>
+</kitchen-space>
+<renovation>черновая отделка</renovation>
+<window-view>во двор</window-view>
+<balcony>лоджия</balcony>
+<bathroom-unit>1</bathroom-unit>
+<building-name>ЖК "Алые паруса"</building-name>
+<building-type>монолит</building-type>
+<building-state>unfinished</building-state>
+<lift>true</lift>
+<parking>0</parking>
+<rubbish-chute>0</rubbish-chute>
+</offer>
+<offer internal-id="apartment_42">
+<creation-date>2021-07-22T00:00:00+03:00</creation-date>
+<location>
+<country>Россия</country>
+<region>Ярославль</region>
+<district>Дзержинский</district>
+<locality-name>Ярославская область</locality-name>
+<address>Красноборская, 32</address>
+</location>
+<sales-agent>
+<name>Вадим</name>
+<phone>8(996)241-25-71</phone>
+<category>agency</category>
+</sales-agent>
+<price>
+<value>3202100</value>
+<currency>RUB</currency>
+</price>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%90%D0%BB%D1%8B%D0%B5%20%D0%BF%D0%B0%D1%80%D1%83%D1%81%D0%B0%20%D0%BF%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/2%D0%BA-58.22.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%90%D0%BB%D1%8B%D0%B5%20%D0%BF%D0%B0%D1%80%D1%83%D1%81%D0%B0%20%D0%BF%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/2%D0%BA-58.22.jpg</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_150832.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_150841.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_150848.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_150851.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_151019.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_151022.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_151034.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_151045.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_151253.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_151326.jpg?raw=true</image>
+<area>
+<value>58.22</value>
+<unit>sq. m</unit>
+</area>
+<description>ЖК «Алые паруса» в Заволжском районе города Ярославля – это уникальный проект, который будет располагаться по улице Красноборской, вблизи дома 41. ЖК «Алые паруса» состоит из 4 многоквартирных домов этажностью от 10 до 24 этажей. Все дома комплекса строятся в едином архитектурном стиле по кирпично-монолитной технологии. Планируемый срок сдачи первого дома — 4 квартал 2022 года. В доме 24 жилых этажа, 2 подъезда, 238 квартир: в том числе однокомнатные квартиры площадью от 37 кв.м., двухкомнатные квартиры от 57 до 72 кв.м. и трехкомнатные квартиры 89 кв.м. Квартиры будут сдаваться с предчистовой отделкой: стены – простая штукатурка без обоев и окраски, потолки – бетонная плита монолитного каркаса без окраски, полы – полусухая цементно-песчаная стяжка без покрытия, скрытая электропроводка с розетками и выключателями, система отопления с радиаторами, стояки холодного и горячего водоснабжения с приборами учета, канализационный стояк, без межкомнатных дверей, без электроплиты, без сантехники, окна ПВХ, входная дверь. Высота потолков 2,7 метра. Мусоропроводы не предусмотрены, в каждом подъезде 3 лифта (пассажирский и 2 грузовых). В каждом подъезде 4 строения предусмотрены коммерческие помещения 20,08 кв.м. На благоустроенной территории появятся тротуары, наземная парковка, детская площадка, зеленые насаждения и зона отдыха. Экология в районе комплекса хорошая, т.к. он расположен недалеко от Тверицкого бора. Инфраструктура рядом с ЖК «Алые паруса» обеспеченна сетевыми продуктовыми магазинами «Дикси», «Пятерочка» и «Магнит», в километре расположен гипермаркет Глобус и Леруа Мерлен, чуть дальше — детские сады, школы. Рядом с ЖК по улице Красноборской располагаются остановочные пункты. Бесплатное сопровождение сделки с использованием счетов эскроу.</description>
+<floor>23</floor>
+<floors-total>24</floors-total>
+<ceiling-height>2.7</ceiling-height>
+<built-year>2024</built-year>
+<ready-quarter>4</ready-quarter>
+<type>продажа</type>
+<property-type>living</property-type>
+<category>flat</category>
+<deal-status>reassignment</deal-status>
+<living-space>
+<value>33.27</value>
+</living-space>
+<room-space>
+<value>14.76</value>
+</room-space>
+<room-space>
+<value>18.51</value>
+</room-space>
+<rooms>2</rooms>
+<rooms-offered>2</rooms-offered>
+<kitchen-space>
+<value>9.01</value>
+</kitchen-space>
+<renovation>черновая отделка</renovation>
+<window-view>во двор</window-view>
+<balcony>лоджия</balcony>
+<bathroom-unit>1</bathroom-unit>
+<building-name>ЖК "Алые паруса"</building-name>
+<building-type>монолит</building-type>
+<building-state>unfinished</building-state>
+<lift>true</lift>
+<parking>0</parking>
+<rubbish-chute>0</rubbish-chute>
+</offer>
+<offer internal-id="apartment_43">
+<creation-date>2021-07-22T00:00:00+03:00</creation-date>
+<location>
+<country>Россия</country>
+<region>Ярославль</region>
+<district>Дзержинский</district>
+<locality-name>Ярославская область</locality-name>
+<address>Красноборская, 32</address>
+</location>
+<sales-agent>
+<name>Вадим</name>
+<phone>8(996)241-25-71</phone>
+<category>agency</category>
+</sales-agent>
+<price>
+<value>3202100</value>
+<currency>RUB</currency>
+</price>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%90%D0%BB%D1%8B%D0%B5%20%D0%BF%D0%B0%D1%80%D1%83%D1%81%D0%B0%20%D0%BF%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/2%D0%BA-58.22.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%90%D0%BB%D1%8B%D0%B5%20%D0%BF%D0%B0%D1%80%D1%83%D1%81%D0%B0%20%D0%BF%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/2%D0%BA-58.22.jpg</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_150832.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_150841.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_150848.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_150851.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_151019.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_151022.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_151034.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_151045.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_151253.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_151326.jpg?raw=true</image>
+<area>
+<value>58.22</value>
+<unit>sq. m</unit>
+</area>
+<description>ЖК «Алые паруса» в Заволжском районе города Ярославля – это уникальный проект, который будет располагаться по улице Красноборской, вблизи дома 41. ЖК «Алые паруса» состоит из 4 многоквартирных домов этажностью от 10 до 24 этажей. Все дома комплекса строятся в едином архитектурном стиле по кирпично-монолитной технологии. Планируемый срок сдачи первого дома — 4 квартал 2022 года. В доме 24 жилых этажа, 2 подъезда, 238 квартир: в том числе однокомнатные квартиры площадью от 37 кв.м., двухкомнатные квартиры от 57 до 72 кв.м. и трехкомнатные квартиры 89 кв.м. Квартиры будут сдаваться с предчистовой отделкой: стены – простая штукатурка без обоев и окраски, потолки – бетонная плита монолитного каркаса без окраски, полы – полусухая цементно-песчаная стяжка без покрытия, скрытая электропроводка с розетками и выключателями, система отопления с радиаторами, стояки холодного и горячего водоснабжения с приборами учета, канализационный стояк, без межкомнатных дверей, без электроплиты, без сантехники, окна ПВХ, входная дверь. Высота потолков 2,7 метра. Мусоропроводы не предусмотрены, в каждом подъезде 3 лифта (пассажирский и 2 грузовых). В каждом подъезде 4 строения предусмотрены коммерческие помещения 20,08 кв.м. На благоустроенной территории появятся тротуары, наземная парковка, детская площадка, зеленые насаждения и зона отдыха. Экология в районе комплекса хорошая, т.к. он расположен недалеко от Тверицкого бора. Инфраструктура рядом с ЖК «Алые паруса» обеспеченна сетевыми продуктовыми магазинами «Дикси», «Пятерочка» и «Магнит», в километре расположен гипермаркет Глобус и Леруа Мерлен, чуть дальше — детские сады, школы. Рядом с ЖК по улице Красноборской располагаются остановочные пункты. Бесплатное сопровождение сделки с использованием счетов эскроу.</description>
+<floor>22</floor>
+<floors-total>24</floors-total>
+<ceiling-height>2.7</ceiling-height>
+<built-year>2024</built-year>
+<ready-quarter>4</ready-quarter>
+<type>продажа</type>
+<property-type>living</property-type>
+<category>flat</category>
+<deal-status>reassignment</deal-status>
+<living-space>
+<value>33.27</value>
+</living-space>
+<room-space>
+<value>14.76</value>
+</room-space>
+<room-space>
+<value>18.51</value>
+</room-space>
+<rooms>2</rooms>
+<rooms-offered>2</rooms-offered>
+<kitchen-space>
+<value>9.01</value>
+</kitchen-space>
+<renovation>черновая отделка</renovation>
+<window-view>во двор</window-view>
+<balcony>лоджия</balcony>
+<bathroom-unit>1</bathroom-unit>
+<building-name>ЖК "Алые паруса"</building-name>
+<building-type>монолит</building-type>
+<building-state>unfinished</building-state>
+<lift>true</lift>
+<parking>0</parking>
+<rubbish-chute>0</rubbish-chute>
+</offer>
+<offer internal-id="apartment_44">
+<creation-date>2021-07-22T00:00:00+03:00</creation-date>
+<location>
+<country>Россия</country>
+<region>Ярославль</region>
+<district>Дзержинский</district>
+<locality-name>Ярославская область</locality-name>
+<address>Красноборская, 32</address>
+</location>
+<sales-agent>
+<name>Вадим</name>
+<phone>8(996)241-25-71</phone>
+<category>agency</category>
+</sales-agent>
+<price>
+<value>3202100</value>
+<currency>RUB</currency>
+</price>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%90%D0%BB%D1%8B%D0%B5%20%D0%BF%D0%B0%D1%80%D1%83%D1%81%D0%B0%20%D0%BF%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/2%D0%BA-58.22.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%90%D0%BB%D1%8B%D0%B5%20%D0%BF%D0%B0%D1%80%D1%83%D1%81%D0%B0%20%D0%BF%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/2%D0%BA-58.22.jpg</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_150832.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_150841.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_150848.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_150851.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_151019.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_151022.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_151034.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_151045.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_151253.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_151326.jpg?raw=true</image>
+<area>
+<value>58.22</value>
+<unit>sq. m</unit>
+</area>
+<description>ЖК «Алые паруса» в Заволжском районе города Ярославля – это уникальный проект, который будет располагаться по улице Красноборской, вблизи дома 41. ЖК «Алые паруса» состоит из 4 многоквартирных домов этажностью от 10 до 24 этажей. Все дома комплекса строятся в едином архитектурном стиле по кирпично-монолитной технологии. Планируемый срок сдачи первого дома — 4 квартал 2022 года. В доме 24 жилых этажа, 2 подъезда, 238 квартир: в том числе однокомнатные квартиры площадью от 37 кв.м., двухкомнатные квартиры от 57 до 72 кв.м. и трехкомнатные квартиры 89 кв.м. Квартиры будут сдаваться с предчистовой отделкой: стены – простая штукатурка без обоев и окраски, потолки – бетонная плита монолитного каркаса без окраски, полы – полусухая цементно-песчаная стяжка без покрытия, скрытая электропроводка с розетками и выключателями, система отопления с радиаторами, стояки холодного и горячего водоснабжения с приборами учета, канализационный стояк, без межкомнатных дверей, без электроплиты, без сантехники, окна ПВХ, входная дверь. Высота потолков 2,7 метра. Мусоропроводы не предусмотрены, в каждом подъезде 3 лифта (пассажирский и 2 грузовых). В каждом подъезде 4 строения предусмотрены коммерческие помещения 20,08 кв.м. На благоустроенной территории появятся тротуары, наземная парковка, детская площадка, зеленые насаждения и зона отдыха. Экология в районе комплекса хорошая, т.к. он расположен недалеко от Тверицкого бора. Инфраструктура рядом с ЖК «Алые паруса» обеспеченна сетевыми продуктовыми магазинами «Дикси», «Пятерочка» и «Магнит», в километре расположен гипермаркет Глобус и Леруа Мерлен, чуть дальше — детские сады, школы. Рядом с ЖК по улице Красноборской располагаются остановочные пункты. Бесплатное сопровождение сделки с использованием счетов эскроу.</description>
+<floor>21</floor>
+<floors-total>24</floors-total>
+<ceiling-height>2.7</ceiling-height>
+<built-year>2024</built-year>
+<ready-quarter>4</ready-quarter>
+<type>продажа</type>
+<property-type>living</property-type>
+<category>flat</category>
+<deal-status>reassignment</deal-status>
+<living-space>
+<value>33.27</value>
+</living-space>
+<room-space>
+<value>14.76</value>
+</room-space>
+<room-space>
+<value>18.51</value>
+</room-space>
+<rooms>2</rooms>
+<rooms-offered>2</rooms-offered>
+<kitchen-space>
+<value>9.01</value>
+</kitchen-space>
+<renovation>черновая отделка</renovation>
+<window-view>во двор</window-view>
+<balcony>лоджия</balcony>
+<bathroom-unit>1</bathroom-unit>
+<building-name>ЖК "Алые паруса"</building-name>
+<building-type>монолит</building-type>
+<building-state>unfinished</building-state>
+<lift>true</lift>
+<parking>0</parking>
+<rubbish-chute>0</rubbish-chute>
+</offer>
+<offer internal-id="apartment_45">
+<creation-date>2021-07-22T00:00:00+03:00</creation-date>
+<location>
+<country>Россия</country>
+<region>Ярославль</region>
+<district>Дзержинский</district>
+<locality-name>Ярославская область</locality-name>
+<address>Красноборская, 32</address>
+</location>
+<sales-agent>
+<name>Вадим</name>
+<phone>8(996)241-25-71</phone>
+<category>agency</category>
+</sales-agent>
+<price>
+<value>3202100</value>
+<currency>RUB</currency>
+</price>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%90%D0%BB%D1%8B%D0%B5%20%D0%BF%D0%B0%D1%80%D1%83%D1%81%D0%B0%20%D0%BF%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/2%D0%BA-58.22.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%90%D0%BB%D1%8B%D0%B5%20%D0%BF%D0%B0%D1%80%D1%83%D1%81%D0%B0%20%D0%BF%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/2%D0%BA-58.22.jpg</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_150832.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_150841.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_150848.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_150851.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_151019.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_151022.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_151034.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_151045.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_151253.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_151326.jpg?raw=true</image>
+<area>
+<value>58.22</value>
+<unit>sq. m</unit>
+</area>
+<description>ЖК «Алые паруса» в Заволжском районе города Ярославля – это уникальный проект, который будет располагаться по улице Красноборской, вблизи дома 41. ЖК «Алые паруса» состоит из 4 многоквартирных домов этажностью от 10 до 24 этажей. Все дома комплекса строятся в едином архитектурном стиле по кирпично-монолитной технологии. Планируемый срок сдачи первого дома — 4 квартал 2022 года. В доме 24 жилых этажа, 2 подъезда, 238 квартир: в том числе однокомнатные квартиры площадью от 37 кв.м., двухкомнатные квартиры от 57 до 72 кв.м. и трехкомнатные квартиры 89 кв.м. Квартиры будут сдаваться с предчистовой отделкой: стены – простая штукатурка без обоев и окраски, потолки – бетонная плита монолитного каркаса без окраски, полы – полусухая цементно-песчаная стяжка без покрытия, скрытая электропроводка с розетками и выключателями, система отопления с радиаторами, стояки холодного и горячего водоснабжения с приборами учета, канализационный стояк, без межкомнатных дверей, без электроплиты, без сантехники, окна ПВХ, входная дверь. Высота потолков 2,7 метра. Мусоропроводы не предусмотрены, в каждом подъезде 3 лифта (пассажирский и 2 грузовых). В каждом подъезде 4 строения предусмотрены коммерческие помещения 20,08 кв.м. На благоустроенной территории появятся тротуары, наземная парковка, детская площадка, зеленые насаждения и зона отдыха. Экология в районе комплекса хорошая, т.к. он расположен недалеко от Тверицкого бора. Инфраструктура рядом с ЖК «Алые паруса» обеспеченна сетевыми продуктовыми магазинами «Дикси», «Пятерочка» и «Магнит», в километре расположен гипермаркет Глобус и Леруа Мерлен, чуть дальше — детские сады, школы. Рядом с ЖК по улице Красноборской располагаются остановочные пункты. Бесплатное сопровождение сделки с использованием счетов эскроу.</description>
+<floor>19</floor>
+<floors-total>24</floors-total>
+<ceiling-height>2.7</ceiling-height>
+<built-year>2024</built-year>
+<ready-quarter>4</ready-quarter>
+<type>продажа</type>
+<property-type>living</property-type>
+<category>flat</category>
+<deal-status>reassignment</deal-status>
+<living-space>
+<value>33.27</value>
+</living-space>
+<room-space>
+<value>14.76</value>
+</room-space>
+<room-space>
+<value>18.51</value>
+</room-space>
+<rooms>2</rooms>
+<rooms-offered>2</rooms-offered>
+<kitchen-space>
+<value>9.01</value>
+</kitchen-space>
+<renovation>черновая отделка</renovation>
+<window-view>во двор</window-view>
+<balcony>лоджия</balcony>
+<bathroom-unit>1</bathroom-unit>
+<building-name>ЖК "Алые паруса"</building-name>
+<building-type>монолит</building-type>
+<building-state>unfinished</building-state>
+<lift>true</lift>
+<parking>0</parking>
+<rubbish-chute>0</rubbish-chute>
+</offer>
+<offer internal-id="apartment_46">
+<creation-date>2021-07-22T00:00:00+03:00</creation-date>
+<location>
+<country>Россия</country>
+<region>Ярославль</region>
+<district>Дзержинский</district>
+<locality-name>Ярославская область</locality-name>
+<address>Красноборская, 32</address>
+</location>
+<sales-agent>
+<name>Вадим</name>
+<phone>8(996)241-25-71</phone>
+<category>agency</category>
+</sales-agent>
+<price>
+<value>3202100</value>
+<currency>RUB</currency>
+</price>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%90%D0%BB%D1%8B%D0%B5%20%D0%BF%D0%B0%D1%80%D1%83%D1%81%D0%B0%20%D0%BF%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/2%D0%BA-58.22.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%90%D0%BB%D1%8B%D0%B5%20%D0%BF%D0%B0%D1%80%D1%83%D1%81%D0%B0%20%D0%BF%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/2%D0%BA-58.22.jpg</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_150832.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_150841.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_150848.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_150851.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_151019.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_151022.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_151034.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_151045.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_151253.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_151326.jpg?raw=true</image>
+<area>
+<value>58.22</value>
+<unit>sq. m</unit>
+</area>
+<description>ЖК «Алые паруса» в Заволжском районе города Ярославля – это уникальный проект, который будет располагаться по улице Красноборской, вблизи дома 41. ЖК «Алые паруса» состоит из 4 многоквартирных домов этажностью от 10 до 24 этажей. Все дома комплекса строятся в едином архитектурном стиле по кирпично-монолитной технологии. Планируемый срок сдачи первого дома — 4 квартал 2022 года. В доме 24 жилых этажа, 2 подъезда, 238 квартир: в том числе однокомнатные квартиры площадью от 37 кв.м., двухкомнатные квартиры от 57 до 72 кв.м. и трехкомнатные квартиры 89 кв.м. Квартиры будут сдаваться с предчистовой отделкой: стены – простая штукатурка без обоев и окраски, потолки – бетонная плита монолитного каркаса без окраски, полы – полусухая цементно-песчаная стяжка без покрытия, скрытая электропроводка с розетками и выключателями, система отопления с радиаторами, стояки холодного и горячего водоснабжения с приборами учета, канализационный стояк, без межкомнатных дверей, без электроплиты, без сантехники, окна ПВХ, входная дверь. Высота потолков 2,7 метра. Мусоропроводы не предусмотрены, в каждом подъезде 3 лифта (пассажирский и 2 грузовых). В каждом подъезде 4 строения предусмотрены коммерческие помещения 20,08 кв.м. На благоустроенной территории появятся тротуары, наземная парковка, детская площадка, зеленые насаждения и зона отдыха. Экология в районе комплекса хорошая, т.к. он расположен недалеко от Тверицкого бора. Инфраструктура рядом с ЖК «Алые паруса» обеспеченна сетевыми продуктовыми магазинами «Дикси», «Пятерочка» и «Магнит», в километре расположен гипермаркет Глобус и Леруа Мерлен, чуть дальше — детские сады, школы. Рядом с ЖК по улице Красноборской располагаются остановочные пункты. Бесплатное сопровождение сделки с использованием счетов эскроу.</description>
+<floor>18</floor>
+<floors-total>24</floors-total>
+<ceiling-height>2.7</ceiling-height>
+<built-year>2024</built-year>
+<ready-quarter>4</ready-quarter>
+<type>продажа</type>
+<property-type>living</property-type>
+<category>flat</category>
+<deal-status>reassignment</deal-status>
+<living-space>
+<value>33.27</value>
+</living-space>
+<room-space>
+<value>14.76</value>
+</room-space>
+<room-space>
+<value>18.51</value>
+</room-space>
+<rooms>2</rooms>
+<rooms-offered>2</rooms-offered>
+<kitchen-space>
+<value>9.01</value>
+</kitchen-space>
+<renovation>черновая отделка</renovation>
+<window-view>во двор</window-view>
+<balcony>лоджия</balcony>
+<bathroom-unit>1</bathroom-unit>
+<building-name>ЖК "Алые паруса"</building-name>
+<building-type>монолит</building-type>
+<building-state>unfinished</building-state>
+<lift>true</lift>
+<parking>0</parking>
+<rubbish-chute>0</rubbish-chute>
+</offer>
+<offer internal-id="apartment_47">
+<creation-date>2021-07-22T00:00:00+03:00</creation-date>
+<location>
+<country>Россия</country>
+<region>Ярославль</region>
+<district>Дзержинский</district>
+<locality-name>Ярославская область</locality-name>
+<address>Красноборская, 32</address>
+</location>
+<sales-agent>
+<name>Вадим</name>
+<phone>8(996)241-25-71</phone>
+<category>agency</category>
+</sales-agent>
+<price>
+<value>3216950</value>
+<currency>RUB</currency>
+</price>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%90%D0%BB%D1%8B%D0%B5%20%D0%BF%D0%B0%D1%80%D1%83%D1%81%D0%B0%20%D0%BF%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/2%D0%BA-58.22.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%90%D0%BB%D1%8B%D0%B5%20%D0%BF%D0%B0%D1%80%D1%83%D1%81%D0%B0%20%D0%BF%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/2%D0%BA-58.22.jpg</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_150832.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_150841.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_150848.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_150851.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_151019.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_151022.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_151034.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_151045.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_151253.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_151326.jpg?raw=true</image>
+<area>
+<value>58.49</value>
+<unit>sq. m</unit>
+</area>
+<description>ЖК «Алые паруса» в Заволжском районе города Ярославля – это уникальный проект, который будет располагаться по улице Красноборской, вблизи дома 41. ЖК «Алые паруса» состоит из 4 многоквартирных домов этажностью от 10 до 24 этажей. Все дома комплекса строятся в едином архитектурном стиле по кирпично-монолитной технологии. Планируемый срок сдачи первого дома — 4 квартал 2022 года. В доме 24 жилых этажа, 2 подъезда, 238 квартир: в том числе однокомнатные квартиры площадью от 37 кв.м., двухкомнатные квартиры от 57 до 72 кв.м. и трехкомнатные квартиры 89 кв.м. Квартиры будут сдаваться с предчистовой отделкой: стены – простая штукатурка без обоев и окраски, потолки – бетонная плита монолитного каркаса без окраски, полы – полусухая цементно-песчаная стяжка без покрытия, скрытая электропроводка с розетками и выключателями, система отопления с радиаторами, стояки холодного и горячего водоснабжения с приборами учета, канализационный стояк, без межкомнатных дверей, без электроплиты, без сантехники, окна ПВХ, входная дверь. Высота потолков 2,7 метра. Мусоропроводы не предусмотрены, в каждом подъезде 3 лифта (пассажирский и 2 грузовых). В каждом подъезде 4 строения предусмотрены коммерческие помещения 20,08 кв.м. На благоустроенной территории появятся тротуары, наземная парковка, детская площадка, зеленые насаждения и зона отдыха. Экология в районе комплекса хорошая, т.к. он расположен недалеко от Тверицкого бора. Инфраструктура рядом с ЖК «Алые паруса» обеспеченна сетевыми продуктовыми магазинами «Дикси», «Пятерочка» и «Магнит», в километре расположен гипермаркет Глобус и Леруа Мерлен, чуть дальше — детские сады, школы. Рядом с ЖК по улице Красноборской располагаются остановочные пункты. Бесплатное сопровождение сделки с использованием счетов эскроу.</description>
+<floor>17</floor>
+<floors-total>24</floors-total>
+<ceiling-height>2.7</ceiling-height>
+<built-year>2024</built-year>
+<ready-quarter>4</ready-quarter>
+<type>продажа</type>
+<property-type>living</property-type>
+<category>flat</category>
+<deal-status>reassignment</deal-status>
+<living-space>
+<value>33.27</value>
+</living-space>
+<room-space>
+<value>14.76</value>
+</room-space>
+<room-space>
+<value>18.51</value>
+</room-space>
+<rooms>2</rooms>
+<rooms-offered>2</rooms-offered>
+<kitchen-space>
+<value>9.28</value>
+</kitchen-space>
+<renovation>черновая отделка</renovation>
+<window-view>во двор</window-view>
+<balcony>лоджия</balcony>
+<bathroom-unit>1</bathroom-unit>
+<building-name>ЖК "Алые паруса"</building-name>
+<building-type>монолит</building-type>
+<building-state>unfinished</building-state>
+<lift>true</lift>
+<parking>0</parking>
+<rubbish-chute>0</rubbish-chute>
+</offer>
+<offer internal-id="apartment_48">
+<creation-date>2021-07-22T00:00:00+03:00</creation-date>
+<location>
+<country>Россия</country>
+<region>Ярославль</region>
+<district>Дзержинский</district>
+<locality-name>Ярославская область</locality-name>
+<address>Красноборская, 32</address>
+</location>
+<sales-agent>
+<name>Вадим</name>
+<phone>8(996)241-25-71</phone>
+<category>agency</category>
+</sales-agent>
+<price>
+<value>3216950</value>
+<currency>RUB</currency>
+</price>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%90%D0%BB%D1%8B%D0%B5%20%D0%BF%D0%B0%D1%80%D1%83%D1%81%D0%B0%20%D0%BF%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/2%D0%BA-58.22.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%90%D0%BB%D1%8B%D0%B5%20%D0%BF%D0%B0%D1%80%D1%83%D1%81%D0%B0%20%D0%BF%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/2%D0%BA-58.22.jpg</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_150832.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_150841.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_150848.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_150851.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_151019.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_151022.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_151034.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_151045.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_151253.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_151326.jpg?raw=true</image>
+<area>
+<value>58.49</value>
+<unit>sq. m</unit>
+</area>
+<description>ЖК «Алые паруса» в Заволжском районе города Ярославля – это уникальный проект, который будет располагаться по улице Красноборской, вблизи дома 41. ЖК «Алые паруса» состоит из 4 многоквартирных домов этажностью от 10 до 24 этажей. Все дома комплекса строятся в едином архитектурном стиле по кирпично-монолитной технологии. Планируемый срок сдачи первого дома — 4 квартал 2022 года. В доме 24 жилых этажа, 2 подъезда, 238 квартир: в том числе однокомнатные квартиры площадью от 37 кв.м., двухкомнатные квартиры от 57 до 72 кв.м. и трехкомнатные квартиры 89 кв.м. Квартиры будут сдаваться с предчистовой отделкой: стены – простая штукатурка без обоев и окраски, потолки – бетонная плита монолитного каркаса без окраски, полы – полусухая цементно-песчаная стяжка без покрытия, скрытая электропроводка с розетками и выключателями, система отопления с радиаторами, стояки холодного и горячего водоснабжения с приборами учета, канализационный стояк, без межкомнатных дверей, без электроплиты, без сантехники, окна ПВХ, входная дверь. Высота потолков 2,7 метра. Мусоропроводы не предусмотрены, в каждом подъезде 3 лифта (пассажирский и 2 грузовых). В каждом подъезде 4 строения предусмотрены коммерческие помещения 20,08 кв.м. На благоустроенной территории появятся тротуары, наземная парковка, детская площадка, зеленые насаждения и зона отдыха. Экология в районе комплекса хорошая, т.к. он расположен недалеко от Тверицкого бора. Инфраструктура рядом с ЖК «Алые паруса» обеспеченна сетевыми продуктовыми магазинами «Дикси», «Пятерочка» и «Магнит», в километре расположен гипермаркет Глобус и Леруа Мерлен, чуть дальше — детские сады, школы. Рядом с ЖК по улице Красноборской располагаются остановочные пункты. Бесплатное сопровождение сделки с использованием счетов эскроу.</description>
+<floor>16</floor>
+<floors-total>24</floors-total>
+<ceiling-height>2.7</ceiling-height>
+<built-year>2024</built-year>
+<ready-quarter>4</ready-quarter>
+<type>продажа</type>
+<property-type>living</property-type>
+<category>flat</category>
+<deal-status>reassignment</deal-status>
+<living-space>
+<value>33.27</value>
+</living-space>
+<room-space>
+<value>14.76</value>
+</room-space>
+<room-space>
+<value>18.51</value>
+</room-space>
+<rooms>2</rooms>
+<rooms-offered>2</rooms-offered>
+<kitchen-space>
+<value>9.28</value>
+</kitchen-space>
+<renovation>черновая отделка</renovation>
+<window-view>во двор</window-view>
+<balcony>лоджия</balcony>
+<bathroom-unit>1</bathroom-unit>
+<building-name>ЖК "Алые паруса"</building-name>
+<building-type>монолит</building-type>
+<building-state>unfinished</building-state>
+<lift>true</lift>
+<parking>0</parking>
+<rubbish-chute>0</rubbish-chute>
+</offer>
+<offer internal-id="apartment_49">
+<creation-date>2021-07-22T00:00:00+03:00</creation-date>
+<location>
+<country>Россия</country>
+<region>Ярославль</region>
+<district>Дзержинский</district>
+<locality-name>Ярославская область</locality-name>
+<address>Красноборская, 32</address>
+</location>
+<sales-agent>
+<name>Вадим</name>
+<phone>8(996)241-25-71</phone>
+<category>agency</category>
+</sales-agent>
+<price>
+<value>3216950</value>
+<currency>RUB</currency>
+</price>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%90%D0%BB%D1%8B%D0%B5%20%D0%BF%D0%B0%D1%80%D1%83%D1%81%D0%B0%20%D0%BF%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/2%D0%BA-58.22.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%90%D0%BB%D1%8B%D0%B5%20%D0%BF%D0%B0%D1%80%D1%83%D1%81%D0%B0%20%D0%BF%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/2%D0%BA-58.22.jpg</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_150832.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_150841.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_150848.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_150851.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_151019.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_151022.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_151034.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_151045.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_151253.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_151326.jpg?raw=true</image>
+<area>
+<value>58.49</value>
+<unit>sq. m</unit>
+</area>
+<description>ЖК «Алые паруса» в Заволжском районе города Ярославля – это уникальный проект, который будет располагаться по улице Красноборской, вблизи дома 41. ЖК «Алые паруса» состоит из 4 многоквартирных домов этажностью от 10 до 24 этажей. Все дома комплекса строятся в едином архитектурном стиле по кирпично-монолитной технологии. Планируемый срок сдачи первого дома — 4 квартал 2022 года. В доме 24 жилых этажа, 2 подъезда, 238 квартир: в том числе однокомнатные квартиры площадью от 37 кв.м., двухкомнатные квартиры от 57 до 72 кв.м. и трехкомнатные квартиры 89 кв.м. Квартиры будут сдаваться с предчистовой отделкой: стены – простая штукатурка без обоев и окраски, потолки – бетонная плита монолитного каркаса без окраски, полы – полусухая цементно-песчаная стяжка без покрытия, скрытая электропроводка с розетками и выключателями, система отопления с радиаторами, стояки холодного и горячего водоснабжения с приборами учета, канализационный стояк, без межкомнатных дверей, без электроплиты, без сантехники, окна ПВХ, входная дверь. Высота потолков 2,7 метра. Мусоропроводы не предусмотрены, в каждом подъезде 3 лифта (пассажирский и 2 грузовых). В каждом подъезде 4 строения предусмотрены коммерческие помещения 20,08 кв.м. На благоустроенной территории появятся тротуары, наземная парковка, детская площадка, зеленые насаждения и зона отдыха. Экология в районе комплекса хорошая, т.к. он расположен недалеко от Тверицкого бора. Инфраструктура рядом с ЖК «Алые паруса» обеспеченна сетевыми продуктовыми магазинами «Дикси», «Пятерочка» и «Магнит», в километре расположен гипермаркет Глобус и Леруа Мерлен, чуть дальше — детские сады, школы. Рядом с ЖК по улице Красноборской располагаются остановочные пункты. Бесплатное сопровождение сделки с использованием счетов эскроу.</description>
+<floor>15</floor>
+<floors-total>24</floors-total>
+<ceiling-height>2.7</ceiling-height>
+<built-year>2024</built-year>
+<ready-quarter>4</ready-quarter>
+<type>продажа</type>
+<property-type>living</property-type>
+<category>flat</category>
+<deal-status>reassignment</deal-status>
+<living-space>
+<value>33.27</value>
+</living-space>
+<room-space>
+<value>14.76</value>
+</room-space>
+<room-space>
+<value>18.51</value>
+</room-space>
+<rooms>2</rooms>
+<rooms-offered>2</rooms-offered>
+<kitchen-space>
+<value>9.28</value>
+</kitchen-space>
+<renovation>черновая отделка</renovation>
+<window-view>во двор</window-view>
+<balcony>лоджия</balcony>
+<bathroom-unit>1</bathroom-unit>
+<building-name>ЖК "Алые паруса"</building-name>
+<building-type>монолит</building-type>
+<building-state>unfinished</building-state>
+<lift>true</lift>
+<parking>0</parking>
+<rubbish-chute>0</rubbish-chute>
+</offer>
+<offer internal-id="apartment_50">
+<creation-date>2021-07-22T00:00:00+03:00</creation-date>
+<location>
+<country>Россия</country>
+<region>Ярославль</region>
+<district>Дзержинский</district>
+<locality-name>Ярославская область</locality-name>
+<address>Красноборская, 32</address>
+</location>
+<sales-agent>
+<name>Вадим</name>
+<phone>8(996)241-25-71</phone>
+<category>agency</category>
+</sales-agent>
+<price>
+<value>3216950</value>
+<currency>RUB</currency>
+</price>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%90%D0%BB%D1%8B%D0%B5%20%D0%BF%D0%B0%D1%80%D1%83%D1%81%D0%B0%20%D0%BF%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/2%D0%BA-58.22.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%90%D0%BB%D1%8B%D0%B5%20%D0%BF%D0%B0%D1%80%D1%83%D1%81%D0%B0%20%D0%BF%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/2%D0%BA-58.22.jpg</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_150832.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_150841.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_150848.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_150851.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_151019.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_151022.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_151034.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_151045.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_151253.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_151326.jpg?raw=true</image>
+<area>
+<value>58.49</value>
+<unit>sq. m</unit>
+</area>
+<description>ЖК «Алые паруса» в Заволжском районе города Ярославля – это уникальный проект, который будет располагаться по улице Красноборской, вблизи дома 41. ЖК «Алые паруса» состоит из 4 многоквартирных домов этажностью от 10 до 24 этажей. Все дома комплекса строятся в едином архитектурном стиле по кирпично-монолитной технологии. Планируемый срок сдачи первого дома — 4 квартал 2022 года. В доме 24 жилых этажа, 2 подъезда, 238 квартир: в том числе однокомнатные квартиры площадью от 37 кв.м., двухкомнатные квартиры от 57 до 72 кв.м. и трехкомнатные квартиры 89 кв.м. Квартиры будут сдаваться с предчистовой отделкой: стены – простая штукатурка без обоев и окраски, потолки – бетонная плита монолитного каркаса без окраски, полы – полусухая цементно-песчаная стяжка без покрытия, скрытая электропроводка с розетками и выключателями, система отопления с радиаторами, стояки холодного и горячего водоснабжения с приборами учета, канализационный стояк, без межкомнатных дверей, без электроплиты, без сантехники, окна ПВХ, входная дверь. Высота потолков 2,7 метра. Мусоропроводы не предусмотрены, в каждом подъезде 3 лифта (пассажирский и 2 грузовых). В каждом подъезде 4 строения предусмотрены коммерческие помещения 20,08 кв.м. На благоустроенной территории появятся тротуары, наземная парковка, детская площадка, зеленые насаждения и зона отдыха. Экология в районе комплекса хорошая, т.к. он расположен недалеко от Тверицкого бора. Инфраструктура рядом с ЖК «Алые паруса» обеспеченна сетевыми продуктовыми магазинами «Дикси», «Пятерочка» и «Магнит», в километре расположен гипермаркет Глобус и Леруа Мерлен, чуть дальше — детские сады, школы. Рядом с ЖК по улице Красноборской располагаются остановочные пункты. Бесплатное сопровождение сделки с использованием счетов эскроу.</description>
+<floor>14</floor>
+<floors-total>24</floors-total>
+<ceiling-height>2.7</ceiling-height>
+<built-year>2024</built-year>
+<ready-quarter>4</ready-quarter>
+<type>продажа</type>
+<property-type>living</property-type>
+<category>flat</category>
+<deal-status>reassignment</deal-status>
+<living-space>
+<value>33.27</value>
+</living-space>
+<room-space>
+<value>14.76</value>
+</room-space>
+<room-space>
+<value>18.51</value>
+</room-space>
+<rooms>2</rooms>
+<rooms-offered>2</rooms-offered>
+<kitchen-space>
+<value>9.28</value>
+</kitchen-space>
+<renovation>черновая отделка</renovation>
+<window-view>во двор</window-view>
+<balcony>лоджия</balcony>
+<bathroom-unit>1</bathroom-unit>
+<building-name>ЖК "Алые паруса"</building-name>
+<building-type>монолит</building-type>
+<building-state>unfinished</building-state>
+<lift>true</lift>
+<parking>0</parking>
+<rubbish-chute>0</rubbish-chute>
+</offer>
+<offer internal-id="apartment_51">
+<creation-date>2021-07-22T00:00:00+03:00</creation-date>
+<location>
+<country>Россия</country>
+<region>Ярославль</region>
+<district>Дзержинский</district>
+<locality-name>Ярославская область</locality-name>
+<address>Красноборская, 32</address>
+</location>
+<sales-agent>
+<name>Вадим</name>
+<phone>8(996)241-25-71</phone>
+<category>agency</category>
+</sales-agent>
+<price>
+<value>3216950</value>
+<currency>RUB</currency>
+</price>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%90%D0%BB%D1%8B%D0%B5%20%D0%BF%D0%B0%D1%80%D1%83%D1%81%D0%B0%20%D0%BF%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/2%D0%BA-58.22.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%90%D0%BB%D1%8B%D0%B5%20%D0%BF%D0%B0%D1%80%D1%83%D1%81%D0%B0%20%D0%BF%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/2%D0%BA-58.22.jpg</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_150832.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_150841.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_150848.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_150851.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_151019.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_151022.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_151034.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_151045.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_151253.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_151326.jpg?raw=true</image>
+<area>
+<value>58.49</value>
+<unit>sq. m</unit>
+</area>
+<description>ЖК «Алые паруса» в Заволжском районе города Ярославля – это уникальный проект, который будет располагаться по улице Красноборской, вблизи дома 41. ЖК «Алые паруса» состоит из 4 многоквартирных домов этажностью от 10 до 24 этажей. Все дома комплекса строятся в едином архитектурном стиле по кирпично-монолитной технологии. Планируемый срок сдачи первого дома — 4 квартал 2022 года. В доме 24 жилых этажа, 2 подъезда, 238 квартир: в том числе однокомнатные квартиры площадью от 37 кв.м., двухкомнатные квартиры от 57 до 72 кв.м. и трехкомнатные квартиры 89 кв.м. Квартиры будут сдаваться с предчистовой отделкой: стены – простая штукатурка без обоев и окраски, потолки – бетонная плита монолитного каркаса без окраски, полы – полусухая цементно-песчаная стяжка без покрытия, скрытая электропроводка с розетками и выключателями, система отопления с радиаторами, стояки холодного и горячего водоснабжения с приборами учета, канализационный стояк, без межкомнатных дверей, без электроплиты, без сантехники, окна ПВХ, входная дверь. Высота потолков 2,7 метра. Мусоропроводы не предусмотрены, в каждом подъезде 3 лифта (пассажирский и 2 грузовых). В каждом подъезде 4 строения предусмотрены коммерческие помещения 20,08 кв.м. На благоустроенной территории появятся тротуары, наземная парковка, детская площадка, зеленые насаждения и зона отдыха. Экология в районе комплекса хорошая, т.к. он расположен недалеко от Тверицкого бора. Инфраструктура рядом с ЖК «Алые паруса» обеспеченна сетевыми продуктовыми магазинами «Дикси», «Пятерочка» и «Магнит», в километре расположен гипермаркет Глобус и Леруа Мерлен, чуть дальше — детские сады, школы. Рядом с ЖК по улице Красноборской располагаются остановочные пункты. Бесплатное сопровождение сделки с использованием счетов эскроу.</description>
+<floor>13</floor>
+<floors-total>24</floors-total>
+<ceiling-height>2.7</ceiling-height>
+<built-year>2024</built-year>
+<ready-quarter>4</ready-quarter>
+<type>продажа</type>
+<property-type>living</property-type>
+<category>flat</category>
+<deal-status>reassignment</deal-status>
+<living-space>
+<value>33.27</value>
+</living-space>
+<room-space>
+<value>14.76</value>
+</room-space>
+<room-space>
+<value>18.51</value>
+</room-space>
+<rooms>2</rooms>
+<rooms-offered>2</rooms-offered>
+<kitchen-space>
+<value>9.28</value>
+</kitchen-space>
+<renovation>черновая отделка</renovation>
+<window-view>во двор</window-view>
+<balcony>лоджия</balcony>
+<bathroom-unit>1</bathroom-unit>
+<building-name>ЖК "Алые паруса"</building-name>
+<building-type>монолит</building-type>
+<building-state>unfinished</building-state>
+<lift>true</lift>
+<parking>0</parking>
+<rubbish-chute>0</rubbish-chute>
+</offer>
+<offer internal-id="apartment_52">
+<creation-date>2021-07-22T00:00:00+03:00</creation-date>
+<location>
+<country>Россия</country>
+<region>Ярославль</region>
+<district>Дзержинский</district>
+<locality-name>Ярославская область</locality-name>
+<address>Красноборская, 32</address>
+</location>
+<sales-agent>
+<name>Вадим</name>
+<phone>8(996)241-25-71</phone>
+<category>agency</category>
+</sales-agent>
+<price>
+<value>3216950</value>
+<currency>RUB</currency>
+</price>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%90%D0%BB%D1%8B%D0%B5%20%D0%BF%D0%B0%D1%80%D1%83%D1%81%D0%B0%20%D0%BF%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/2%D0%BA-58.22.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%90%D0%BB%D1%8B%D0%B5%20%D0%BF%D0%B0%D1%80%D1%83%D1%81%D0%B0%20%D0%BF%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/2%D0%BA-58.22.jpg</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_150832.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_150841.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_150848.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_150851.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_151019.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_151022.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_151034.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_151045.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_151253.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_151326.jpg?raw=true</image>
+<area>
+<value>58.49</value>
+<unit>sq. m</unit>
+</area>
+<description>ЖК «Алые паруса» в Заволжском районе города Ярославля – это уникальный проект, который будет располагаться по улице Красноборской, вблизи дома 41. ЖК «Алые паруса» состоит из 4 многоквартирных домов этажностью от 10 до 24 этажей. Все дома комплекса строятся в едином архитектурном стиле по кирпично-монолитной технологии. Планируемый срок сдачи первого дома — 4 квартал 2022 года. В доме 24 жилых этажа, 2 подъезда, 238 квартир: в том числе однокомнатные квартиры площадью от 37 кв.м., двухкомнатные квартиры от 57 до 72 кв.м. и трехкомнатные квартиры 89 кв.м. Квартиры будут сдаваться с предчистовой отделкой: стены – простая штукатурка без обоев и окраски, потолки – бетонная плита монолитного каркаса без окраски, полы – полусухая цементно-песчаная стяжка без покрытия, скрытая электропроводка с розетками и выключателями, система отопления с радиаторами, стояки холодного и горячего водоснабжения с приборами учета, канализационный стояк, без межкомнатных дверей, без электроплиты, без сантехники, окна ПВХ, входная дверь. Высота потолков 2,7 метра. Мусоропроводы не предусмотрены, в каждом подъезде 3 лифта (пассажирский и 2 грузовых). В каждом подъезде 4 строения предусмотрены коммерческие помещения 20,08 кв.м. На благоустроенной территории появятся тротуары, наземная парковка, детская площадка, зеленые насаждения и зона отдыха. Экология в районе комплекса хорошая, т.к. он расположен недалеко от Тверицкого бора. Инфраструктура рядом с ЖК «Алые паруса» обеспеченна сетевыми продуктовыми магазинами «Дикси», «Пятерочка» и «Магнит», в километре расположен гипермаркет Глобус и Леруа Мерлен, чуть дальше — детские сады, школы. Рядом с ЖК по улице Красноборской располагаются остановочные пункты. Бесплатное сопровождение сделки с использованием счетов эскроу.</description>
+<floor>12</floor>
+<floors-total>24</floors-total>
+<ceiling-height>2.7</ceiling-height>
+<built-year>2024</built-year>
+<ready-quarter>4</ready-quarter>
+<type>продажа</type>
+<property-type>living</property-type>
+<category>flat</category>
+<deal-status>reassignment</deal-status>
+<living-space>
+<value>33.27</value>
+</living-space>
+<room-space>
+<value>14.76</value>
+</room-space>
+<room-space>
+<value>18.51</value>
+</room-space>
+<rooms>2</rooms>
+<rooms-offered>2</rooms-offered>
+<kitchen-space>
+<value>9.28</value>
+</kitchen-space>
+<renovation>черновая отделка</renovation>
+<window-view>во двор</window-view>
+<balcony>лоджия</balcony>
+<bathroom-unit>1</bathroom-unit>
+<building-name>ЖК "Алые паруса"</building-name>
+<building-type>монолит</building-type>
+<building-state>unfinished</building-state>
+<lift>true</lift>
+<parking>0</parking>
+<rubbish-chute>0</rubbish-chute>
+</offer>
+<offer internal-id="apartment_53">
+<creation-date>2021-07-22T00:00:00+03:00</creation-date>
+<location>
+<country>Россия</country>
+<region>Ярославль</region>
+<district>Дзержинский</district>
+<locality-name>Ярославская область</locality-name>
+<address>Красноборская, 32</address>
+</location>
+<sales-agent>
+<name>Вадим</name>
+<phone>8(996)241-25-71</phone>
+<category>agency</category>
+</sales-agent>
+<price>
+<value>3216950</value>
+<currency>RUB</currency>
+</price>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%90%D0%BB%D1%8B%D0%B5%20%D0%BF%D0%B0%D1%80%D1%83%D1%81%D0%B0%20%D0%BF%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/2%D0%BA-58.22.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%90%D0%BB%D1%8B%D0%B5%20%D0%BF%D0%B0%D1%80%D1%83%D1%81%D0%B0%20%D0%BF%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/2%D0%BA-58.22.jpg</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_150832.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_150841.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_150848.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_150851.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_151019.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_151022.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_151034.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_151045.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_151253.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_151326.jpg?raw=true</image>
+<area>
+<value>58.49</value>
+<unit>sq. m</unit>
+</area>
+<description>ЖК «Алые паруса» в Заволжском районе города Ярославля – это уникальный проект, который будет располагаться по улице Красноборской, вблизи дома 41. ЖК «Алые паруса» состоит из 4 многоквартирных домов этажностью от 10 до 24 этажей. Все дома комплекса строятся в едином архитектурном стиле по кирпично-монолитной технологии. Планируемый срок сдачи первого дома — 4 квартал 2022 года. В доме 24 жилых этажа, 2 подъезда, 238 квартир: в том числе однокомнатные квартиры площадью от 37 кв.м., двухкомнатные квартиры от 57 до 72 кв.м. и трехкомнатные квартиры 89 кв.м. Квартиры будут сдаваться с предчистовой отделкой: стены – простая штукатурка без обоев и окраски, потолки – бетонная плита монолитного каркаса без окраски, полы – полусухая цементно-песчаная стяжка без покрытия, скрытая электропроводка с розетками и выключателями, система отопления с радиаторами, стояки холодного и горячего водоснабжения с приборами учета, канализационный стояк, без межкомнатных дверей, без электроплиты, без сантехники, окна ПВХ, входная дверь. Высота потолков 2,7 метра. Мусоропроводы не предусмотрены, в каждом подъезде 3 лифта (пассажирский и 2 грузовых). В каждом подъезде 4 строения предусмотрены коммерческие помещения 20,08 кв.м. На благоустроенной территории появятся тротуары, наземная парковка, детская площадка, зеленые насаждения и зона отдыха. Экология в районе комплекса хорошая, т.к. он расположен недалеко от Тверицкого бора. Инфраструктура рядом с ЖК «Алые паруса» обеспеченна сетевыми продуктовыми магазинами «Дикси», «Пятерочка» и «Магнит», в километре расположен гипермаркет Глобус и Леруа Мерлен, чуть дальше — детские сады, школы. Рядом с ЖК по улице Красноборской располагаются остановочные пункты. Бесплатное сопровождение сделки с использованием счетов эскроу.</description>
+<floor>11</floor>
+<floors-total>24</floors-total>
+<ceiling-height>2.7</ceiling-height>
+<built-year>2024</built-year>
+<ready-quarter>4</ready-quarter>
+<type>продажа</type>
+<property-type>living</property-type>
+<category>flat</category>
+<deal-status>reassignment</deal-status>
+<living-space>
+<value>33.27</value>
+</living-space>
+<room-space>
+<value>14.76</value>
+</room-space>
+<room-space>
+<value>18.51</value>
+</room-space>
+<rooms>2</rooms>
+<rooms-offered>2</rooms-offered>
+<kitchen-space>
+<value>9.28</value>
+</kitchen-space>
+<renovation>черновая отделка</renovation>
+<window-view>во двор</window-view>
+<balcony>лоджия</balcony>
+<bathroom-unit>1</bathroom-unit>
+<building-name>ЖК "Алые паруса"</building-name>
+<building-type>монолит</building-type>
+<building-state>unfinished</building-state>
+<lift>true</lift>
+<parking>0</parking>
+<rubbish-chute>0</rubbish-chute>
+</offer>
+<offer internal-id="apartment_54">
+<creation-date>2021-07-22T00:00:00+03:00</creation-date>
+<location>
+<country>Россия</country>
+<region>Ярославль</region>
+<district>Дзержинский</district>
+<locality-name>Ярославская область</locality-name>
+<address>Красноборская, 32</address>
+</location>
+<sales-agent>
+<name>Вадим</name>
+<phone>8(996)241-25-71</phone>
+<category>agency</category>
+</sales-agent>
+<price>
+<value>3216950</value>
+<currency>RUB</currency>
+</price>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%90%D0%BB%D1%8B%D0%B5%20%D0%BF%D0%B0%D1%80%D1%83%D1%81%D0%B0%20%D0%BF%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/2%D0%BA-58.22.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%90%D0%BB%D1%8B%D0%B5%20%D0%BF%D0%B0%D1%80%D1%83%D1%81%D0%B0%20%D0%BF%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/2%D0%BA-58.22.jpg</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_150832.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_150841.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_150848.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_150851.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_151019.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_151022.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_151034.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_151045.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_151253.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_151326.jpg?raw=true</image>
+<area>
+<value>58.49</value>
+<unit>sq. m</unit>
+</area>
+<description>ЖК «Алые паруса» в Заволжском районе города Ярославля – это уникальный проект, который будет располагаться по улице Красноборской, вблизи дома 41. ЖК «Алые паруса» состоит из 4 многоквартирных домов этажностью от 10 до 24 этажей. Все дома комплекса строятся в едином архитектурном стиле по кирпично-монолитной технологии. Планируемый срок сдачи первого дома — 4 квартал 2022 года. В доме 24 жилых этажа, 2 подъезда, 238 квартир: в том числе однокомнатные квартиры площадью от 37 кв.м., двухкомнатные квартиры от 57 до 72 кв.м. и трехкомнатные квартиры 89 кв.м. Квартиры будут сдаваться с предчистовой отделкой: стены – простая штукатурка без обоев и окраски, потолки – бетонная плита монолитного каркаса без окраски, полы – полусухая цементно-песчаная стяжка без покрытия, скрытая электропроводка с розетками и выключателями, система отопления с радиаторами, стояки холодного и горячего водоснабжения с приборами учета, канализационный стояк, без межкомнатных дверей, без электроплиты, без сантехники, окна ПВХ, входная дверь. Высота потолков 2,7 метра. Мусоропроводы не предусмотрены, в каждом подъезде 3 лифта (пассажирский и 2 грузовых). В каждом подъезде 4 строения предусмотрены коммерческие помещения 20,08 кв.м. На благоустроенной территории появятся тротуары, наземная парковка, детская площадка, зеленые насаждения и зона отдыха. Экология в районе комплекса хорошая, т.к. он расположен недалеко от Тверицкого бора. Инфраструктура рядом с ЖК «Алые паруса» обеспеченна сетевыми продуктовыми магазинами «Дикси», «Пятерочка» и «Магнит», в километре расположен гипермаркет Глобус и Леруа Мерлен, чуть дальше — детские сады, школы. Рядом с ЖК по улице Красноборской располагаются остановочные пункты. Бесплатное сопровождение сделки с использованием счетов эскроу.</description>
+<floor>10</floor>
+<floors-total>24</floors-total>
+<ceiling-height>2.7</ceiling-height>
+<built-year>2024</built-year>
+<ready-quarter>4</ready-quarter>
+<type>продажа</type>
+<property-type>living</property-type>
+<category>flat</category>
+<deal-status>reassignment</deal-status>
+<living-space>
+<value>33.27</value>
+</living-space>
+<room-space>
+<value>14.76</value>
+</room-space>
+<room-space>
+<value>18.51</value>
+</room-space>
+<rooms>2</rooms>
+<rooms-offered>2</rooms-offered>
+<kitchen-space>
+<value>9.28</value>
+</kitchen-space>
+<renovation>черновая отделка</renovation>
+<window-view>во двор</window-view>
+<balcony>лоджия</balcony>
+<bathroom-unit>1</bathroom-unit>
+<building-name>ЖК "Алые паруса"</building-name>
+<building-type>монолит</building-type>
+<building-state>unfinished</building-state>
+<lift>true</lift>
+<parking>0</parking>
+<rubbish-chute>0</rubbish-chute>
+</offer>
+<offer internal-id="apartment_55">
+<creation-date>2021-07-22T00:00:00+03:00</creation-date>
+<location>
+<country>Россия</country>
+<region>Ярославль</region>
+<district>Дзержинский</district>
+<locality-name>Ярославская область</locality-name>
+<address>Красноборская, 32</address>
+</location>
+<sales-agent>
+<name>Вадим</name>
+<phone>8(996)241-25-71</phone>
+<category>agency</category>
+</sales-agent>
+<price>
+<value>3216950</value>
+<currency>RUB</currency>
+</price>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%90%D0%BB%D1%8B%D0%B5%20%D0%BF%D0%B0%D1%80%D1%83%D1%81%D0%B0%20%D0%BF%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/2%D0%BA-58.22.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%90%D0%BB%D1%8B%D0%B5%20%D0%BF%D0%B0%D1%80%D1%83%D1%81%D0%B0%20%D0%BF%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/2%D0%BA-58.22.jpg</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_150832.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_150841.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_150848.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_150851.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_151019.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_151022.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_151034.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_151045.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_151253.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_151326.jpg?raw=true</image>
+<area>
+<value>58.49</value>
+<unit>sq. m</unit>
+</area>
+<description>ЖК «Алые паруса» в Заволжском районе города Ярославля – это уникальный проект, который будет располагаться по улице Красноборской, вблизи дома 41. ЖК «Алые паруса» состоит из 4 многоквартирных домов этажностью от 10 до 24 этажей. Все дома комплекса строятся в едином архитектурном стиле по кирпично-монолитной технологии. Планируемый срок сдачи первого дома — 4 квартал 2022 года. В доме 24 жилых этажа, 2 подъезда, 238 квартир: в том числе однокомнатные квартиры площадью от 37 кв.м., двухкомнатные квартиры от 57 до 72 кв.м. и трехкомнатные квартиры 89 кв.м. Квартиры будут сдаваться с предчистовой отделкой: стены – простая штукатурка без обоев и окраски, потолки – бетонная плита монолитного каркаса без окраски, полы – полусухая цементно-песчаная стяжка без покрытия, скрытая электропроводка с розетками и выключателями, система отопления с радиаторами, стояки холодного и горячего водоснабжения с приборами учета, канализационный стояк, без межкомнатных дверей, без электроплиты, без сантехники, окна ПВХ, входная дверь. Высота потолков 2,7 метра. Мусоропроводы не предусмотрены, в каждом подъезде 3 лифта (пассажирский и 2 грузовых). В каждом подъезде 4 строения предусмотрены коммерческие помещения 20,08 кв.м. На благоустроенной территории появятся тротуары, наземная парковка, детская площадка, зеленые насаждения и зона отдыха. Экология в районе комплекса хорошая, т.к. он расположен недалеко от Тверицкого бора. Инфраструктура рядом с ЖК «Алые паруса» обеспеченна сетевыми продуктовыми магазинами «Дикси», «Пятерочка» и «Магнит», в километре расположен гипермаркет Глобус и Леруа Мерлен, чуть дальше — детские сады, школы. Рядом с ЖК по улице Красноборской располагаются остановочные пункты. Бесплатное сопровождение сделки с использованием счетов эскроу.</description>
+<floor>9</floor>
+<floors-total>24</floors-total>
+<ceiling-height>2.7</ceiling-height>
+<built-year>2024</built-year>
+<ready-quarter>4</ready-quarter>
+<type>продажа</type>
+<property-type>living</property-type>
+<category>flat</category>
+<deal-status>reassignment</deal-status>
+<living-space>
+<value>33.27</value>
+</living-space>
+<room-space>
+<value>14.76</value>
+</room-space>
+<room-space>
+<value>18.51</value>
+</room-space>
+<rooms>2</rooms>
+<rooms-offered>2</rooms-offered>
+<kitchen-space>
+<value>9.28</value>
+</kitchen-space>
+<renovation>черновая отделка</renovation>
+<window-view>во двор</window-view>
+<balcony>лоджия</balcony>
+<bathroom-unit>1</bathroom-unit>
+<building-name>ЖК "Алые паруса"</building-name>
+<building-type>монолит</building-type>
+<building-state>unfinished</building-state>
+<lift>true</lift>
+<parking>0</parking>
+<rubbish-chute>0</rubbish-chute>
+</offer>
+<offer internal-id="apartment_56">
+<creation-date>2021-07-22T00:00:00+03:00</creation-date>
+<location>
+<country>Россия</country>
+<region>Ярославль</region>
+<district>Дзержинский</district>
+<locality-name>Ярославская область</locality-name>
+<address>Красноборская, 32</address>
+</location>
+<sales-agent>
+<name>Вадим</name>
+<phone>8(996)241-25-71</phone>
+<category>agency</category>
+</sales-agent>
+<price>
+<value>3216950</value>
+<currency>RUB</currency>
+</price>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%90%D0%BB%D1%8B%D0%B5%20%D0%BF%D0%B0%D1%80%D1%83%D1%81%D0%B0%20%D0%BF%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/2%D0%BA-58.22.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%90%D0%BB%D1%8B%D0%B5%20%D0%BF%D0%B0%D1%80%D1%83%D1%81%D0%B0%20%D0%BF%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/2%D0%BA-58.22.jpg</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_150832.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_150841.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_150848.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_150851.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_151019.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_151022.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_151034.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_151045.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_151253.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_151326.jpg?raw=true</image>
+<area>
+<value>58.49</value>
+<unit>sq. m</unit>
+</area>
+<description>ЖК «Алые паруса» в Заволжском районе города Ярославля – это уникальный проект, который будет располагаться по улице Красноборской, вблизи дома 41. ЖК «Алые паруса» состоит из 4 многоквартирных домов этажностью от 10 до 24 этажей. Все дома комплекса строятся в едином архитектурном стиле по кирпично-монолитной технологии. Планируемый срок сдачи первого дома — 4 квартал 2022 года. В доме 24 жилых этажа, 2 подъезда, 238 квартир: в том числе однокомнатные квартиры площадью от 37 кв.м., двухкомнатные квартиры от 57 до 72 кв.м. и трехкомнатные квартиры 89 кв.м. Квартиры будут сдаваться с предчистовой отделкой: стены – простая штукатурка без обоев и окраски, потолки – бетонная плита монолитного каркаса без окраски, полы – полусухая цементно-песчаная стяжка без покрытия, скрытая электропроводка с розетками и выключателями, система отопления с радиаторами, стояки холодного и горячего водоснабжения с приборами учета, канализационный стояк, без межкомнатных дверей, без электроплиты, без сантехники, окна ПВХ, входная дверь. Высота потолков 2,7 метра. Мусоропроводы не предусмотрены, в каждом подъезде 3 лифта (пассажирский и 2 грузовых). В каждом подъезде 4 строения предусмотрены коммерческие помещения 20,08 кв.м. На благоустроенной территории появятся тротуары, наземная парковка, детская площадка, зеленые насаждения и зона отдыха. Экология в районе комплекса хорошая, т.к. он расположен недалеко от Тверицкого бора. Инфраструктура рядом с ЖК «Алые паруса» обеспеченна сетевыми продуктовыми магазинами «Дикси», «Пятерочка» и «Магнит», в километре расположен гипермаркет Глобус и Леруа Мерлен, чуть дальше — детские сады, школы. Рядом с ЖК по улице Красноборской располагаются остановочные пункты. Бесплатное сопровождение сделки с использованием счетов эскроу.</description>
+<floor>8</floor>
+<floors-total>24</floors-total>
+<ceiling-height>2.7</ceiling-height>
+<built-year>2024</built-year>
+<ready-quarter>4</ready-quarter>
+<type>продажа</type>
+<property-type>living</property-type>
+<category>flat</category>
+<deal-status>reassignment</deal-status>
+<living-space>
+<value>33.27</value>
+</living-space>
+<room-space>
+<value>14.76</value>
+</room-space>
+<room-space>
+<value>18.51</value>
+</room-space>
+<rooms>2</rooms>
+<rooms-offered>2</rooms-offered>
+<kitchen-space>
+<value>9.28</value>
+</kitchen-space>
+<renovation>черновая отделка</renovation>
+<window-view>во двор</window-view>
+<balcony>лоджия</balcony>
+<bathroom-unit>1</bathroom-unit>
+<building-name>ЖК "Алые паруса"</building-name>
+<building-type>монолит</building-type>
+<building-state>unfinished</building-state>
+<lift>true</lift>
+<parking>0</parking>
+<rubbish-chute>0</rubbish-chute>
+</offer>
+<offer internal-id="apartment_57">
+<creation-date>2021-07-22T00:00:00+03:00</creation-date>
+<location>
+<country>Россия</country>
+<region>Ярославль</region>
+<district>Дзержинский</district>
+<locality-name>Ярославская область</locality-name>
+<address>Красноборская, 32</address>
+</location>
+<sales-agent>
+<name>Вадим</name>
+<phone>8(996)241-25-71</phone>
+<category>agency</category>
+</sales-agent>
+<price>
+<value>3216950</value>
+<currency>RUB</currency>
+</price>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%90%D0%BB%D1%8B%D0%B5%20%D0%BF%D0%B0%D1%80%D1%83%D1%81%D0%B0%20%D0%BF%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/2%D0%BA-58.22.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%90%D0%BB%D1%8B%D0%B5%20%D0%BF%D0%B0%D1%80%D1%83%D1%81%D0%B0%20%D0%BF%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/2%D0%BA-58.22.jpg</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_150832.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_150841.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_150848.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_150851.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_151019.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_151022.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_151034.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_151045.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_151253.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_151326.jpg?raw=true</image>
+<area>
+<value>58.49</value>
+<unit>sq. m</unit>
+</area>
+<description>ЖК «Алые паруса» в Заволжском районе города Ярославля – это уникальный проект, который будет располагаться по улице Красноборской, вблизи дома 41. ЖК «Алые паруса» состоит из 4 многоквартирных домов этажностью от 10 до 24 этажей. Все дома комплекса строятся в едином архитектурном стиле по кирпично-монолитной технологии. Планируемый срок сдачи первого дома — 4 квартал 2022 года. В доме 24 жилых этажа, 2 подъезда, 238 квартир: в том числе однокомнатные квартиры площадью от 37 кв.м., двухкомнатные квартиры от 57 до 72 кв.м. и трехкомнатные квартиры 89 кв.м. Квартиры будут сдаваться с предчистовой отделкой: стены – простая штукатурка без обоев и окраски, потолки – бетонная плита монолитного каркаса без окраски, полы – полусухая цементно-песчаная стяжка без покрытия, скрытая электропроводка с розетками и выключателями, система отопления с радиаторами, стояки холодного и горячего водоснабжения с приборами учета, канализационный стояк, без межкомнатных дверей, без электроплиты, без сантехники, окна ПВХ, входная дверь. Высота потолков 2,7 метра. Мусоропроводы не предусмотрены, в каждом подъезде 3 лифта (пассажирский и 2 грузовых). В каждом подъезде 4 строения предусмотрены коммерческие помещения 20,08 кв.м. На благоустроенной территории появятся тротуары, наземная парковка, детская площадка, зеленые насаждения и зона отдыха. Экология в районе комплекса хорошая, т.к. он расположен недалеко от Тверицкого бора. Инфраструктура рядом с ЖК «Алые паруса» обеспеченна сетевыми продуктовыми магазинами «Дикси», «Пятерочка» и «Магнит», в километре расположен гипермаркет Глобус и Леруа Мерлен, чуть дальше — детские сады, школы. Рядом с ЖК по улице Красноборской располагаются остановочные пункты. Бесплатное сопровождение сделки с использованием счетов эскроу.</description>
+<floor>5</floor>
+<floors-total>24</floors-total>
+<ceiling-height>2.7</ceiling-height>
+<built-year>2024</built-year>
+<ready-quarter>4</ready-quarter>
+<type>продажа</type>
+<property-type>living</property-type>
+<category>flat</category>
+<deal-status>reassignment</deal-status>
+<living-space>
+<value>33.27</value>
+</living-space>
+<room-space>
+<value>14.76</value>
+</room-space>
+<room-space>
+<value>18.51</value>
+</room-space>
+<rooms>2</rooms>
+<rooms-offered>2</rooms-offered>
+<kitchen-space>
+<value>9.28</value>
+</kitchen-space>
+<renovation>черновая отделка</renovation>
+<window-view>во двор</window-view>
+<balcony>лоджия</balcony>
+<bathroom-unit>1</bathroom-unit>
+<building-name>ЖК "Алые паруса"</building-name>
+<building-type>монолит</building-type>
+<building-state>unfinished</building-state>
+<lift>true</lift>
+<parking>0</parking>
+<rubbish-chute>0</rubbish-chute>
+</offer>
+<offer internal-id="apartment_58">
+<creation-date>2021-07-22T00:00:00+03:00</creation-date>
+<location>
+<country>Россия</country>
+<region>Ярославль</region>
+<district>Дзержинский</district>
+<locality-name>Ярославская область</locality-name>
+<address>Красноборская, 32</address>
+</location>
+<sales-agent>
+<name>Вадим</name>
+<phone>8(996)241-25-71</phone>
+<category>agency</category>
+</sales-agent>
+<price>
+<value>3216950</value>
+<currency>RUB</currency>
+</price>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%90%D0%BB%D1%8B%D0%B5%20%D0%BF%D0%B0%D1%80%D1%83%D1%81%D0%B0%20%D0%BF%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/2%D0%BA-58.22.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%90%D0%BB%D1%8B%D0%B5%20%D0%BF%D0%B0%D1%80%D1%83%D1%81%D0%B0%20%D0%BF%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/2%D0%BA-58.22.jpg</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_150832.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_150841.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_150848.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_150851.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_151019.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_151022.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_151034.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_151045.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_151253.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_151326.jpg?raw=true</image>
+<area>
+<value>58.49</value>
+<unit>sq. m</unit>
+</area>
+<description>ЖК «Алые паруса» в Заволжском районе города Ярославля – это уникальный проект, который будет располагаться по улице Красноборской, вблизи дома 41. ЖК «Алые паруса» состоит из 4 многоквартирных домов этажностью от 10 до 24 этажей. Все дома комплекса строятся в едином архитектурном стиле по кирпично-монолитной технологии. Планируемый срок сдачи первого дома — 4 квартал 2022 года. В доме 24 жилых этажа, 2 подъезда, 238 квартир: в том числе однокомнатные квартиры площадью от 37 кв.м., двухкомнатные квартиры от 57 до 72 кв.м. и трехкомнатные квартиры 89 кв.м. Квартиры будут сдаваться с предчистовой отделкой: стены – простая штукатурка без обоев и окраски, потолки – бетонная плита монолитного каркаса без окраски, полы – полусухая цементно-песчаная стяжка без покрытия, скрытая электропроводка с розетками и выключателями, система отопления с радиаторами, стояки холодного и горячего водоснабжения с приборами учета, канализационный стояк, без межкомнатных дверей, без электроплиты, без сантехники, окна ПВХ, входная дверь. Высота потолков 2,7 метра. Мусоропроводы не предусмотрены, в каждом подъезде 3 лифта (пассажирский и 2 грузовых). В каждом подъезде 4 строения предусмотрены коммерческие помещения 20,08 кв.м. На благоустроенной территории появятся тротуары, наземная парковка, детская площадка, зеленые насаждения и зона отдыха. Экология в районе комплекса хорошая, т.к. он расположен недалеко от Тверицкого бора. Инфраструктура рядом с ЖК «Алые паруса» обеспеченна сетевыми продуктовыми магазинами «Дикси», «Пятерочка» и «Магнит», в километре расположен гипермаркет Глобус и Леруа Мерлен, чуть дальше — детские сады, школы. Рядом с ЖК по улице Красноборской располагаются остановочные пункты. Бесплатное сопровождение сделки с использованием счетов эскроу.</description>
+<floor>4</floor>
+<floors-total>24</floors-total>
+<ceiling-height>2.7</ceiling-height>
+<built-year>2024</built-year>
+<ready-quarter>4</ready-quarter>
+<type>продажа</type>
+<property-type>living</property-type>
+<category>flat</category>
+<deal-status>reassignment</deal-status>
+<living-space>
+<value>33.27</value>
+</living-space>
+<room-space>
+<value>14.76</value>
+</room-space>
+<room-space>
+<value>18.51</value>
+</room-space>
+<rooms>2</rooms>
+<rooms-offered>2</rooms-offered>
+<kitchen-space>
+<value>9.28</value>
+</kitchen-space>
+<renovation>черновая отделка</renovation>
+<window-view>во двор</window-view>
+<balcony>лоджия</balcony>
+<bathroom-unit>1</bathroom-unit>
+<building-name>ЖК "Алые паруса"</building-name>
+<building-type>монолит</building-type>
+<building-state>unfinished</building-state>
+<lift>true</lift>
+<parking>0</parking>
+<rubbish-chute>0</rubbish-chute>
+</offer>
+<offer internal-id="apartment_59">
+<creation-date>2021-07-22T00:00:00+03:00</creation-date>
+<location>
+<country>Россия</country>
+<region>Ярославль</region>
+<district>Дзержинский</district>
+<locality-name>Ярославская область</locality-name>
+<address>Красноборская, 32</address>
+</location>
+<sales-agent>
+<name>Вадим</name>
+<phone>8(996)241-25-71</phone>
+<category>agency</category>
+</sales-agent>
+<price>
+<value>3216950</value>
+<currency>RUB</currency>
+</price>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%90%D0%BB%D1%8B%D0%B5%20%D0%BF%D0%B0%D1%80%D1%83%D1%81%D0%B0%20%D0%BF%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/2%D0%BA-58.22.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%90%D0%BB%D1%8B%D0%B5%20%D0%BF%D0%B0%D1%80%D1%83%D1%81%D0%B0%20%D0%BF%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/2%D0%BA-58.22.jpg</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_150832.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_150841.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_150848.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_150851.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_151019.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_151022.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_151034.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_151045.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_151253.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_151326.jpg?raw=true</image>
+<area>
+<value>58.49</value>
+<unit>sq. m</unit>
+</area>
+<description>ЖК «Алые паруса» в Заволжском районе города Ярославля – это уникальный проект, который будет располагаться по улице Красноборской, вблизи дома 41. ЖК «Алые паруса» состоит из 4 многоквартирных домов этажностью от 10 до 24 этажей. Все дома комплекса строятся в едином архитектурном стиле по кирпично-монолитной технологии. Планируемый срок сдачи первого дома — 4 квартал 2022 года. В доме 24 жилых этажа, 2 подъезда, 238 квартир: в том числе однокомнатные квартиры площадью от 37 кв.м., двухкомнатные квартиры от 57 до 72 кв.м. и трехкомнатные квартиры 89 кв.м. Квартиры будут сдаваться с предчистовой отделкой: стены – простая штукатурка без обоев и окраски, потолки – бетонная плита монолитного каркаса без окраски, полы – полусухая цементно-песчаная стяжка без покрытия, скрытая электропроводка с розетками и выключателями, система отопления с радиаторами, стояки холодного и горячего водоснабжения с приборами учета, канализационный стояк, без межкомнатных дверей, без электроплиты, без сантехники, окна ПВХ, входная дверь. Высота потолков 2,7 метра. Мусоропроводы не предусмотрены, в каждом подъезде 3 лифта (пассажирский и 2 грузовых). В каждом подъезде 4 строения предусмотрены коммерческие помещения 20,08 кв.м. На благоустроенной территории появятся тротуары, наземная парковка, детская площадка, зеленые насаждения и зона отдыха. Экология в районе комплекса хорошая, т.к. он расположен недалеко от Тверицкого бора. Инфраструктура рядом с ЖК «Алые паруса» обеспеченна сетевыми продуктовыми магазинами «Дикси», «Пятерочка» и «Магнит», в километре расположен гипермаркет Глобус и Леруа Мерлен, чуть дальше — детские сады, школы. Рядом с ЖК по улице Красноборской располагаются остановочные пункты. Бесплатное сопровождение сделки с использованием счетов эскроу.</description>
+<floor>3</floor>
+<floors-total>24</floors-total>
+<ceiling-height>2.7</ceiling-height>
+<built-year>2024</built-year>
+<ready-quarter>4</ready-quarter>
+<type>продажа</type>
+<property-type>living</property-type>
+<category>flat</category>
+<deal-status>reassignment</deal-status>
+<living-space>
+<value>33.27</value>
+</living-space>
+<room-space>
+<value>14.76</value>
+</room-space>
+<room-space>
+<value>18.51</value>
+</room-space>
+<rooms>2</rooms>
+<rooms-offered>2</rooms-offered>
+<kitchen-space>
+<value>9.28</value>
+</kitchen-space>
+<renovation>черновая отделка</renovation>
+<window-view>во двор</window-view>
+<balcony>лоджия</balcony>
+<bathroom-unit>1</bathroom-unit>
+<building-name>ЖК "Алые паруса"</building-name>
+<building-type>монолит</building-type>
+<building-state>unfinished</building-state>
+<lift>true</lift>
+<parking>0</parking>
+<rubbish-chute>0</rubbish-chute>
+</offer>
+<offer internal-id="apartment_60">
+<creation-date>2021-07-22T00:00:00+03:00</creation-date>
+<location>
+<country>Россия</country>
+<region>Ярославль</region>
+<district>Дзержинский</district>
+<locality-name>Ярославская область</locality-name>
+<address>Красноборская, 32</address>
+</location>
+<sales-agent>
+<name>Вадим</name>
+<phone>8(996)241-25-71</phone>
+<category>agency</category>
+</sales-agent>
+<price>
+<value>3216950</value>
+<currency>RUB</currency>
+</price>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%90%D0%BB%D1%8B%D0%B5%20%D0%BF%D0%B0%D1%80%D1%83%D1%81%D0%B0%20%D0%BF%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/2%D0%BA-58.22.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%90%D0%BB%D1%8B%D0%B5%20%D0%BF%D0%B0%D1%80%D1%83%D1%81%D0%B0%20%D0%BF%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/2%D0%BA-58.22.jpg</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_150832.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_150841.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_150848.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_150851.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_151019.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_151022.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_151034.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_151045.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_151253.jpg?raw=true</image>
+<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%A4%D0%BE%D1%82%D0%BE/20210715_151326.jpg?raw=true</image>
+<area>
+<value>58.49</value>
+<unit>sq. m</unit>
+</area>
+<description>ЖК «Алые паруса» в Заволжском районе города Ярославля – это уникальный проект, который будет располагаться по улице Красноборской, вблизи дома 41. ЖК «Алые паруса» состоит из 4 многоквартирных домов этажностью от 10 до 24 этажей. Все дома комплекса строятся в едином архитектурном стиле по кирпично-монолитной технологии. Планируемый срок сдачи первого дома — 4 квартал 2022 года. В доме 24 жилых этажа, 2 подъезда, 238 квартир: в том числе однокомнатные квартиры площадью от 37 кв.м., двухкомнатные квартиры от 57 до 72 кв.м. и трехкомнатные квартиры 89 кв.м. Квартиры будут сдаваться с предчистовой отделкой: стены – простая штукатурка без обоев и окраски, потолки – бетонная плита монолитного каркаса без окраски, полы – полусухая цементно-песчаная стяжка без покрытия, скрытая электропроводка с розетками и выключателями, система отопления с радиаторами, стояки холодного и горячего водоснабжения с приборами учета, канализационный стояк, без межкомнатных дверей, без электроплиты, без сантехники, окна ПВХ, входная дверь. Высота потолков 2,7 метра. Мусоропроводы не предусмотрены, в каждом подъезде 3 лифта (пассажирский и 2 грузовых). В каждом подъезде 4 строения предусмотрены коммерческие помещения 20,08 кв.м. На благоустроенной территории появятся тротуары, наземная парковка, детская площадка, зеленые насаждения и зона отдыха. Экология в районе комплекса хорошая, т.к. он расположен недалеко от Тверицкого бора. Инфраструктура рядом с ЖК «Алые паруса» обеспеченна сетевыми продуктовыми магазинами «Дикси», «Пятерочка» и «Магнит», в километре расположен гипермаркет Глобус и Леруа Мерлен, чуть дальше — детские сады, школы. Рядом с ЖК по улице Красноборской располагаются остановочные пункты. Бесплатное сопровождение сделки с использованием счетов эскроу.</description>
+<floor>2</floor>
+<floors-total>24</floors-total>
+<ceiling-height>2.7</ceiling-height>
+<built-year>2024</built-year>
+<ready-quarter>4</ready-quarter>
+<type>продажа</type>
+<property-type>living</property-type>
+<category>flat</category>
+<deal-status>reassignment</deal-status>
+<living-space>
+<value>33.27</value>
+</living-space>
+<room-space>
+<value>14.76</value>
+</room-space>
+<room-space>
+<value>18.51</value>
+</room-space>
+<rooms>2</rooms>
+<rooms-offered>2</rooms-offered>
+<kitchen-space>
+<value>9.28</value>
+</kitchen-space>
+<renovation>черновая отделка</renovation>
+<window-view>во двор</window-view>
+<balcony>лоджия</balcony>
+<bathroom-unit>1</bathroom-unit>
+<building-name>ЖК "Алые паруса"</building-name>
+<building-type>монолит</building-type>
+<building-state>unfinished</building-state>
+<lift>true</lift>
+<parking>0</parking>
+<rubbish-chute>0</rubbish-chute>
+</offer>
 </realty-feed>
