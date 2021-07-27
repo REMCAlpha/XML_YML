@@ -13123,8 +13123,7 @@
 <type>продажа</type>
 <property-type>living</property-type>
 <category>flat</category>
-<new-flat>true</new-flat>
-<deal-status>sale</deal-status>
+<deal-status>reassignment</deal-status>
 <living-space>
 <value>28.4</value>
 </living-space>
@@ -13193,8 +13192,7 @@
 <type>продажа</type>
 <property-type>living</property-type>
 <category>flat</category>
-<new-flat>true</new-flat>
-<deal-status>sale</deal-status>
+<deal-status>reassignment</deal-status>
 <living-space>
 <value>28.4</value>
 </living-space>
@@ -13263,8 +13261,7 @@
 <type>продажа</type>
 <property-type>living</property-type>
 <category>flat</category>
-<new-flat>true</new-flat>
-<deal-status>sale</deal-status>
+<deal-status>reassignment</deal-status>
 <living-space>
 <value>28.4</value>
 </living-space>
@@ -13333,8 +13330,7 @@
 <type>продажа</type>
 <property-type>living</property-type>
 <category>flat</category>
-<new-flat>true</new-flat>
-<deal-status>sale</deal-status>
+<deal-status>reassignment</deal-status>
 <living-space>
 <value>28.4</value>
 </living-space>
@@ -13403,8 +13399,7 @@
 <type>продажа</type>
 <property-type>living</property-type>
 <category>flat</category>
-<new-flat>true</new-flat>
-<deal-status>sale</deal-status>
+<deal-status>reassignment</deal-status>
 <living-space>
 <value>28.4</value>
 </living-space>
@@ -13473,8 +13468,7 @@
 <type>продажа</type>
 <property-type>living</property-type>
 <category>flat</category>
-<new-flat>true</new-flat>
-<deal-status>sale</deal-status>
+<deal-status>reassignment</deal-status>
 <living-space>
 <value>28.4</value>
 </living-space>
@@ -13541,10 +13535,8 @@
 <built-year>2022</built-year>
 <ready-quarter>1</ready-quarter>
 <type>продажа</type>
-<property-type>living</property-type>
 <category>flat</category>
-<new-flat>true</new-flat>
-<deal-status>sale</deal-status>
+<deal-status>reassignment</deal-status>
 <living-space>
 <value>28.4</value>
 </living-space>
@@ -13611,10 +13603,8 @@
 <built-year>2022</built-year>
 <ready-quarter>1</ready-quarter>
 <type>продажа</type>
-<property-type>living</property-type>
 <category>flat</category>
-<new-flat>true</new-flat>
-<deal-status>sale</deal-status>
+<deal-status>reassignment</deal-status>
 <living-space>
 <value>28.4</value>
 </living-space>
@@ -13683,8 +13673,7 @@
 <type>продажа</type>
 <property-type>living</property-type>
 <category>flat</category>
-<new-flat>true</new-flat>
-<deal-status>sale</deal-status>
+<deal-status>reassignment</deal-status>
 <living-space>
 <value>28.4</value>
 </living-space>
@@ -13753,8 +13742,7 @@
 <type>продажа</type>
 <property-type>living</property-type>
 <category>flat</category>
-<new-flat>true</new-flat>
-<deal-status>sale</deal-status>
+<deal-status>reassignment</deal-status>
 <living-space>
 <value>28.4</value>
 </living-space>
@@ -13823,8 +13811,7 @@
 <type>продажа</type>
 <property-type>living</property-type>
 <category>flat</category>
-<new-flat>true</new-flat>
-<deal-status>sale</deal-status>
+<deal-status>reassignment</deal-status>
 <living-space>
 <value>28.4</value>
 </living-space>
@@ -13893,8 +13880,7 @@
 <type>продажа</type>
 <property-type>living</property-type>
 <category>flat</category>
-<new-flat>true</new-flat>
-<deal-status>sale</deal-status>
+<deal-status>reassignment</deal-status>
 <living-space>
 <value>28.4</value>
 </living-space>
@@ -13963,8 +13949,7 @@
 <type>продажа</type>
 <property-type>living</property-type>
 <category>flat</category>
-<new-flat>true</new-flat>
-<deal-status>sale</deal-status>
+<deal-status>reassignment</deal-status>
 <living-space>
 <value>28.4</value>
 </living-space>
@@ -14033,8 +14018,7 @@
 <type>продажа</type>
 <property-type>living</property-type>
 <category>flat</category>
-<new-flat>true</new-flat>
-<deal-status>sale</deal-status>
+<deal-status>reassignment</deal-status>
 <living-space>
 <value>28.4</value>
 </living-space>
@@ -14103,8 +14087,7 @@
 <type>продажа</type>
 <property-type>living</property-type>
 <category>flat</category>
-<new-flat>true</new-flat>
-<deal-status>sale</deal-status>
+<deal-status>reassignment</deal-status>
 <living-space>
 <value>28.4</value>
 </living-space>
@@ -14173,8 +14156,7 @@
 <type>продажа</type>
 <property-type>living</property-type>
 <category>flat</category>
-<new-flat>true</new-flat>
-<deal-status>sale</deal-status>
+<deal-status>reassignment</deal-status>
 <living-space>
 <value>16.33</value>
 </living-space>
@@ -14240,8 +14222,7 @@
 <type>продажа</type>
 <property-type>living</property-type>
 <category>flat</category>
-<new-flat>true</new-flat>
-<deal-status>sale</deal-status>
+<deal-status>reassignment</deal-status>
 <living-space>
 <value>16.33</value>
 </living-space>
@@ -14307,8 +14288,7 @@
 <type>продажа</type>
 <property-type>living</property-type>
 <category>flat</category>
-<new-flat>true</new-flat>
-<deal-status>sale</deal-status>
+<deal-status>reassignment</deal-status>
 <living-space>
 <value>16.33</value>
 </living-space>
@@ -14374,8 +14354,7 @@
 <type>продажа</type>
 <property-type>living</property-type>
 <category>flat</category>
-<new-flat>true</new-flat>
-<deal-status>sale</deal-status>
+<deal-status>reassignment</deal-status>
 <living-space>
 <value>16.33</value>
 </living-space>
@@ -14441,8 +14420,7 @@
 <type>продажа</type>
 <property-type>living</property-type>
 <category>flat</category>
-<new-flat>true</new-flat>
-<deal-status>sale</deal-status>
+<deal-status>reassignment</deal-status>
 <living-space>
 <value>16.33</value>
 </living-space>
