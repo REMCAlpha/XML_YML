@@ -17584,7 +17584,7 @@
 <parking>0</parking>
 <rubbish-chute>0</rubbish-chute>
 </offer>
-<offer internal-id="apartment_253">
+<offer internal-id="apartment_254">
 <creation-date>2021-07-27T00:00:00+03:00</creation-date>
 <location>
 <country>Россия</country>
@@ -17599,30 +17599,30 @@
 <category>agency</category>
 </sales-agent>
 <price>
-<value>2665520</value>
+<value>1771120</value>
 <currency>RUB</currency>
 </price>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/'%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81'%20%D0%BF%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/%D0%94%D0%BE%D0%BC%2023/2%D0%BA51.26.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/'%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81'%20%D0%BF%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/%D0%94%D0%BE%D0%BC%2023/2%D0%BA51.26.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120832.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120836.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120841.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120843.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120851.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120855.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120859.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120911.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120914.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/'%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81'%20%D0%BF%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/%D0%94%D0%BE%D0%BC%2023/1%D0%BA34.06.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/'%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81'%20%D0%BF%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/%D0%94%D0%BE%D0%BC%2023/1%D0%BA34.06.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_120918.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_120924.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_120941.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_120945.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_120952.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_120956.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_121008.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_121014.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_121024.jpg</image>
 <image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/20210726_113322.jpg</image>
 <image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/20210726_114823.jpg</image>
 <image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/20210726_122506.jpg</image>
 <image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/20210726_122528.jpg</image>
 <area>
-<value>51.26</value>
+<value>34.06</value>
 <unit>sq. m</unit>
 </area>
 <description>В конце 2019 года начался масштабный проект комплексного освоения территории в 15 микрорайоне северного жилого района города Ярославля. Строительство второго жилого дома (N 25) начато в 2020 году, передача квартир и вручение ключей планируется в 1 квартале 2022 года. Цветовое решение фасада выполнено с применением тонированного керамического кирпича. Теплоснабжение и горячее водоснабжение многоквартирного жилого дома спроектировано с учетом наличия крышной котельной. В доме один грузопассажирский лифт. Просторные межквартирные коридоры добавляют комфортности. Отделка и оборудование квартир: стены – простая штукатурка без обоев и окраски, потолки – железобетонная плита без окраски, полы – полусухая цементно-песчаная стяжка без покрытия, скрытая электропроводка с розетками и выключателями, система отопления с радиаторами, стояки холодного и горячего водоснабжения с приборами учета, канализационный стояк, окна ПВХ, входная дверь. На придомовой территории будут созданы максимально комфортные условия для его жителей. Парковочные места предусмотрены во дворе комплекса и параллельно Ленинградскому проспекту. Во дворе дома уютно располагаются детская площадка, площадка для спорта и отдыха. Приобретение квартир осуществляется с использованием счетов ЭСКРОУ.</description>
-<floor>9</floor>
+<floor>8</floor>
 <floors-total>9</floors-total>
 <ceiling-height>2.7</ceiling-height>
 <built-year>2022</built-year>
@@ -17634,18 +17634,15 @@
 <category>flat</category>
 <deal-status>reassignment</deal-status>
 <living-space>
-<value>27.67</value>
+<value>16.33</value>
 </living-space>
 <room-space>
-<value>10.98</value>
+<value>16.33</value>
 </room-space>
-<room-space>
-<value>16.69</value>
-</room-space>
-<rooms>2</rooms>
-<rooms-offered>2</rooms-offered>
+<rooms>1</rooms>
+<rooms-offered>1</rooms-offered>
 <kitchen-space>
-<value>11.5</value>
+<value>9.32</value>
 </kitchen-space>
 <renovation>черновая отделка</renovation>
 <window-view>во двор</window-view>
@@ -17658,7 +17655,7 @@
 <parking>0</parking>
 <rubbish-chute>0</rubbish-chute>
 </offer>
-<offer internal-id="apartment_253">
+<offer internal-id="apartment_255">
 <creation-date>2021-07-27T00:00:00+03:00</creation-date>
 <location>
 <country>Россия</country>
@@ -17673,30 +17670,30 @@
 <category>agency</category>
 </sales-agent>
 <price>
-<value>2665520</value>
+<value>1771120</value>
 <currency>RUB</currency>
 </price>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/'%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81'%20%D0%BF%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/%D0%94%D0%BE%D0%BC%2023/2%D0%BA51.26.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/'%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81'%20%D0%BF%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/%D0%94%D0%BE%D0%BC%2023/2%D0%BA51.26.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120832.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120836.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120841.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120843.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120851.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120855.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120859.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120911.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120914.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/'%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81'%20%D0%BF%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/%D0%94%D0%BE%D0%BC%2023/1%D0%BA34.06.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/'%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81'%20%D0%BF%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/%D0%94%D0%BE%D0%BC%2023/1%D0%BA34.06.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_120918.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_120924.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_120941.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_120945.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_120952.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_120956.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_121008.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_121014.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_121024.jpg</image>
 <image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/20210726_113322.jpg</image>
 <image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/20210726_114823.jpg</image>
 <image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/20210726_122506.jpg</image>
 <image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/20210726_122528.jpg</image>
 <area>
-<value>51.26</value>
+<value>34.06</value>
 <unit>sq. m</unit>
 </area>
 <description>В конце 2019 года начался масштабный проект комплексного освоения территории в 15 микрорайоне северного жилого района города Ярославля. Строительство второго жилого дома (N 25) начато в 2020 году, передача квартир и вручение ключей планируется в 1 квартале 2022 года. Цветовое решение фасада выполнено с применением тонированного керамического кирпича. Теплоснабжение и горячее водоснабжение многоквартирного жилого дома спроектировано с учетом наличия крышной котельной. В доме один грузопассажирский лифт. Просторные межквартирные коридоры добавляют комфортности. Отделка и оборудование квартир: стены – простая штукатурка без обоев и окраски, потолки – железобетонная плита без окраски, полы – полусухая цементно-песчаная стяжка без покрытия, скрытая электропроводка с розетками и выключателями, система отопления с радиаторами, стояки холодного и горячего водоснабжения с приборами учета, канализационный стояк, окна ПВХ, входная дверь. На придомовой территории будут созданы максимально комфортные условия для его жителей. Парковочные места предусмотрены во дворе комплекса и параллельно Ленинградскому проспекту. Во дворе дома уютно располагаются детская площадка, площадка для спорта и отдыха. Приобретение квартир осуществляется с использованием счетов ЭСКРОУ.</description>
-<floor>9</floor>
+<floor>6</floor>
 <floors-total>9</floors-total>
 <ceiling-height>2.7</ceiling-height>
 <built-year>2022</built-year>
@@ -17708,18 +17705,15 @@
 <category>flat</category>
 <deal-status>reassignment</deal-status>
 <living-space>
-<value>27.67</value>
+<value>16.33</value>
 </living-space>
 <room-space>
-<value>10.98</value>
+<value>16.33</value>
 </room-space>
-<room-space>
-<value>16.69</value>
-</room-space>
-<rooms>2</rooms>
-<rooms-offered>2</rooms-offered>
+<rooms>1</rooms>
+<rooms-offered>1</rooms-offered>
 <kitchen-space>
-<value>11.5</value>
+<value>9.32</value>
 </kitchen-space>
 <renovation>черновая отделка</renovation>
 <window-view>во двор</window-view>
@@ -17732,7 +17726,7 @@
 <parking>0</parking>
 <rubbish-chute>0</rubbish-chute>
 </offer>
-<offer internal-id="apartment_253">
+<offer internal-id="apartment_256">
 <creation-date>2021-07-27T00:00:00+03:00</creation-date>
 <location>
 <country>Россия</country>
@@ -17747,30 +17741,30 @@
 <category>agency</category>
 </sales-agent>
 <price>
-<value>2665520</value>
+<value>1771120</value>
 <currency>RUB</currency>
 </price>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/'%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81'%20%D0%BF%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/%D0%94%D0%BE%D0%BC%2023/2%D0%BA51.26.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/'%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81'%20%D0%BF%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/%D0%94%D0%BE%D0%BC%2023/2%D0%BA51.26.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120832.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120836.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120841.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120843.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120851.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120855.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120859.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120911.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120914.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/'%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81'%20%D0%BF%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/%D0%94%D0%BE%D0%BC%2023/1%D0%BA34.06.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/'%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81'%20%D0%BF%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/%D0%94%D0%BE%D0%BC%2023/1%D0%BA34.06.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_120918.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_120924.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_120941.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_120945.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_120952.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_120956.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_121008.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_121014.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_121024.jpg</image>
 <image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/20210726_113322.jpg</image>
 <image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/20210726_114823.jpg</image>
 <image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/20210726_122506.jpg</image>
 <image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/20210726_122528.jpg</image>
 <area>
-<value>51.26</value>
+<value>34.06</value>
 <unit>sq. m</unit>
 </area>
 <description>В конце 2019 года начался масштабный проект комплексного освоения территории в 15 микрорайоне северного жилого района города Ярославля. Строительство второго жилого дома (N 25) начато в 2020 году, передача квартир и вручение ключей планируется в 1 квартале 2022 года. Цветовое решение фасада выполнено с применением тонированного керамического кирпича. Теплоснабжение и горячее водоснабжение многоквартирного жилого дома спроектировано с учетом наличия крышной котельной. В доме один грузопассажирский лифт. Просторные межквартирные коридоры добавляют комфортности. Отделка и оборудование квартир: стены – простая штукатурка без обоев и окраски, потолки – железобетонная плита без окраски, полы – полусухая цементно-песчаная стяжка без покрытия, скрытая электропроводка с розетками и выключателями, система отопления с радиаторами, стояки холодного и горячего водоснабжения с приборами учета, канализационный стояк, окна ПВХ, входная дверь. На придомовой территории будут созданы максимально комфортные условия для его жителей. Парковочные места предусмотрены во дворе комплекса и параллельно Ленинградскому проспекту. Во дворе дома уютно располагаются детская площадка, площадка для спорта и отдыха. Приобретение квартир осуществляется с использованием счетов ЭСКРОУ.</description>
-<floor>9</floor>
+<floor>3</floor>
 <floors-total>9</floors-total>
 <ceiling-height>2.7</ceiling-height>
 <built-year>2022</built-year>
@@ -17782,18 +17776,15 @@
 <category>flat</category>
 <deal-status>reassignment</deal-status>
 <living-space>
-<value>27.67</value>
+<value>16.33</value>
 </living-space>
 <room-space>
-<value>10.98</value>
+<value>16.33</value>
 </room-space>
-<room-space>
-<value>16.69</value>
-</room-space>
-<rooms>2</rooms>
-<rooms-offered>2</rooms-offered>
+<rooms>1</rooms>
+<rooms-offered>1</rooms-offered>
 <kitchen-space>
-<value>11.5</value>
+<value>9.32</value>
 </kitchen-space>
 <renovation>черновая отделка</renovation>
 <window-view>во двор</window-view>
@@ -17806,7 +17797,7 @@
 <parking>0</parking>
 <rubbish-chute>0</rubbish-chute>
 </offer>
-<offer internal-id="apartment_253">
+<offer internal-id="apartment_257">
 <creation-date>2021-07-27T00:00:00+03:00</creation-date>
 <location>
 <country>Россия</country>
@@ -17821,30 +17812,30 @@
 <category>agency</category>
 </sales-agent>
 <price>
-<value>2665520</value>
+<value>1771120</value>
 <currency>RUB</currency>
 </price>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/'%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81'%20%D0%BF%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/%D0%94%D0%BE%D0%BC%2023/2%D0%BA51.26.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/'%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81'%20%D0%BF%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/%D0%94%D0%BE%D0%BC%2023/2%D0%BA51.26.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120832.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120836.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120841.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120843.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120851.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120855.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120859.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120911.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120914.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/'%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81'%20%D0%BF%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/%D0%94%D0%BE%D0%BC%2023/1%D0%BA34.06.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/'%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81'%20%D0%BF%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/%D0%94%D0%BE%D0%BC%2023/1%D0%BA34.06.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_120918.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_120924.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_120941.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_120945.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_120952.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_120956.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_121008.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_121014.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_121024.jpg</image>
 <image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/20210726_113322.jpg</image>
 <image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/20210726_114823.jpg</image>
 <image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/20210726_122506.jpg</image>
 <image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/20210726_122528.jpg</image>
 <area>
-<value>51.26</value>
+<value>34.06</value>
 <unit>sq. m</unit>
 </area>
 <description>В конце 2019 года начался масштабный проект комплексного освоения территории в 15 микрорайоне северного жилого района города Ярославля. Строительство второго жилого дома (N 25) начато в 2020 году, передача квартир и вручение ключей планируется в 1 квартале 2022 года. Цветовое решение фасада выполнено с применением тонированного керамического кирпича. Теплоснабжение и горячее водоснабжение многоквартирного жилого дома спроектировано с учетом наличия крышной котельной. В доме один грузопассажирский лифт. Просторные межквартирные коридоры добавляют комфортности. Отделка и оборудование квартир: стены – простая штукатурка без обоев и окраски, потолки – железобетонная плита без окраски, полы – полусухая цементно-песчаная стяжка без покрытия, скрытая электропроводка с розетками и выключателями, система отопления с радиаторами, стояки холодного и горячего водоснабжения с приборами учета, канализационный стояк, окна ПВХ, входная дверь. На придомовой территории будут созданы максимально комфортные условия для его жителей. Парковочные места предусмотрены во дворе комплекса и параллельно Ленинградскому проспекту. Во дворе дома уютно располагаются детская площадка, площадка для спорта и отдыха. Приобретение квартир осуществляется с использованием счетов ЭСКРОУ.</description>
-<floor>9</floor>
+<floor>2</floor>
 <floors-total>9</floors-total>
 <ceiling-height>2.7</ceiling-height>
 <built-year>2022</built-year>
@@ -17856,18 +17847,15 @@
 <category>flat</category>
 <deal-status>reassignment</deal-status>
 <living-space>
-<value>27.67</value>
+<value>16.33</value>
 </living-space>
 <room-space>
-<value>10.98</value>
+<value>16.33</value>
 </room-space>
-<room-space>
-<value>16.69</value>
-</room-space>
-<rooms>2</rooms>
-<rooms-offered>2</rooms-offered>
+<rooms>1</rooms>
+<rooms-offered>1</rooms-offered>
 <kitchen-space>
-<value>11.5</value>
+<value>9.32</value>
 </kitchen-space>
 <renovation>черновая отделка</renovation>
 <window-view>во двор</window-view>
@@ -17880,7 +17868,7 @@
 <parking>0</parking>
 <rubbish-chute>0</rubbish-chute>
 </offer>
-<offer internal-id="apartment_253">
+<offer internal-id="apartment_258">
 <creation-date>2021-07-27T00:00:00+03:00</creation-date>
 <location>
 <country>Россия</country>
@@ -17895,26 +17883,26 @@
 <category>agency</category>
 </sales-agent>
 <price>
-<value>2665520</value>
+<value>1771120</value>
 <currency>RUB</currency>
 </price>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/'%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81'%20%D0%BF%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/%D0%94%D0%BE%D0%BC%2023/2%D0%BA51.26.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/'%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81'%20%D0%BF%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/%D0%94%D0%BE%D0%BC%2023/2%D0%BA51.26.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120832.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120836.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120841.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120843.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120851.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120855.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120859.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120911.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120914.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/'%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81'%20%D0%BF%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/%D0%94%D0%BE%D0%BC%2023/1%D0%BA34.06.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/'%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81'%20%D0%BF%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/%D0%94%D0%BE%D0%BC%2023/1%D0%BA34.06.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_120918.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_120924.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_120941.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_120945.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_120952.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_120956.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_121008.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_121014.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_121024.jpg</image>
 <image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/20210726_113322.jpg</image>
 <image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/20210726_114823.jpg</image>
 <image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/20210726_122506.jpg</image>
 <image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/20210726_122528.jpg</image>
 <area>
-<value>51.26</value>
+<value>34.06</value>
 <unit>sq. m</unit>
 </area>
 <description>В конце 2019 года начался масштабный проект комплексного освоения территории в 15 микрорайоне северного жилого района города Ярославля. Строительство второго жилого дома (N 25) начато в 2020 году, передача квартир и вручение ключей планируется в 1 квартале 2022 года. Цветовое решение фасада выполнено с применением тонированного керамического кирпича. Теплоснабжение и горячее водоснабжение многоквартирного жилого дома спроектировано с учетом наличия крышной котельной. В доме один грузопассажирский лифт. Просторные межквартирные коридоры добавляют комфортности. Отделка и оборудование квартир: стены – простая штукатурка без обоев и окраски, потолки – железобетонная плита без окраски, полы – полусухая цементно-песчаная стяжка без покрытия, скрытая электропроводка с розетками и выключателями, система отопления с радиаторами, стояки холодного и горячего водоснабжения с приборами учета, канализационный стояк, окна ПВХ, входная дверь. На придомовой территории будут созданы максимально комфортные условия для его жителей. Парковочные места предусмотрены во дворе комплекса и параллельно Ленинградскому проспекту. Во дворе дома уютно располагаются детская площадка, площадка для спорта и отдыха. Приобретение квартир осуществляется с использованием счетов ЭСКРОУ.</description>
@@ -17930,18 +17918,15 @@
 <category>flat</category>
 <deal-status>reassignment</deal-status>
 <living-space>
-<value>27.67</value>
+<value>16.33</value>
 </living-space>
 <room-space>
-<value>10.98</value>
+<value>16.33</value>
 </room-space>
-<room-space>
-<value>16.69</value>
-</room-space>
-<rooms>2</rooms>
-<rooms-offered>2</rooms-offered>
+<rooms>1</rooms>
+<rooms-offered>1</rooms-offered>
 <kitchen-space>
-<value>11.5</value>
+<value>9.32</value>
 </kitchen-space>
 <renovation>черновая отделка</renovation>
 <window-view>во двор</window-view>
@@ -17954,7 +17939,7 @@
 <parking>0</parking>
 <rubbish-chute>0</rubbish-chute>
 </offer>
-<offer internal-id="apartment_253">
+<offer internal-id="apartment_259">
 <creation-date>2021-07-27T00:00:00+03:00</creation-date>
 <location>
 <country>Россия</country>
@@ -17969,30 +17954,30 @@
 <category>agency</category>
 </sales-agent>
 <price>
-<value>2665520</value>
+<value>1771120</value>
 <currency>RUB</currency>
 </price>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/'%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81'%20%D0%BF%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/%D0%94%D0%BE%D0%BC%2023/2%D0%BA51.26.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/'%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81'%20%D0%BF%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/%D0%94%D0%BE%D0%BC%2023/2%D0%BA51.26.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120832.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120836.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120841.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120843.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120851.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120855.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120859.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120911.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120914.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/'%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81'%20%D0%BF%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/%D0%94%D0%BE%D0%BC%2023/1%D0%BA34.06.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/'%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81'%20%D0%BF%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/%D0%94%D0%BE%D0%BC%2023/1%D0%BA34.06.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_120918.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_120924.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_120941.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_120945.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_120952.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_120956.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_121008.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_121014.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_121024.jpg</image>
 <image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/20210726_113322.jpg</image>
 <image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/20210726_114823.jpg</image>
 <image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/20210726_122506.jpg</image>
 <image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/20210726_122528.jpg</image>
 <area>
-<value>51.26</value>
+<value>34.06</value>
 <unit>sq. m</unit>
 </area>
 <description>В конце 2019 года начался масштабный проект комплексного освоения территории в 15 микрорайоне северного жилого района города Ярославля. Строительство второго жилого дома (N 25) начато в 2020 году, передача квартир и вручение ключей планируется в 1 квартале 2022 года. Цветовое решение фасада выполнено с применением тонированного керамического кирпича. Теплоснабжение и горячее водоснабжение многоквартирного жилого дома спроектировано с учетом наличия крышной котельной. В доме один грузопассажирский лифт. Просторные межквартирные коридоры добавляют комфортности. Отделка и оборудование квартир: стены – простая штукатурка без обоев и окраски, потолки – железобетонная плита без окраски, полы – полусухая цементно-песчаная стяжка без покрытия, скрытая электропроводка с розетками и выключателями, система отопления с радиаторами, стояки холодного и горячего водоснабжения с приборами учета, канализационный стояк, окна ПВХ, входная дверь. На придомовой территории будут созданы максимально комфортные условия для его жителей. Парковочные места предусмотрены во дворе комплекса и параллельно Ленинградскому проспекту. Во дворе дома уютно располагаются детская площадка, площадка для спорта и отдыха. Приобретение квартир осуществляется с использованием счетов ЭСКРОУ.</description>
-<floor>9</floor>
+<floor>8</floor>
 <floors-total>9</floors-total>
 <ceiling-height>2.7</ceiling-height>
 <built-year>2022</built-year>
@@ -18004,18 +17989,15 @@
 <category>flat</category>
 <deal-status>reassignment</deal-status>
 <living-space>
-<value>27.67</value>
+<value>16.33</value>
 </living-space>
 <room-space>
-<value>10.98</value>
+<value>16.33</value>
 </room-space>
-<room-space>
-<value>16.69</value>
-</room-space>
-<rooms>2</rooms>
-<rooms-offered>2</rooms-offered>
+<rooms>1</rooms>
+<rooms-offered>1</rooms-offered>
 <kitchen-space>
-<value>11.5</value>
+<value>9.32</value>
 </kitchen-space>
 <renovation>черновая отделка</renovation>
 <window-view>во двор</window-view>
@@ -18028,7 +18010,7 @@
 <parking>0</parking>
 <rubbish-chute>0</rubbish-chute>
 </offer>
-<offer internal-id="apartment_253">
+<offer internal-id="apartment_260">
 <creation-date>2021-07-27T00:00:00+03:00</creation-date>
 <location>
 <country>Россия</country>
@@ -18043,30 +18025,30 @@
 <category>agency</category>
 </sales-agent>
 <price>
-<value>2665520</value>
+<value>1771120</value>
 <currency>RUB</currency>
 </price>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/'%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81'%20%D0%BF%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/%D0%94%D0%BE%D0%BC%2023/2%D0%BA51.26.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/'%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81'%20%D0%BF%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/%D0%94%D0%BE%D0%BC%2023/2%D0%BA51.26.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120832.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120836.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120841.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120843.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120851.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120855.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120859.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120911.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120914.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/'%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81'%20%D0%BF%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/%D0%94%D0%BE%D0%BC%2023/1%D0%BA34.06.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/'%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81'%20%D0%BF%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/%D0%94%D0%BE%D0%BC%2023/1%D0%BA34.06.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_120918.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_120924.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_120941.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_120945.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_120952.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_120956.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_121008.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_121014.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_121024.jpg</image>
 <image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/20210726_113322.jpg</image>
 <image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/20210726_114823.jpg</image>
 <image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/20210726_122506.jpg</image>
 <image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/20210726_122528.jpg</image>
 <area>
-<value>51.26</value>
+<value>34.06</value>
 <unit>sq. m</unit>
 </area>
 <description>В конце 2019 года начался масштабный проект комплексного освоения территории в 15 микрорайоне северного жилого района города Ярославля. Строительство второго жилого дома (N 25) начато в 2020 году, передача квартир и вручение ключей планируется в 1 квартале 2022 года. Цветовое решение фасада выполнено с применением тонированного керамического кирпича. Теплоснабжение и горячее водоснабжение многоквартирного жилого дома спроектировано с учетом наличия крышной котельной. В доме один грузопассажирский лифт. Просторные межквартирные коридоры добавляют комфортности. Отделка и оборудование квартир: стены – простая штукатурка без обоев и окраски, потолки – железобетонная плита без окраски, полы – полусухая цементно-песчаная стяжка без покрытия, скрытая электропроводка с розетками и выключателями, система отопления с радиаторами, стояки холодного и горячего водоснабжения с приборами учета, канализационный стояк, окна ПВХ, входная дверь. На придомовой территории будут созданы максимально комфортные условия для его жителей. Парковочные места предусмотрены во дворе комплекса и параллельно Ленинградскому проспекту. Во дворе дома уютно располагаются детская площадка, площадка для спорта и отдыха. Приобретение квартир осуществляется с использованием счетов ЭСКРОУ.</description>
-<floor>9</floor>
+<floor>3</floor>
 <floors-total>9</floors-total>
 <ceiling-height>2.7</ceiling-height>
 <built-year>2022</built-year>
@@ -18078,18 +18060,15 @@
 <category>flat</category>
 <deal-status>reassignment</deal-status>
 <living-space>
-<value>27.67</value>
+<value>16.33</value>
 </living-space>
 <room-space>
-<value>10.98</value>
+<value>16.33</value>
 </room-space>
-<room-space>
-<value>16.69</value>
-</room-space>
-<rooms>2</rooms>
-<rooms-offered>2</rooms-offered>
+<rooms>1</rooms>
+<rooms-offered>1</rooms-offered>
 <kitchen-space>
-<value>11.5</value>
+<value>9.32</value>
 </kitchen-space>
 <renovation>черновая отделка</renovation>
 <window-view>во двор</window-view>
@@ -18102,7 +18081,7 @@
 <parking>0</parking>
 <rubbish-chute>0</rubbish-chute>
 </offer>
-<offer internal-id="apartment_253">
+<offer internal-id="apartment_261">
 <creation-date>2021-07-27T00:00:00+03:00</creation-date>
 <location>
 <country>Россия</country>
@@ -18117,30 +18096,30 @@
 <category>agency</category>
 </sales-agent>
 <price>
-<value>2665520</value>
+<value>1771120</value>
 <currency>RUB</currency>
 </price>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/'%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81'%20%D0%BF%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/%D0%94%D0%BE%D0%BC%2023/2%D0%BA51.26.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/'%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81'%20%D0%BF%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/%D0%94%D0%BE%D0%BC%2023/2%D0%BA51.26.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120832.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120836.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120841.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120843.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120851.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120855.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120859.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120911.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120914.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/'%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81'%20%D0%BF%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/%D0%94%D0%BE%D0%BC%2023/1%D0%BA34.06.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/'%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81'%20%D0%BF%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/%D0%94%D0%BE%D0%BC%2023/1%D0%BA34.06.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_120918.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_120924.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_120941.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_120945.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_120952.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_120956.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_121008.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_121014.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_121024.jpg</image>
 <image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/20210726_113322.jpg</image>
 <image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/20210726_114823.jpg</image>
 <image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/20210726_122506.jpg</image>
 <image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/20210726_122528.jpg</image>
 <area>
-<value>51.26</value>
+<value>34.06</value>
 <unit>sq. m</unit>
 </area>
 <description>В конце 2019 года начался масштабный проект комплексного освоения территории в 15 микрорайоне северного жилого района города Ярославля. Строительство второго жилого дома (N 25) начато в 2020 году, передача квартир и вручение ключей планируется в 1 квартале 2022 года. Цветовое решение фасада выполнено с применением тонированного керамического кирпича. Теплоснабжение и горячее водоснабжение многоквартирного жилого дома спроектировано с учетом наличия крышной котельной. В доме один грузопассажирский лифт. Просторные межквартирные коридоры добавляют комфортности. Отделка и оборудование квартир: стены – простая штукатурка без обоев и окраски, потолки – железобетонная плита без окраски, полы – полусухая цементно-песчаная стяжка без покрытия, скрытая электропроводка с розетками и выключателями, система отопления с радиаторами, стояки холодного и горячего водоснабжения с приборами учета, канализационный стояк, окна ПВХ, входная дверь. На придомовой территории будут созданы максимально комфортные условия для его жителей. Парковочные места предусмотрены во дворе комплекса и параллельно Ленинградскому проспекту. Во дворе дома уютно располагаются детская площадка, площадка для спорта и отдыха. Приобретение квартир осуществляется с использованием счетов ЭСКРОУ.</description>
-<floor>9</floor>
+<floor>2</floor>
 <floors-total>9</floors-total>
 <ceiling-height>2.7</ceiling-height>
 <built-year>2022</built-year>
@@ -18152,18 +18131,15 @@
 <category>flat</category>
 <deal-status>reassignment</deal-status>
 <living-space>
-<value>27.67</value>
+<value>16.33</value>
 </living-space>
 <room-space>
-<value>10.98</value>
+<value>16.33</value>
 </room-space>
-<room-space>
-<value>16.69</value>
-</room-space>
-<rooms>2</rooms>
-<rooms-offered>2</rooms-offered>
+<rooms>1</rooms>
+<rooms-offered>1</rooms-offered>
 <kitchen-space>
-<value>11.5</value>
+<value>9.32</value>
 </kitchen-space>
 <renovation>черновая отделка</renovation>
 <window-view>во двор</window-view>
@@ -18176,7 +18152,7 @@
 <parking>0</parking>
 <rubbish-chute>0</rubbish-chute>
 </offer>
-<offer internal-id="apartment_253">
+<offer internal-id="apartment_262">
 <creation-date>2021-07-27T00:00:00+03:00</creation-date>
 <location>
 <country>Россия</country>
@@ -18191,26 +18167,26 @@
 <category>agency</category>
 </sales-agent>
 <price>
-<value>2665520</value>
+<value>1771120</value>
 <currency>RUB</currency>
 </price>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/'%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81'%20%D0%BF%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/%D0%94%D0%BE%D0%BC%2023/2%D0%BA51.26.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/'%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81'%20%D0%BF%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/%D0%94%D0%BE%D0%BC%2023/2%D0%BA51.26.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120832.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120836.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120841.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120843.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120851.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120855.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120859.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120911.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120914.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/'%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81'%20%D0%BF%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/%D0%94%D0%BE%D0%BC%2023/1%D0%BA34.06.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/'%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81'%20%D0%BF%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/%D0%94%D0%BE%D0%BC%2023/1%D0%BA34.06.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_120918.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_120924.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_120941.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_120945.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_120952.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_120956.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_121008.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_121014.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_121024.jpg</image>
 <image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/20210726_113322.jpg</image>
 <image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/20210726_114823.jpg</image>
 <image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/20210726_122506.jpg</image>
 <image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/20210726_122528.jpg</image>
 <area>
-<value>51.26</value>
+<value>34.06</value>
 <unit>sq. m</unit>
 </area>
 <description>В конце 2019 года начался масштабный проект комплексного освоения территории в 15 микрорайоне северного жилого района города Ярославля. Строительство второго жилого дома (N 25) начато в 2020 году, передача квартир и вручение ключей планируется в 1 квартале 2022 года. Цветовое решение фасада выполнено с применением тонированного керамического кирпича. Теплоснабжение и горячее водоснабжение многоквартирного жилого дома спроектировано с учетом наличия крышной котельной. В доме один грузопассажирский лифт. Просторные межквартирные коридоры добавляют комфортности. Отделка и оборудование квартир: стены – простая штукатурка без обоев и окраски, потолки – железобетонная плита без окраски, полы – полусухая цементно-песчаная стяжка без покрытия, скрытая электропроводка с розетками и выключателями, система отопления с радиаторами, стояки холодного и горячего водоснабжения с приборами учета, канализационный стояк, окна ПВХ, входная дверь. На придомовой территории будут созданы максимально комфортные условия для его жителей. Парковочные места предусмотрены во дворе комплекса и параллельно Ленинградскому проспекту. Во дворе дома уютно располагаются детская площадка, площадка для спорта и отдыха. Приобретение квартир осуществляется с использованием счетов ЭСКРОУ.</description>
@@ -18226,18 +18202,15 @@
 <category>flat</category>
 <deal-status>reassignment</deal-status>
 <living-space>
-<value>27.67</value>
+<value>16.33</value>
 </living-space>
 <room-space>
-<value>10.98</value>
+<value>16.33</value>
 </room-space>
-<room-space>
-<value>16.69</value>
-</room-space>
-<rooms>2</rooms>
-<rooms-offered>2</rooms-offered>
+<rooms>1</rooms>
+<rooms-offered>1</rooms-offered>
 <kitchen-space>
-<value>11.5</value>
+<value>9.32</value>
 </kitchen-space>
 <renovation>черновая отделка</renovation>
 <window-view>во двор</window-view>
@@ -18250,7 +18223,7 @@
 <parking>0</parking>
 <rubbish-chute>0</rubbish-chute>
 </offer>
-<offer internal-id="apartment_253">
+<offer internal-id="apartment_263">
 <creation-date>2021-07-27T00:00:00+03:00</creation-date>
 <location>
 <country>Россия</country>
@@ -18265,30 +18238,30 @@
 <category>agency</category>
 </sales-agent>
 <price>
-<value>2665520</value>
+<value>1771120</value>
 <currency>RUB</currency>
 </price>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/'%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81'%20%D0%BF%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/%D0%94%D0%BE%D0%BC%2023/2%D0%BA51.26.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/'%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81'%20%D0%BF%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/%D0%94%D0%BE%D0%BC%2023/2%D0%BA51.26.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120832.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120836.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120841.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120843.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120851.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120855.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120859.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120911.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120914.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/'%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81'%20%D0%BF%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/%D0%94%D0%BE%D0%BC%2023/1%D0%BA34.06.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/'%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81'%20%D0%BF%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/%D0%94%D0%BE%D0%BC%2023/1%D0%BA34.06.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_120918.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_120924.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_120941.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_120945.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_120952.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_120956.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_121008.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_121014.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_121024.jpg</image>
 <image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/20210726_113322.jpg</image>
 <image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/20210726_114823.jpg</image>
 <image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/20210726_122506.jpg</image>
 <image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/20210726_122528.jpg</image>
 <area>
-<value>51.26</value>
+<value>34.06</value>
 <unit>sq. m</unit>
 </area>
 <description>В конце 2019 года начался масштабный проект комплексного освоения территории в 15 микрорайоне северного жилого района города Ярославля. Строительство второго жилого дома (N 25) начато в 2020 году, передача квартир и вручение ключей планируется в 1 квартале 2022 года. Цветовое решение фасада выполнено с применением тонированного керамического кирпича. Теплоснабжение и горячее водоснабжение многоквартирного жилого дома спроектировано с учетом наличия крышной котельной. В доме один грузопассажирский лифт. Просторные межквартирные коридоры добавляют комфортности. Отделка и оборудование квартир: стены – простая штукатурка без обоев и окраски, потолки – железобетонная плита без окраски, полы – полусухая цементно-песчаная стяжка без покрытия, скрытая электропроводка с розетками и выключателями, система отопления с радиаторами, стояки холодного и горячего водоснабжения с приборами учета, канализационный стояк, окна ПВХ, входная дверь. На придомовой территории будут созданы максимально комфортные условия для его жителей. Парковочные места предусмотрены во дворе комплекса и параллельно Ленинградскому проспекту. Во дворе дома уютно располагаются детская площадка, площадка для спорта и отдыха. Приобретение квартир осуществляется с использованием счетов ЭСКРОУ.</description>
-<floor>9</floor>
+<floor>8</floor>
 <floors-total>9</floors-total>
 <ceiling-height>2.7</ceiling-height>
 <built-year>2022</built-year>
@@ -18300,18 +18273,15 @@
 <category>flat</category>
 <deal-status>reassignment</deal-status>
 <living-space>
-<value>27.67</value>
+<value>16.33</value>
 </living-space>
 <room-space>
-<value>10.98</value>
+<value>16.33</value>
 </room-space>
-<room-space>
-<value>16.69</value>
-</room-space>
-<rooms>2</rooms>
-<rooms-offered>2</rooms-offered>
+<rooms>1</rooms>
+<rooms-offered>1</rooms-offered>
 <kitchen-space>
-<value>11.5</value>
+<value>9.32</value>
 </kitchen-space>
 <renovation>черновая отделка</renovation>
 <window-view>во двор</window-view>
@@ -18324,7 +18294,7 @@
 <parking>0</parking>
 <rubbish-chute>0</rubbish-chute>
 </offer>
-<offer internal-id="apartment_253">
+<offer internal-id="apartment_264">
 <creation-date>2021-07-27T00:00:00+03:00</creation-date>
 <location>
 <country>Россия</country>
@@ -18339,30 +18309,30 @@
 <category>agency</category>
 </sales-agent>
 <price>
-<value>2665520</value>
+<value>1771120</value>
 <currency>RUB</currency>
 </price>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/'%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81'%20%D0%BF%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/%D0%94%D0%BE%D0%BC%2023/2%D0%BA51.26.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/'%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81'%20%D0%BF%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/%D0%94%D0%BE%D0%BC%2023/2%D0%BA51.26.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120832.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120836.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120841.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120843.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120851.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120855.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120859.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120911.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120914.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/'%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81'%20%D0%BF%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/%D0%94%D0%BE%D0%BC%2023/1%D0%BA34.06.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/'%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81'%20%D0%BF%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/%D0%94%D0%BE%D0%BC%2023/1%D0%BA34.06.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_120918.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_120924.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_120941.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_120945.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_120952.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_120956.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_121008.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_121014.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_121024.jpg</image>
 <image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/20210726_113322.jpg</image>
 <image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/20210726_114823.jpg</image>
 <image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/20210726_122506.jpg</image>
 <image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/20210726_122528.jpg</image>
 <area>
-<value>51.26</value>
+<value>34.06</value>
 <unit>sq. m</unit>
 </area>
 <description>В конце 2019 года начался масштабный проект комплексного освоения территории в 15 микрорайоне северного жилого района города Ярославля. Строительство второго жилого дома (N 25) начато в 2020 году, передача квартир и вручение ключей планируется в 1 квартале 2022 года. Цветовое решение фасада выполнено с применением тонированного керамического кирпича. Теплоснабжение и горячее водоснабжение многоквартирного жилого дома спроектировано с учетом наличия крышной котельной. В доме один грузопассажирский лифт. Просторные межквартирные коридоры добавляют комфортности. Отделка и оборудование квартир: стены – простая штукатурка без обоев и окраски, потолки – железобетонная плита без окраски, полы – полусухая цементно-песчаная стяжка без покрытия, скрытая электропроводка с розетками и выключателями, система отопления с радиаторами, стояки холодного и горячего водоснабжения с приборами учета, канализационный стояк, окна ПВХ, входная дверь. На придомовой территории будут созданы максимально комфортные условия для его жителей. Парковочные места предусмотрены во дворе комплекса и параллельно Ленинградскому проспекту. Во дворе дома уютно располагаются детская площадка, площадка для спорта и отдыха. Приобретение квартир осуществляется с использованием счетов ЭСКРОУ.</description>
-<floor>9</floor>
+<floor>7</floor>
 <floors-total>9</floors-total>
 <ceiling-height>2.7</ceiling-height>
 <built-year>2022</built-year>
@@ -18374,18 +18344,15 @@
 <category>flat</category>
 <deal-status>reassignment</deal-status>
 <living-space>
-<value>27.67</value>
+<value>16.33</value>
 </living-space>
 <room-space>
-<value>10.98</value>
+<value>16.33</value>
 </room-space>
-<room-space>
-<value>16.69</value>
-</room-space>
-<rooms>2</rooms>
-<rooms-offered>2</rooms-offered>
+<rooms>1</rooms>
+<rooms-offered>1</rooms-offered>
 <kitchen-space>
-<value>11.5</value>
+<value>9.32</value>
 </kitchen-space>
 <renovation>черновая отделка</renovation>
 <window-view>во двор</window-view>
@@ -18398,7 +18365,7 @@
 <parking>0</parking>
 <rubbish-chute>0</rubbish-chute>
 </offer>
-<offer internal-id="apartment_253">
+<offer internal-id="apartment_265">
 <creation-date>2021-07-27T00:00:00+03:00</creation-date>
 <location>
 <country>Россия</country>
@@ -18413,30 +18380,30 @@
 <category>agency</category>
 </sales-agent>
 <price>
-<value>2665520</value>
+<value>1771120</value>
 <currency>RUB</currency>
 </price>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/'%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81'%20%D0%BF%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/%D0%94%D0%BE%D0%BC%2023/2%D0%BA51.26.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/'%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81'%20%D0%BF%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/%D0%94%D0%BE%D0%BC%2023/2%D0%BA51.26.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120832.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120836.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120841.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120843.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120851.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120855.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120859.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120911.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120914.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/'%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81'%20%D0%BF%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/%D0%94%D0%BE%D0%BC%2023/1%D0%BA34.06.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/'%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81'%20%D0%BF%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/%D0%94%D0%BE%D0%BC%2023/1%D0%BA34.06.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_120918.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_120924.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_120941.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_120945.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_120952.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_120956.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_121008.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_121014.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_121024.jpg</image>
 <image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/20210726_113322.jpg</image>
 <image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/20210726_114823.jpg</image>
 <image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/20210726_122506.jpg</image>
 <image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/20210726_122528.jpg</image>
 <area>
-<value>51.26</value>
+<value>34.06</value>
 <unit>sq. m</unit>
 </area>
 <description>В конце 2019 года начался масштабный проект комплексного освоения территории в 15 микрорайоне северного жилого района города Ярославля. Строительство второго жилого дома (N 25) начато в 2020 году, передача квартир и вручение ключей планируется в 1 квартале 2022 года. Цветовое решение фасада выполнено с применением тонированного керамического кирпича. Теплоснабжение и горячее водоснабжение многоквартирного жилого дома спроектировано с учетом наличия крышной котельной. В доме один грузопассажирский лифт. Просторные межквартирные коридоры добавляют комфортности. Отделка и оборудование квартир: стены – простая штукатурка без обоев и окраски, потолки – железобетонная плита без окраски, полы – полусухая цементно-песчаная стяжка без покрытия, скрытая электропроводка с розетками и выключателями, система отопления с радиаторами, стояки холодного и горячего водоснабжения с приборами учета, канализационный стояк, окна ПВХ, входная дверь. На придомовой территории будут созданы максимально комфортные условия для его жителей. Парковочные места предусмотрены во дворе комплекса и параллельно Ленинградскому проспекту. Во дворе дома уютно располагаются детская площадка, площадка для спорта и отдыха. Приобретение квартир осуществляется с использованием счетов ЭСКРОУ.</description>
-<floor>9</floor>
+<floor>4</floor>
 <floors-total>9</floors-total>
 <ceiling-height>2.7</ceiling-height>
 <built-year>2022</built-year>
@@ -18448,18 +18415,15 @@
 <category>flat</category>
 <deal-status>reassignment</deal-status>
 <living-space>
-<value>27.67</value>
+<value>16.33</value>
 </living-space>
 <room-space>
-<value>10.98</value>
+<value>16.33</value>
 </room-space>
-<room-space>
-<value>16.69</value>
-</room-space>
-<rooms>2</rooms>
-<rooms-offered>2</rooms-offered>
+<rooms>1</rooms>
+<rooms-offered>1</rooms-offered>
 <kitchen-space>
-<value>11.5</value>
+<value>9.32</value>
 </kitchen-space>
 <renovation>черновая отделка</renovation>
 <window-view>во двор</window-view>
@@ -18472,7 +18436,7 @@
 <parking>0</parking>
 <rubbish-chute>0</rubbish-chute>
 </offer>
-<offer internal-id="apartment_253">
+<offer internal-id="apartment_266">
 <creation-date>2021-07-27T00:00:00+03:00</creation-date>
 <location>
 <country>Россия</country>
@@ -18487,30 +18451,30 @@
 <category>agency</category>
 </sales-agent>
 <price>
-<value>2665520</value>
+<value>1771120</value>
 <currency>RUB</currency>
 </price>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/'%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81'%20%D0%BF%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/%D0%94%D0%BE%D0%BC%2023/2%D0%BA51.26.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/'%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81'%20%D0%BF%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/%D0%94%D0%BE%D0%BC%2023/2%D0%BA51.26.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120832.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120836.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120841.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120843.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120851.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120855.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120859.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120911.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120914.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/'%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81'%20%D0%BF%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/%D0%94%D0%BE%D0%BC%2023/1%D0%BA34.06.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/'%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81'%20%D0%BF%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/%D0%94%D0%BE%D0%BC%2023/1%D0%BA34.06.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_120918.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_120924.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_120941.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_120945.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_120952.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_120956.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_121008.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_121014.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_121024.jpg</image>
 <image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/20210726_113322.jpg</image>
 <image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/20210726_114823.jpg</image>
 <image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/20210726_122506.jpg</image>
 <image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/20210726_122528.jpg</image>
 <area>
-<value>51.26</value>
+<value>34.06</value>
 <unit>sq. m</unit>
 </area>
 <description>В конце 2019 года начался масштабный проект комплексного освоения территории в 15 микрорайоне северного жилого района города Ярославля. Строительство второго жилого дома (N 25) начато в 2020 году, передача квартир и вручение ключей планируется в 1 квартале 2022 года. Цветовое решение фасада выполнено с применением тонированного керамического кирпича. Теплоснабжение и горячее водоснабжение многоквартирного жилого дома спроектировано с учетом наличия крышной котельной. В доме один грузопассажирский лифт. Просторные межквартирные коридоры добавляют комфортности. Отделка и оборудование квартир: стены – простая штукатурка без обоев и окраски, потолки – железобетонная плита без окраски, полы – полусухая цементно-песчаная стяжка без покрытия, скрытая электропроводка с розетками и выключателями, система отопления с радиаторами, стояки холодного и горячего водоснабжения с приборами учета, канализационный стояк, окна ПВХ, входная дверь. На придомовой территории будут созданы максимально комфортные условия для его жителей. Парковочные места предусмотрены во дворе комплекса и параллельно Ленинградскому проспекту. Во дворе дома уютно располагаются детская площадка, площадка для спорта и отдыха. Приобретение квартир осуществляется с использованием счетов ЭСКРОУ.</description>
-<floor>9</floor>
+<floor>3</floor>
 <floors-total>9</floors-total>
 <ceiling-height>2.7</ceiling-height>
 <built-year>2022</built-year>
@@ -18522,18 +18486,15 @@
 <category>flat</category>
 <deal-status>reassignment</deal-status>
 <living-space>
-<value>27.67</value>
+<value>16.33</value>
 </living-space>
 <room-space>
-<value>10.98</value>
+<value>16.33</value>
 </room-space>
-<room-space>
-<value>16.69</value>
-</room-space>
-<rooms>2</rooms>
-<rooms-offered>2</rooms-offered>
+<rooms>1</rooms>
+<rooms-offered>1</rooms-offered>
 <kitchen-space>
-<value>11.5</value>
+<value>9.32</value>
 </kitchen-space>
 <renovation>черновая отделка</renovation>
 <window-view>во двор</window-view>
@@ -18546,7 +18507,7 @@
 <parking>0</parking>
 <rubbish-chute>0</rubbish-chute>
 </offer>
-<offer internal-id="apartment_253">
+<offer internal-id="apartment_267">
 <creation-date>2021-07-27T00:00:00+03:00</creation-date>
 <location>
 <country>Россия</country>
@@ -18561,30 +18522,30 @@
 <category>agency</category>
 </sales-agent>
 <price>
-<value>2665520</value>
+<value>1771120</value>
 <currency>RUB</currency>
 </price>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/'%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81'%20%D0%BF%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/%D0%94%D0%BE%D0%BC%2023/2%D0%BA51.26.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/'%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81'%20%D0%BF%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/%D0%94%D0%BE%D0%BC%2023/2%D0%BA51.26.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120832.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120836.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120841.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120843.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120851.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120855.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120859.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120911.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120914.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/'%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81'%20%D0%BF%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/%D0%94%D0%BE%D0%BC%2023/1%D0%BA34.06.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/'%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81'%20%D0%BF%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/%D0%94%D0%BE%D0%BC%2023/1%D0%BA34.06.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_120918.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_120924.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_120941.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_120945.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_120952.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_120956.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_121008.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_121014.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_121024.jpg</image>
 <image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/20210726_113322.jpg</image>
 <image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/20210726_114823.jpg</image>
 <image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/20210726_122506.jpg</image>
 <image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/20210726_122528.jpg</image>
 <area>
-<value>51.26</value>
+<value>34.06</value>
 <unit>sq. m</unit>
 </area>
 <description>В конце 2019 года начался масштабный проект комплексного освоения территории в 15 микрорайоне северного жилого района города Ярославля. Строительство второго жилого дома (N 25) начато в 2020 году, передача квартир и вручение ключей планируется в 1 квартале 2022 года. Цветовое решение фасада выполнено с применением тонированного керамического кирпича. Теплоснабжение и горячее водоснабжение многоквартирного жилого дома спроектировано с учетом наличия крышной котельной. В доме один грузопассажирский лифт. Просторные межквартирные коридоры добавляют комфортности. Отделка и оборудование квартир: стены – простая штукатурка без обоев и окраски, потолки – железобетонная плита без окраски, полы – полусухая цементно-песчаная стяжка без покрытия, скрытая электропроводка с розетками и выключателями, система отопления с радиаторами, стояки холодного и горячего водоснабжения с приборами учета, канализационный стояк, окна ПВХ, входная дверь. На придомовой территории будут созданы максимально комфортные условия для его жителей. Парковочные места предусмотрены во дворе комплекса и параллельно Ленинградскому проспекту. Во дворе дома уютно располагаются детская площадка, площадка для спорта и отдыха. Приобретение квартир осуществляется с использованием счетов ЭСКРОУ.</description>
-<floor>9</floor>
+<floor>2</floor>
 <floors-total>9</floors-total>
 <ceiling-height>2.7</ceiling-height>
 <built-year>2022</built-year>
@@ -18596,18 +18557,15 @@
 <category>flat</category>
 <deal-status>reassignment</deal-status>
 <living-space>
-<value>27.67</value>
+<value>16.33</value>
 </living-space>
 <room-space>
-<value>10.98</value>
+<value>16.33</value>
 </room-space>
-<room-space>
-<value>16.69</value>
-</room-space>
-<rooms>2</rooms>
-<rooms-offered>2</rooms-offered>
+<rooms>1</rooms>
+<rooms-offered>1</rooms-offered>
 <kitchen-space>
-<value>11.5</value>
+<value>9.32</value>
 </kitchen-space>
 <renovation>черновая отделка</renovation>
 <window-view>во двор</window-view>
@@ -18620,7 +18578,7 @@
 <parking>0</parking>
 <rubbish-chute>0</rubbish-chute>
 </offer>
-<offer internal-id="apartment_253">
+<offer internal-id="apartment_268">
 <creation-date>2021-07-27T00:00:00+03:00</creation-date>
 <location>
 <country>Россия</country>
@@ -18635,26 +18593,26 @@
 <category>agency</category>
 </sales-agent>
 <price>
-<value>2665520</value>
+<value>1771120</value>
 <currency>RUB</currency>
 </price>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/'%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81'%20%D0%BF%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/%D0%94%D0%BE%D0%BC%2023/2%D0%BA51.26.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/'%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81'%20%D0%BF%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/%D0%94%D0%BE%D0%BC%2023/2%D0%BA51.26.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120832.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120836.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120841.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120843.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120851.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120855.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120859.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120911.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120914.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/'%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81'%20%D0%BF%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/%D0%94%D0%BE%D0%BC%2023/1%D0%BA34.06.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/'%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81'%20%D0%BF%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/%D0%94%D0%BE%D0%BC%2023/1%D0%BA34.06.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_120918.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_120924.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_120941.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_120945.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_120952.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_120956.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_121008.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_121014.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_121024.jpg</image>
 <image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/20210726_113322.jpg</image>
 <image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/20210726_114823.jpg</image>
 <image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/20210726_122506.jpg</image>
 <image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/20210726_122528.jpg</image>
 <area>
-<value>51.26</value>
+<value>34.06</value>
 <unit>sq. m</unit>
 </area>
 <description>В конце 2019 года начался масштабный проект комплексного освоения территории в 15 микрорайоне северного жилого района города Ярославля. Строительство второго жилого дома (N 25) начато в 2020 году, передача квартир и вручение ключей планируется в 1 квартале 2022 года. Цветовое решение фасада выполнено с применением тонированного керамического кирпича. Теплоснабжение и горячее водоснабжение многоквартирного жилого дома спроектировано с учетом наличия крышной котельной. В доме один грузопассажирский лифт. Просторные межквартирные коридоры добавляют комфортности. Отделка и оборудование квартир: стены – простая штукатурка без обоев и окраски, потолки – железобетонная плита без окраски, полы – полусухая цементно-песчаная стяжка без покрытия, скрытая электропроводка с розетками и выключателями, система отопления с радиаторами, стояки холодного и горячего водоснабжения с приборами учета, канализационный стояк, окна ПВХ, входная дверь. На придомовой территории будут созданы максимально комфортные условия для его жителей. Парковочные места предусмотрены во дворе комплекса и параллельно Ленинградскому проспекту. Во дворе дома уютно располагаются детская площадка, площадка для спорта и отдыха. Приобретение квартир осуществляется с использованием счетов ЭСКРОУ.</description>
@@ -18670,18 +18628,15 @@
 <category>flat</category>
 <deal-status>reassignment</deal-status>
 <living-space>
-<value>27.67</value>
+<value>16.33</value>
 </living-space>
 <room-space>
-<value>10.98</value>
+<value>16.33</value>
 </room-space>
-<room-space>
-<value>16.69</value>
-</room-space>
-<rooms>2</rooms>
-<rooms-offered>2</rooms-offered>
+<rooms>1</rooms>
+<rooms-offered>1</rooms-offered>
 <kitchen-space>
-<value>11.5</value>
+<value>9.32</value>
 </kitchen-space>
 <renovation>черновая отделка</renovation>
 <window-view>во двор</window-view>
@@ -18694,7 +18649,7 @@
 <parking>0</parking>
 <rubbish-chute>0</rubbish-chute>
 </offer>
-<offer internal-id="apartment_253">
+<offer internal-id="apartment_269">
 <creation-date>2021-07-27T00:00:00+03:00</creation-date>
 <location>
 <country>Россия</country>
@@ -18709,30 +18664,30 @@
 <category>agency</category>
 </sales-agent>
 <price>
-<value>2665520</value>
+<value>1771120</value>
 <currency>RUB</currency>
 </price>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/'%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81'%20%D0%BF%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/%D0%94%D0%BE%D0%BC%2023/2%D0%BA51.26.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/'%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81'%20%D0%BF%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/%D0%94%D0%BE%D0%BC%2023/2%D0%BA51.26.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120832.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120836.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120841.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120843.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120851.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120855.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120859.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120911.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120914.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/'%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81'%20%D0%BF%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/%D0%94%D0%BE%D0%BC%2023/1%D0%BA34.06.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/'%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81'%20%D0%BF%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/%D0%94%D0%BE%D0%BC%2023/1%D0%BA34.06.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_120918.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_120924.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_120941.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_120945.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_120952.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_120956.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_121008.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_121014.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_121024.jpg</image>
 <image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/20210726_113322.jpg</image>
 <image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/20210726_114823.jpg</image>
 <image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/20210726_122506.jpg</image>
 <image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/20210726_122528.jpg</image>
 <area>
-<value>51.26</value>
+<value>34.06</value>
 <unit>sq. m</unit>
 </area>
 <description>В конце 2019 года начался масштабный проект комплексного освоения территории в 15 микрорайоне северного жилого района города Ярославля. Строительство второго жилого дома (N 25) начато в 2020 году, передача квартир и вручение ключей планируется в 1 квартале 2022 года. Цветовое решение фасада выполнено с применением тонированного керамического кирпича. Теплоснабжение и горячее водоснабжение многоквартирного жилого дома спроектировано с учетом наличия крышной котельной. В доме один грузопассажирский лифт. Просторные межквартирные коридоры добавляют комфортности. Отделка и оборудование квартир: стены – простая штукатурка без обоев и окраски, потолки – железобетонная плита без окраски, полы – полусухая цементно-песчаная стяжка без покрытия, скрытая электропроводка с розетками и выключателями, система отопления с радиаторами, стояки холодного и горячего водоснабжения с приборами учета, канализационный стояк, окна ПВХ, входная дверь. На придомовой территории будут созданы максимально комфортные условия для его жителей. Парковочные места предусмотрены во дворе комплекса и параллельно Ленинградскому проспекту. Во дворе дома уютно располагаются детская площадка, площадка для спорта и отдыха. Приобретение квартир осуществляется с использованием счетов ЭСКРОУ.</description>
-<floor>9</floor>
+<floor>7</floor>
 <floors-total>9</floors-total>
 <ceiling-height>2.7</ceiling-height>
 <built-year>2022</built-year>
@@ -18744,18 +18699,15 @@
 <category>flat</category>
 <deal-status>reassignment</deal-status>
 <living-space>
-<value>27.67</value>
+<value>16.33</value>
 </living-space>
 <room-space>
-<value>10.98</value>
+<value>16.33</value>
 </room-space>
-<room-space>
-<value>16.69</value>
-</room-space>
-<rooms>2</rooms>
-<rooms-offered>2</rooms-offered>
+<rooms>1</rooms>
+<rooms-offered>1</rooms-offered>
 <kitchen-space>
-<value>11.5</value>
+<value>9.32</value>
 </kitchen-space>
 <renovation>черновая отделка</renovation>
 <window-view>во двор</window-view>
@@ -18768,7 +18720,7 @@
 <parking>0</parking>
 <rubbish-chute>0</rubbish-chute>
 </offer>
-<offer internal-id="apartment_253">
+<offer internal-id="apartment_270">
 <creation-date>2021-07-27T00:00:00+03:00</creation-date>
 <location>
 <country>Россия</country>
@@ -18783,30 +18735,30 @@
 <category>agency</category>
 </sales-agent>
 <price>
-<value>2665520</value>
+<value>1771120</value>
 <currency>RUB</currency>
 </price>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/'%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81'%20%D0%BF%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/%D0%94%D0%BE%D0%BC%2023/2%D0%BA51.26.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/'%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81'%20%D0%BF%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/%D0%94%D0%BE%D0%BC%2023/2%D0%BA51.26.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120832.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120836.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120841.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120843.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120851.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120855.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120859.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120911.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120914.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/'%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81'%20%D0%BF%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/%D0%94%D0%BE%D0%BC%2023/1%D0%BA34.06.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/'%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81'%20%D0%BF%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/%D0%94%D0%BE%D0%BC%2023/1%D0%BA34.06.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_120918.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_120924.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_120941.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_120945.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_120952.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_120956.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_121008.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_121014.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_121024.jpg</image>
 <image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/20210726_113322.jpg</image>
 <image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/20210726_114823.jpg</image>
 <image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/20210726_122506.jpg</image>
 <image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/20210726_122528.jpg</image>
 <area>
-<value>51.26</value>
+<value>34.06</value>
 <unit>sq. m</unit>
 </area>
 <description>В конце 2019 года начался масштабный проект комплексного освоения территории в 15 микрорайоне северного жилого района города Ярославля. Строительство второго жилого дома (N 25) начато в 2020 году, передача квартир и вручение ключей планируется в 1 квартале 2022 года. Цветовое решение фасада выполнено с применением тонированного керамического кирпича. Теплоснабжение и горячее водоснабжение многоквартирного жилого дома спроектировано с учетом наличия крышной котельной. В доме один грузопассажирский лифт. Просторные межквартирные коридоры добавляют комфортности. Отделка и оборудование квартир: стены – простая штукатурка без обоев и окраски, потолки – железобетонная плита без окраски, полы – полусухая цементно-песчаная стяжка без покрытия, скрытая электропроводка с розетками и выключателями, система отопления с радиаторами, стояки холодного и горячего водоснабжения с приборами учета, канализационный стояк, окна ПВХ, входная дверь. На придомовой территории будут созданы максимально комфортные условия для его жителей. Парковочные места предусмотрены во дворе комплекса и параллельно Ленинградскому проспекту. Во дворе дома уютно располагаются детская площадка, площадка для спорта и отдыха. Приобретение квартир осуществляется с использованием счетов ЭСКРОУ.</description>
-<floor>9</floor>
+<floor>5</floor>
 <floors-total>9</floors-total>
 <ceiling-height>2.7</ceiling-height>
 <built-year>2022</built-year>
@@ -18818,18 +18770,15 @@
 <category>flat</category>
 <deal-status>reassignment</deal-status>
 <living-space>
-<value>27.67</value>
+<value>16.33</value>
 </living-space>
 <room-space>
-<value>10.98</value>
+<value>16.33</value>
 </room-space>
-<room-space>
-<value>16.69</value>
-</room-space>
-<rooms>2</rooms>
-<rooms-offered>2</rooms-offered>
+<rooms>1</rooms>
+<rooms-offered>1</rooms-offered>
 <kitchen-space>
-<value>11.5</value>
+<value>9.32</value>
 </kitchen-space>
 <renovation>черновая отделка</renovation>
 <window-view>во двор</window-view>
@@ -18842,7 +18791,7 @@
 <parking>0</parking>
 <rubbish-chute>0</rubbish-chute>
 </offer>
-<offer internal-id="apartment_253">
+<offer internal-id="apartment_271">
 <creation-date>2021-07-27T00:00:00+03:00</creation-date>
 <location>
 <country>Россия</country>
@@ -18857,30 +18806,30 @@
 <category>agency</category>
 </sales-agent>
 <price>
-<value>2665520</value>
+<value>1771120</value>
 <currency>RUB</currency>
 </price>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/'%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81'%20%D0%BF%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/%D0%94%D0%BE%D0%BC%2023/2%D0%BA51.26.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/'%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81'%20%D0%BF%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/%D0%94%D0%BE%D0%BC%2023/2%D0%BA51.26.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120832.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120836.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120841.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120843.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120851.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120855.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120859.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120911.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120914.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/'%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81'%20%D0%BF%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/%D0%94%D0%BE%D0%BC%2023/1%D0%BA34.06.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/'%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81'%20%D0%BF%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/%D0%94%D0%BE%D0%BC%2023/1%D0%BA34.06.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_120918.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_120924.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_120941.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_120945.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_120952.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_120956.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_121008.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_121014.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_121024.jpg</image>
 <image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/20210726_113322.jpg</image>
 <image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/20210726_114823.jpg</image>
 <image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/20210726_122506.jpg</image>
 <image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/20210726_122528.jpg</image>
 <area>
-<value>51.26</value>
+<value>34.06</value>
 <unit>sq. m</unit>
 </area>
 <description>В конце 2019 года начался масштабный проект комплексного освоения территории в 15 микрорайоне северного жилого района города Ярославля. Строительство второго жилого дома (N 25) начато в 2020 году, передача квартир и вручение ключей планируется в 1 квартале 2022 года. Цветовое решение фасада выполнено с применением тонированного керамического кирпича. Теплоснабжение и горячее водоснабжение многоквартирного жилого дома спроектировано с учетом наличия крышной котельной. В доме один грузопассажирский лифт. Просторные межквартирные коридоры добавляют комфортности. Отделка и оборудование квартир: стены – простая штукатурка без обоев и окраски, потолки – железобетонная плита без окраски, полы – полусухая цементно-песчаная стяжка без покрытия, скрытая электропроводка с розетками и выключателями, система отопления с радиаторами, стояки холодного и горячего водоснабжения с приборами учета, канализационный стояк, окна ПВХ, входная дверь. На придомовой территории будут созданы максимально комфортные условия для его жителей. Парковочные места предусмотрены во дворе комплекса и параллельно Ленинградскому проспекту. Во дворе дома уютно располагаются детская площадка, площадка для спорта и отдыха. Приобретение квартир осуществляется с использованием счетов ЭСКРОУ.</description>
-<floor>9</floor>
+<floor>3</floor>
 <floors-total>9</floors-total>
 <ceiling-height>2.7</ceiling-height>
 <built-year>2022</built-year>
@@ -18892,18 +18841,15 @@
 <category>flat</category>
 <deal-status>reassignment</deal-status>
 <living-space>
-<value>27.67</value>
+<value>16.33</value>
 </living-space>
 <room-space>
-<value>10.98</value>
+<value>16.33</value>
 </room-space>
-<room-space>
-<value>16.69</value>
-</room-space>
-<rooms>2</rooms>
-<rooms-offered>2</rooms-offered>
+<rooms>1</rooms>
+<rooms-offered>1</rooms-offered>
 <kitchen-space>
-<value>11.5</value>
+<value>9.32</value>
 </kitchen-space>
 <renovation>черновая отделка</renovation>
 <window-view>во двор</window-view>
@@ -18916,7 +18862,7 @@
 <parking>0</parking>
 <rubbish-chute>0</rubbish-chute>
 </offer>
-<offer internal-id="apartment_253">
+<offer internal-id="apartment_272">
 <creation-date>2021-07-27T00:00:00+03:00</creation-date>
 <location>
 <country>Россия</country>
@@ -18931,30 +18877,30 @@
 <category>agency</category>
 </sales-agent>
 <price>
-<value>2665520</value>
+<value>1771120</value>
 <currency>RUB</currency>
 </price>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/'%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81'%20%D0%BF%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/%D0%94%D0%BE%D0%BC%2023/2%D0%BA51.26.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/'%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81'%20%D0%BF%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/%D0%94%D0%BE%D0%BC%2023/2%D0%BA51.26.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120832.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120836.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120841.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120843.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120851.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120855.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120859.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120911.jpg</image>
-<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/2%D0%BA/20210726_120914.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/'%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81'%20%D0%BF%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/%D0%94%D0%BE%D0%BC%2023/1%D0%BA34.06.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/'%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81'%20%D0%BF%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/%D0%94%D0%BE%D0%BC%2023/1%D0%BA34.06.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_120918.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_120924.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_120941.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_120945.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_120952.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_120956.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_121008.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_121014.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/%D0%94%D0%BE%D0%BC%2023/9%D1%8D%D1%82/1%D0%BA/20210726_121024.jpg</image>
 <image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/20210726_113322.jpg</image>
 <image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/20210726_114823.jpg</image>
 <image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/20210726_122506.jpg</image>
 <image>https://raw.githubusercontent.com/REMCAlpha/XML_YML/master/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81/%D0%A4%D0%BE%D1%82%D0%BE/20210726_122528.jpg</image>
 <area>
-<value>51.26</value>
+<value>34.06</value>
 <unit>sq. m</unit>
 </area>
 <description>В конце 2019 года начался масштабный проект комплексного освоения территории в 15 микрорайоне северного жилого района города Ярославля. Строительство второго жилого дома (N 25) начато в 2020 году, передача квартир и вручение ключей планируется в 1 квартале 2022 года. Цветовое решение фасада выполнено с применением тонированного керамического кирпича. Теплоснабжение и горячее водоснабжение многоквартирного жилого дома спроектировано с учетом наличия крышной котельной. В доме один грузопассажирский лифт. Просторные межквартирные коридоры добавляют комфортности. Отделка и оборудование квартир: стены – простая штукатурка без обоев и окраски, потолки – железобетонная плита без окраски, полы – полусухая цементно-песчаная стяжка без покрытия, скрытая электропроводка с розетками и выключателями, система отопления с радиаторами, стояки холодного и горячего водоснабжения с приборами учета, канализационный стояк, окна ПВХ, входная дверь. На придомовой территории будут созданы максимально комфортные условия для его жителей. Парковочные места предусмотрены во дворе комплекса и параллельно Ленинградскому проспекту. Во дворе дома уютно располагаются детская площадка, площадка для спорта и отдыха. Приобретение квартир осуществляется с использованием счетов ЭСКРОУ.</description>
-<floor>9</floor>
+<floor>2</floor>
 <floors-total>9</floors-total>
 <ceiling-height>2.7</ceiling-height>
 <built-year>2022</built-year>
@@ -18966,18 +18912,15 @@
 <category>flat</category>
 <deal-status>reassignment</deal-status>
 <living-space>
-<value>27.67</value>
+<value>16.33</value>
 </living-space>
 <room-space>
-<value>10.98</value>
+<value>16.33</value>
 </room-space>
-<room-space>
-<value>16.69</value>
-</room-space>
-<rooms>2</rooms>
-<rooms-offered>2</rooms-offered>
+<rooms>1</rooms>
+<rooms-offered>1</rooms-offered>
 <kitchen-space>
-<value>11.5</value>
+<value>9.32</value>
 </kitchen-space>
 <renovation>черновая отделка</renovation>
 <window-view>во двор</window-view>
