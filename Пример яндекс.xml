@@ -20353,4 +20353,63 @@
 <parking>0</parking>
 <rubbish-chute>0</rubbish-chute>
 </offer>
+<offer internal-id="apartment_Саукова">
+<creation-date>2021-07-20T00:00:00+03:00</creation-date>
+<location>
+<country>Россия</country>
+<region>Ярославская область</region>
+<locality-name>Ярославль</locality-name>
+<sub-locality-name>Заволжский</sub-locality-name>
+<address>Саукова, 10</address>
+</location>
+<sales-agent>
+<name>Вадим</name>
+<phone>8(996)241-25-71</phone>
+<category>agency</category>
+</sales-agent>
+<price>
+<value>4500000</value>
+<currency>RUB</currency>
+</price>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%A1%D0%B0%D1%83%D0%BA%D0%BE%D0%B2%D0%B0%2010/%D0%BF%D0%BB%D0%B0%D0%BD.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%A1%D0%B0%D1%83%D0%BA%D0%BE%D0%B2%D0%B0%2010/%D0%BF%D0%BB%D0%B0%D0%BD.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%A1%D0%B0%D1%83%D0%BA%D0%BE%D0%B2%D0%B0%2010/20210603_145556.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%A1%D0%B0%D1%83%D0%BA%D0%BE%D0%B2%D0%B0%2010/20210603_145402.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%A1%D0%B0%D1%83%D0%BA%D0%BE%D0%B2%D0%B0%2010/20210603_145348.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%A1%D0%B0%D1%83%D0%BA%D0%BE%D0%B2%D0%B0%2010/20210603_145342%20%E2%80%94%20%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%A1%D0%B0%D1%83%D0%BA%D0%BE%D0%B2%D0%B0%2010/20210603_145336.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%A1%D0%B0%D1%83%D0%BA%D0%BE%D0%B2%D0%B0%2010/20210603_144742.jpg</image>
+<area>
+<value>90</value>
+<unit>sq. m</unit>
+</area>
+<description>Квартира расположена в центре Заволжского района. В шаговой доступности школы, детские сады, поликлиники, сосновый бор, магазины и гипермаркеты. Первый этаж на уровне второго. К КВАРТИРЕ ПРИЛАГАЕТСЯ ПАРКОВКА на охраняемой многоуровневой автостоянке на ул.Красноборская, 34а! Окажем содействие в одобрении ипотечного кредита, получении первоначального взноса. Есть возможность принять в зачет недвижимость, автомобиль.</description>
+<floor>1</floor>
+<floors-total>10</floors-total>
+<ceiling-height>2.7</ceiling-height>
+<built-year>2014</built-year>
+<ready-quarter>1</ready-quarter>
+<yandex-building-id>559604</yandex-building-id>
+<yandex-house-id>559617</yandex-house-id>
+<type>продажа</type>
+<property-type>living</property-type>
+<category>flat</category>
+<deal-status>sale</deal-status>
+<rooms>3</rooms>
+<rooms-offered>3</rooms-offered>
+<kitchen-space>
+<value>14</value>
+</kitchen-space>
+<renovation>черновая отделка</renovation>
+<renovation>требует ремонта</renovation>
+<window-view>во двор</window-view>
+<balcony>2лоджии</balcony>
+<bathroom-unit>1</bathroom-unit>
+<building-name>ЖК по ул. Саукова</building-name>
+<building-type>монолит</building-type>
+<building-state>hand-over</building-state>
+<lift>true</lift>
+<parking>0</parking>
+<rubbish-chute>0</rubbish-chute>
+</offer>
 </realty-feed>
