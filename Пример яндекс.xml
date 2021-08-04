@@ -22203,4 +22203,1312 @@
 <parking>0</parking>
 <rubbish-chute>0</rubbish-chute>
 </offer>
+<offer internal-id="apartment_321">
+<creation-date>2021-08-04T00:00:00+03:00</creation-date>
+<location>
+<country>Россия</country>
+<region>Ярославская область</region>
+<locality-name>Ярославль</locality-name>
+<address>1-я Приволжская улица, 16</address>
+</location>
+<sales-agent>
+<name>Вадим</name>
+<phone>8(996)241-25-71</phone>
+<category>agency</category>
+</sales-agent>
+<price>
+<value>5180000</value>
+<currency>RUB</currency>
+</price>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%94%D0%BE%D0%BC%203/%D0%9F%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/3%D0%BA86%2C4.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%94%D0%BE%D0%BC%203/%D0%9F%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/3%D0%BA86%2C4.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%94%D0%BE%D0%BC%203/%D0%A1%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%204%20%D1%8D%D1%82%D0%B0%D0%B6.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%A4%D0%BE%D1%82%D0%BE/044d46ad9b27ef2a852b603dc7438a40.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%A4%D0%BE%D1%82%D0%BE/2e571b7a510b81cb6817934577e6b352.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%A4%D0%BE%D1%82%D0%BE/32588796ad3900d0faf3ec59bc3531a5.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%A4%D0%BE%D1%82%D0%BE/3eb77f494a1439ca5344b58103006b52.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%A4%D0%BE%D1%82%D0%BE/900da3b192255e5d7428b28391bf608f.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%A4%D0%BE%D1%82%D0%BE/cf96e9f23ebb7ae76fbdf082782d09d4.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%A4%D0%BE%D1%82%D0%BE/df7066d655c075c07c2d88db4c242131.jpg</image>
+<area>
+<value>86.4</value>
+<unit>sq. m</unit>
+</area>
+<description>Новый жилой дом №3 – уже третий по счету дом, строящийся в рамках масштабного проекта ЖК «Московский Квартал», продуманный с учетом всех потребностей современного городского жителя. Активный ритм современного мегаполиса требует быстроты, мобильности и высоких энергозатрат. Поэтому так важно иметь возможность восстанавливать силы у себя дома и с максимальным комфортом проводить время с семьей – принимая гостей в новой квартире, занимаясь любимым хобби на обустроенной лоджии-террасе или совершая новую кулинарную победу на просторной кухне-гостиной. Ненавязчивая архитектура, комфортная высотность домов, традиционный материал строительства, удобное расположение дома, функциональные планировки квартир. Дом №3 располагается поблизости от Московского проспекта и проспекта Фрунзе, состоит из 4 подъездов комфортной высотности. 1-я очередь строительства – две 9-этажные секции, расположенные вдоль проспекта Фрунзе, ввод – сентябрь 2022 г. Окажем содействие в одобрении ипотечного кредита, получении первоначального взноса. Есть возможность принять в зачет недвижимость, автомобиль.</description>
+<floor>6</floor>
+<floors-total>9</floors-total>
+<ceiling-height>2.7</ceiling-height>
+<built-year>2022</built-year>
+<ready-quarter>2</ready-quarter>
+<yandex-building-id>538643</yandex-building-id>
+<yandex-house-id>1685075</yandex-house-id>
+<type>продажа</type>
+<property-type>living</property-type>
+<category>flat</category>
+<deal-status>reassignment</deal-status>
+<living-space>
+<value>41.99</value>
+</living-space>
+<room-space>
+<value>13.18</value>
+</room-space>
+<room-space>
+<value>14.18</value>
+</room-space>
+<room-space>
+<value>14.63</value>
+</room-space>
+<rooms>3</rooms>
+<rooms-offered>3</rooms-offered>
+<kitchen-space>
+<value>21.03</value>
+</kitchen-space>
+<renovation>черновая отделка</renovation>
+<window-view>во двор</window-view>
+<balcony>балкон</balcony>
+<bathroom-unit>1</bathroom-unit>
+<building-name>микрорайон «Московский квартал»</building-name>
+<building-type>кирпичный</building-type>
+<building-state>unfinished</building-state>
+<lift>true</lift>
+<parking>0</parking>
+<rubbish-chute>0</rubbish-chute>
+</offer>
+<offer internal-id="apartment_322">
+<creation-date>2021-08-04T00:00:00+03:00</creation-date>
+<location>
+<country>Россия</country>
+<region>Ярославская область</region>
+<locality-name>Ярославль</locality-name>
+<address>1-я Приволжская улица, 16</address>
+</location>
+<sales-agent>
+<name>Вадим</name>
+<phone>8(996)241-25-71</phone>
+<category>agency</category>
+</sales-agent>
+<price>
+<value>5120000</value>
+<currency>RUB</currency>
+</price>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%94%D0%BE%D0%BC%203/%D0%9F%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/3%D0%BA86%2C4.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%94%D0%BE%D0%BC%203/%D0%9F%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/3%D0%BA86%2C4.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%94%D0%BE%D0%BC%203/%D0%A1%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%204%20%D1%8D%D1%82%D0%B0%D0%B6.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%A4%D0%BE%D1%82%D0%BE/044d46ad9b27ef2a852b603dc7438a40.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%A4%D0%BE%D1%82%D0%BE/2e571b7a510b81cb6817934577e6b352.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%A4%D0%BE%D1%82%D0%BE/32588796ad3900d0faf3ec59bc3531a5.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%A4%D0%BE%D1%82%D0%BE/3eb77f494a1439ca5344b58103006b52.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%A4%D0%BE%D1%82%D0%BE/900da3b192255e5d7428b28391bf608f.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%A4%D0%BE%D1%82%D0%BE/cf96e9f23ebb7ae76fbdf082782d09d4.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%A4%D0%BE%D1%82%D0%BE/df7066d655c075c07c2d88db4c242131.jpg</image>
+<area>
+<value>86.4</value>
+<unit>sq. m</unit>
+</area>
+<description>Новый жилой дом №3 – уже третий по счету дом, строящийся в рамках масштабного проекта ЖК «Московский Квартал», продуманный с учетом всех потребностей современного городского жителя. Активный ритм современного мегаполиса требует быстроты, мобильности и высоких энергозатрат. Поэтому так важно иметь возможность восстанавливать силы у себя дома и с максимальным комфортом проводить время с семьей – принимая гостей в новой квартире, занимаясь любимым хобби на обустроенной лоджии-террасе или совершая новую кулинарную победу на просторной кухне-гостиной. Ненавязчивая архитектура, комфортная высотность домов, традиционный материал строительства, удобное расположение дома, функциональные планировки квартир. Дом №3 располагается поблизости от Московского проспекта и проспекта Фрунзе, состоит из 4 подъездов комфортной высотности. 1-я очередь строительства – две 9-этажные секции, расположенные вдоль проспекта Фрунзе, ввод – сентябрь 2022 г. Окажем содействие в одобрении ипотечного кредита, получении первоначального взноса. Есть возможность принять в зачет недвижимость, автомобиль.</description>
+<floor>5</floor>
+<floors-total>9</floors-total>
+<ceiling-height>2.7</ceiling-height>
+<built-year>2022</built-year>
+<ready-quarter>2</ready-quarter>
+<yandex-building-id>538643</yandex-building-id>
+<yandex-house-id>1685075</yandex-house-id>
+<type>продажа</type>
+<property-type>living</property-type>
+<category>flat</category>
+<deal-status>reassignment</deal-status>
+<living-space>
+<value>41.99</value>
+</living-space>
+<room-space>
+<value>13.18</value>
+</room-space>
+<room-space>
+<value>14.18</value>
+</room-space>
+<room-space>
+<value>14.63</value>
+</room-space>
+<rooms>3</rooms>
+<rooms-offered>3</rooms-offered>
+<kitchen-space>
+<value>21.03</value>
+</kitchen-space>
+<renovation>черновая отделка</renovation>
+<window-view>во двор</window-view>
+<balcony>балкон</balcony>
+<bathroom-unit>1</bathroom-unit>
+<building-name>микрорайон «Московский квартал»</building-name>
+<building-type>кирпичный</building-type>
+<building-state>unfinished</building-state>
+<lift>true</lift>
+<parking>0</parking>
+<rubbish-chute>0</rubbish-chute>
+</offer>
+<offer internal-id="apartment_323">
+<creation-date>2021-08-04T00:00:00+03:00</creation-date>
+<location>
+<country>Россия</country>
+<region>Ярославская область</region>
+<locality-name>Ярославль</locality-name>
+<address>1-я Приволжская улица, 16</address>
+</location>
+<sales-agent>
+<name>Вадим</name>
+<phone>8(996)241-25-71</phone>
+<category>agency</category>
+</sales-agent>
+<price>
+<value>5120000</value>
+<currency>RUB</currency>
+</price>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%94%D0%BE%D0%BC%203/%D0%9F%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/3%D0%BA86%2C4.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%94%D0%BE%D0%BC%203/%D0%9F%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/3%D0%BA86%2C4.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%94%D0%BE%D0%BC%203/%D0%A1%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%204%20%D1%8D%D1%82%D0%B0%D0%B6.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%A4%D0%BE%D1%82%D0%BE/044d46ad9b27ef2a852b603dc7438a40.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%A4%D0%BE%D1%82%D0%BE/2e571b7a510b81cb6817934577e6b352.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%A4%D0%BE%D1%82%D0%BE/32588796ad3900d0faf3ec59bc3531a5.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%A4%D0%BE%D1%82%D0%BE/3eb77f494a1439ca5344b58103006b52.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%A4%D0%BE%D1%82%D0%BE/900da3b192255e5d7428b28391bf608f.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%A4%D0%BE%D1%82%D0%BE/cf96e9f23ebb7ae76fbdf082782d09d4.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%A4%D0%BE%D1%82%D0%BE/df7066d655c075c07c2d88db4c242131.jpg</image>
+<area>
+<value>86.4</value>
+<unit>sq. m</unit>
+</area>
+<description>Новый жилой дом №3 – уже третий по счету дом, строящийся в рамках масштабного проекта ЖК «Московский Квартал», продуманный с учетом всех потребностей современного городского жителя. Активный ритм современного мегаполиса требует быстроты, мобильности и высоких энергозатрат. Поэтому так важно иметь возможность восстанавливать силы у себя дома и с максимальным комфортом проводить время с семьей – принимая гостей в новой квартире, занимаясь любимым хобби на обустроенной лоджии-террасе или совершая новую кулинарную победу на просторной кухне-гостиной. Ненавязчивая архитектура, комфортная высотность домов, традиционный материал строительства, удобное расположение дома, функциональные планировки квартир. Дом №3 располагается поблизости от Московского проспекта и проспекта Фрунзе, состоит из 4 подъездов комфортной высотности. 1-я очередь строительства – две 9-этажные секции, расположенные вдоль проспекта Фрунзе, ввод – сентябрь 2022 г. Окажем содействие в одобрении ипотечного кредита, получении первоначального взноса. Есть возможность принять в зачет недвижимость, автомобиль.</description>
+<floor>3</floor>
+<floors-total>9</floors-total>
+<ceiling-height>2.7</ceiling-height>
+<built-year>2022</built-year>
+<ready-quarter>2</ready-quarter>
+<yandex-building-id>538643</yandex-building-id>
+<yandex-house-id>1685075</yandex-house-id>
+<type>продажа</type>
+<property-type>living</property-type>
+<category>flat</category>
+<deal-status>reassignment</deal-status>
+<living-space>
+<value>41.99</value>
+</living-space>
+<room-space>
+<value>13.18</value>
+</room-space>
+<room-space>
+<value>14.18</value>
+</room-space>
+<room-space>
+<value>14.63</value>
+</room-space>
+<rooms>3</rooms>
+<rooms-offered>3</rooms-offered>
+<kitchen-space>
+<value>21.03</value>
+</kitchen-space>
+<renovation>черновая отделка</renovation>
+<window-view>во двор</window-view>
+<balcony>балкон</balcony>
+<bathroom-unit>1</bathroom-unit>
+<building-name>микрорайон «Московский квартал»</building-name>
+<building-type>кирпичный</building-type>
+<building-state>unfinished</building-state>
+<lift>true</lift>
+<parking>0</parking>
+<rubbish-chute>0</rubbish-chute>
+</offer>
+<offer internal-id="apartment_324">
+<creation-date>2021-08-04T00:00:00+03:00</creation-date>
+<location>
+<country>Россия</country>
+<region>Ярославская область</region>
+<locality-name>Ярославль</locality-name>
+<address>1-я Приволжская улица, 16</address>
+</location>
+<sales-agent>
+<name>Вадим</name>
+<phone>8(996)241-25-71</phone>
+<category>agency</category>
+</sales-agent>
+<price>
+<value>5060000</value>
+<currency>RUB</currency>
+</price>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%94%D0%BE%D0%BC%203/%D0%9F%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/3%D0%BA86%2C4.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%94%D0%BE%D0%BC%203/%D0%9F%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/3%D0%BA86%2C4.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%94%D0%BE%D0%BC%203/%D0%A1%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%204%20%D1%8D%D1%82%D0%B0%D0%B6.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%A4%D0%BE%D1%82%D0%BE/044d46ad9b27ef2a852b603dc7438a40.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%A4%D0%BE%D1%82%D0%BE/2e571b7a510b81cb6817934577e6b352.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%A4%D0%BE%D1%82%D0%BE/32588796ad3900d0faf3ec59bc3531a5.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%A4%D0%BE%D1%82%D0%BE/3eb77f494a1439ca5344b58103006b52.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%A4%D0%BE%D1%82%D0%BE/900da3b192255e5d7428b28391bf608f.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%A4%D0%BE%D1%82%D0%BE/cf96e9f23ebb7ae76fbdf082782d09d4.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%A4%D0%BE%D1%82%D0%BE/df7066d655c075c07c2d88db4c242131.jpg</image>
+<area>
+<value>86.4</value>
+<unit>sq. m</unit>
+</area>
+<description>Новый жилой дом №3 – уже третий по счету дом, строящийся в рамках масштабного проекта ЖК «Московский Квартал», продуманный с учетом всех потребностей современного городского жителя. Активный ритм современного мегаполиса требует быстроты, мобильности и высоких энергозатрат. Поэтому так важно иметь возможность восстанавливать силы у себя дома и с максимальным комфортом проводить время с семьей – принимая гостей в новой квартире, занимаясь любимым хобби на обустроенной лоджии-террасе или совершая новую кулинарную победу на просторной кухне-гостиной. Ненавязчивая архитектура, комфортная высотность домов, традиционный материал строительства, удобное расположение дома, функциональные планировки квартир. Дом №3 располагается поблизости от Московского проспекта и проспекта Фрунзе, состоит из 4 подъездов комфортной высотности. 1-я очередь строительства – две 9-этажные секции, расположенные вдоль проспекта Фрунзе, ввод – сентябрь 2022 г. Окажем содействие в одобрении ипотечного кредита, получении первоначального взноса. Есть возможность принять в зачет недвижимость, автомобиль.</description>
+<floor>2</floor>
+<floors-total>9</floors-total>
+<ceiling-height>2.7</ceiling-height>
+<built-year>2022</built-year>
+<ready-quarter>2</ready-quarter>
+<yandex-building-id>538643</yandex-building-id>
+<yandex-house-id>1685075</yandex-house-id>
+<type>продажа</type>
+<property-type>living</property-type>
+<category>flat</category>
+<deal-status>reassignment</deal-status>
+<living-space>
+<value>41.99</value>
+</living-space>
+<room-space>
+<value>13.18</value>
+</room-space>
+<room-space>
+<value>14.18</value>
+</room-space>
+<room-space>
+<value>14.63</value>
+</room-space>
+<rooms>3</rooms>
+<rooms-offered>3</rooms-offered>
+<kitchen-space>
+<value>21.03</value>
+</kitchen-space>
+<renovation>черновая отделка</renovation>
+<window-view>во двор</window-view>
+<balcony>балкон</balcony>
+<bathroom-unit>1</bathroom-unit>
+<building-name>микрорайон «Московский квартал»</building-name>
+<building-type>кирпичный</building-type>
+<building-state>unfinished</building-state>
+<lift>true</lift>
+<parking>0</parking>
+<rubbish-chute>0</rubbish-chute>
+</offer>
+<offer internal-id="apartment_325">
+<creation-date>2021-08-04T00:00:00+03:00</creation-date>
+<location>
+<country>Россия</country>
+<region>Ярославская область</region>
+<locality-name>Ярославль</locality-name>
+<address>1-я Приволжская улица, 16</address>
+</location>
+<sales-agent>
+<name>Вадим</name>
+<phone>8(996)241-25-71</phone>
+<category>agency</category>
+</sales-agent>
+<price>
+<value>2410000</value>
+<currency>RUB</currency>
+</price>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%94%D0%BE%D0%BC%203/%D0%9F%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/1%D0%BA35%2C63.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%94%D0%BE%D0%BC%203/%D0%9F%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/1%D0%BA35%2C63.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%94%D0%BE%D0%BC%203/%D0%A1%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%204%20%D1%8D%D1%82%D0%B0%D0%B6.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%A4%D0%BE%D1%82%D0%BE/044d46ad9b27ef2a852b603dc7438a40.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%A4%D0%BE%D1%82%D0%BE/2e571b7a510b81cb6817934577e6b352.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%A4%D0%BE%D1%82%D0%BE/32588796ad3900d0faf3ec59bc3531a5.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%A4%D0%BE%D1%82%D0%BE/3eb77f494a1439ca5344b58103006b52.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%A4%D0%BE%D1%82%D0%BE/900da3b192255e5d7428b28391bf608f.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%A4%D0%BE%D1%82%D0%BE/cf96e9f23ebb7ae76fbdf082782d09d4.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%A4%D0%BE%D1%82%D0%BE/df7066d655c075c07c2d88db4c242131.jpg</image>
+<area>
+<value>35.63</value>
+<unit>sq. m</unit>
+</area>
+<description>Новый жилой дом №3 – уже третий по счету дом, строящийся в рамках масштабного проекта ЖК «Московский Квартал», продуманный с учетом всех потребностей современного городского жителя. Активный ритм современного мегаполиса требует быстроты, мобильности и высоких энергозатрат. Поэтому так важно иметь возможность восстанавливать силы у себя дома и с максимальным комфортом проводить время с семьей – принимая гостей в новой квартире, занимаясь любимым хобби на обустроенной лоджии-террасе или совершая новую кулинарную победу на просторной кухне-гостиной. Ненавязчивая архитектура, комфортная высотность домов, традиционный материал строительства, удобное расположение дома, функциональные планировки квартир. Дом №3 располагается поблизости от Московского проспекта и проспекта Фрунзе, состоит из 4 подъездов комфортной высотности. 1-я очередь строительства – две 9-этажные секции, расположенные вдоль проспекта Фрунзе, ввод – сентябрь 2022 г. Окажем содействие в одобрении ипотечного кредита, получении первоначального взноса. Есть возможность принять в зачет недвижимость, автомобиль.</description>
+<floor>8</floor>
+<floors-total>9</floors-total>
+<ceiling-height>2.7</ceiling-height>
+<built-year>2022</built-year>
+<ready-quarter>2</ready-quarter>
+<yandex-building-id>538643</yandex-building-id>
+<yandex-house-id>1685075</yandex-house-id>
+<type>продажа</type>
+<property-type>living</property-type>
+<category>flat</category>
+<deal-status>reassignment</deal-status>
+<living-space>
+<value>14.61</value>
+</living-space>
+<room-space>
+<value>14.61</value>
+</room-space>
+<rooms>1</rooms>
+<rooms-offered>1</rooms-offered>
+<kitchen-space>
+<value>10.35</value>
+</kitchen-space>
+<renovation>черновая отделка</renovation>
+<window-view>во двор</window-view>
+<balcony>лоджия</balcony>
+<bathroom-unit>1</bathroom-unit>
+<building-name>микрорайон «Московский квартал»</building-name>
+<building-type>кирпичный</building-type>
+<building-state>unfinished</building-state>
+<lift>true</lift>
+<parking>0</parking>
+<rubbish-chute>0</rubbish-chute>
+</offer>
+<offer internal-id="apartment_326">
+<creation-date>2021-08-04T00:00:00+03:00</creation-date>
+<location>
+<country>Россия</country>
+<region>Ярославская область</region>
+<locality-name>Ярославль</locality-name>
+<address>1-я Приволжская улица, 16</address>
+</location>
+<sales-agent>
+<name>Вадим</name>
+<phone>8(996)241-25-71</phone>
+<category>agency</category>
+</sales-agent>
+<price>
+<value>2380000</value>
+<currency>RUB</currency>
+</price>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%94%D0%BE%D0%BC%203/%D0%9F%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/1%D0%BA35%2C63.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%94%D0%BE%D0%BC%203/%D0%9F%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/1%D0%BA35%2C63.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%94%D0%BE%D0%BC%203/%D0%A1%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%204%20%D1%8D%D1%82%D0%B0%D0%B6.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%A4%D0%BE%D1%82%D0%BE/044d46ad9b27ef2a852b603dc7438a40.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%A4%D0%BE%D1%82%D0%BE/2e571b7a510b81cb6817934577e6b352.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%A4%D0%BE%D1%82%D0%BE/32588796ad3900d0faf3ec59bc3531a5.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%A4%D0%BE%D1%82%D0%BE/3eb77f494a1439ca5344b58103006b52.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%A4%D0%BE%D1%82%D0%BE/900da3b192255e5d7428b28391bf608f.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%A4%D0%BE%D1%82%D0%BE/cf96e9f23ebb7ae76fbdf082782d09d4.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%A4%D0%BE%D1%82%D0%BE/df7066d655c075c07c2d88db4c242131.jpg</image>
+<area>
+<value>35.63</value>
+<unit>sq. m</unit>
+</area>
+<description>Новый жилой дом №3 – уже третий по счету дом, строящийся в рамках масштабного проекта ЖК «Московский Квартал», продуманный с учетом всех потребностей современного городского жителя. Активный ритм современного мегаполиса требует быстроты, мобильности и высоких энергозатрат. Поэтому так важно иметь возможность восстанавливать силы у себя дома и с максимальным комфортом проводить время с семьей – принимая гостей в новой квартире, занимаясь любимым хобби на обустроенной лоджии-террасе или совершая новую кулинарную победу на просторной кухне-гостиной. Ненавязчивая архитектура, комфортная высотность домов, традиционный материал строительства, удобное расположение дома, функциональные планировки квартир. Дом №3 располагается поблизости от Московского проспекта и проспекта Фрунзе, состоит из 4 подъездов комфортной высотности. 1-я очередь строительства – две 9-этажные секции, расположенные вдоль проспекта Фрунзе, ввод – сентябрь 2022 г. Окажем содействие в одобрении ипотечного кредита, получении первоначального взноса. Есть возможность принять в зачет недвижимость, автомобиль.</description>
+<floor>4</floor>
+<floors-total>9</floors-total>
+<ceiling-height>2.7</ceiling-height>
+<built-year>2022</built-year>
+<ready-quarter>2</ready-quarter>
+<yandex-building-id>538643</yandex-building-id>
+<yandex-house-id>1685075</yandex-house-id>
+<type>продажа</type>
+<property-type>living</property-type>
+<category>flat</category>
+<deal-status>reassignment</deal-status>
+<living-space>
+<value>14.61</value>
+</living-space>
+<room-space>
+<value>14.61</value>
+</room-space>
+<rooms>1</rooms>
+<rooms-offered>1</rooms-offered>
+<kitchen-space>
+<value>10.35</value>
+</kitchen-space>
+<renovation>черновая отделка</renovation>
+<window-view>во двор</window-view>
+<balcony>лоджия</balcony>
+<bathroom-unit>1</bathroom-unit>
+<building-name>микрорайон «Московский квартал»</building-name>
+<building-type>кирпичный</building-type>
+<building-state>unfinished</building-state>
+<lift>true</lift>
+<parking>0</parking>
+<rubbish-chute>0</rubbish-chute>
+</offer>
+<offer internal-id="apartment_327">
+<creation-date>2021-08-04T00:00:00+03:00</creation-date>
+<location>
+<country>Россия</country>
+<region>Ярославская область</region>
+<locality-name>Ярославль</locality-name>
+<address>1-я Приволжская улица, 16</address>
+</location>
+<sales-agent>
+<name>Вадим</name>
+<phone>8(996)241-25-71</phone>
+<category>agency</category>
+</sales-agent>
+<price>
+<value>2365000</value>
+<currency>RUB</currency>
+</price>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%94%D0%BE%D0%BC%203/%D0%9F%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/1%D0%BA35%2C63.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%94%D0%BE%D0%BC%203/%D0%9F%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/1%D0%BA35%2C63.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%94%D0%BE%D0%BC%203/%D0%A1%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%204%20%D1%8D%D1%82%D0%B0%D0%B6.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%A4%D0%BE%D1%82%D0%BE/044d46ad9b27ef2a852b603dc7438a40.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%A4%D0%BE%D1%82%D0%BE/2e571b7a510b81cb6817934577e6b352.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%A4%D0%BE%D1%82%D0%BE/32588796ad3900d0faf3ec59bc3531a5.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%A4%D0%BE%D1%82%D0%BE/3eb77f494a1439ca5344b58103006b52.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%A4%D0%BE%D1%82%D0%BE/900da3b192255e5d7428b28391bf608f.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%A4%D0%BE%D1%82%D0%BE/cf96e9f23ebb7ae76fbdf082782d09d4.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%A4%D0%BE%D1%82%D0%BE/df7066d655c075c07c2d88db4c242131.jpg</image>
+<area>
+<value>35.63</value>
+<unit>sq. m</unit>
+</area>
+<description>Новый жилой дом №3 – уже третий по счету дом, строящийся в рамках масштабного проекта ЖК «Московский Квартал», продуманный с учетом всех потребностей современного городского жителя. Активный ритм современного мегаполиса требует быстроты, мобильности и высоких энергозатрат. Поэтому так важно иметь возможность восстанавливать силы у себя дома и с максимальным комфортом проводить время с семьей – принимая гостей в новой квартире, занимаясь любимым хобби на обустроенной лоджии-террасе или совершая новую кулинарную победу на просторной кухне-гостиной. Ненавязчивая архитектура, комфортная высотность домов, традиционный материал строительства, удобное расположение дома, функциональные планировки квартир. Дом №3 располагается поблизости от Московского проспекта и проспекта Фрунзе, состоит из 4 подъездов комфортной высотности. 1-я очередь строительства – две 9-этажные секции, расположенные вдоль проспекта Фрунзе, ввод – сентябрь 2022 г. Окажем содействие в одобрении ипотечного кредита, получении первоначального взноса. Есть возможность принять в зачет недвижимость, автомобиль.</description>
+<floor>3</floor>
+<floors-total>9</floors-total>
+<ceiling-height>2.7</ceiling-height>
+<built-year>2022</built-year>
+<ready-quarter>2</ready-quarter>
+<yandex-building-id>538643</yandex-building-id>
+<yandex-house-id>1685075</yandex-house-id>
+<type>продажа</type>
+<property-type>living</property-type>
+<category>flat</category>
+<deal-status>reassignment</deal-status>
+<living-space>
+<value>14.61</value>
+</living-space>
+<room-space>
+<value>14.61</value>
+</room-space>
+<rooms>1</rooms>
+<rooms-offered>1</rooms-offered>
+<kitchen-space>
+<value>10.35</value>
+</kitchen-space>
+<renovation>черновая отделка</renovation>
+<window-view>во двор</window-view>
+<balcony>лоджия</balcony>
+<bathroom-unit>1</bathroom-unit>
+<building-name>микрорайон «Московский квартал»</building-name>
+<building-type>кирпичный</building-type>
+<building-state>unfinished</building-state>
+<lift>true</lift>
+<parking>0</parking>
+<rubbish-chute>0</rubbish-chute>
+</offer>
+<offer internal-id="apartment_328">
+<creation-date>2021-08-04T00:00:00+03:00</creation-date>
+<location>
+<country>Россия</country>
+<region>Ярославская область</region>
+<locality-name>Ярославль</locality-name>
+<address>1-я Приволжская улица, 16</address>
+</location>
+<sales-agent>
+<name>Вадим</name>
+<phone>8(996)241-25-71</phone>
+<category>agency</category>
+</sales-agent>
+<price>
+<value>2370000</value>
+<currency>RUB</currency>
+</price>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%94%D0%BE%D0%BC%203/%D0%9F%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/1%D0%BA35%2C63.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%94%D0%BE%D0%BC%203/%D0%9F%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/1%D0%BA35%2C63.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%94%D0%BE%D0%BC%203/%D0%A1%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%204%20%D1%8D%D1%82%D0%B0%D0%B6.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%A4%D0%BE%D1%82%D0%BE/044d46ad9b27ef2a852b603dc7438a40.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%A4%D0%BE%D1%82%D0%BE/2e571b7a510b81cb6817934577e6b352.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%A4%D0%BE%D1%82%D0%BE/32588796ad3900d0faf3ec59bc3531a5.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%A4%D0%BE%D1%82%D0%BE/3eb77f494a1439ca5344b58103006b52.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%A4%D0%BE%D1%82%D0%BE/900da3b192255e5d7428b28391bf608f.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%A4%D0%BE%D1%82%D0%BE/cf96e9f23ebb7ae76fbdf082782d09d4.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%A4%D0%BE%D1%82%D0%BE/df7066d655c075c07c2d88db4c242131.jpg</image>
+<area>
+<value>35.63</value>
+<unit>sq. m</unit>
+</area>
+<description>Новый жилой дом №3 – уже третий по счету дом, строящийся в рамках масштабного проекта ЖК «Московский Квартал», продуманный с учетом всех потребностей современного городского жителя. Активный ритм современного мегаполиса требует быстроты, мобильности и высоких энергозатрат. Поэтому так важно иметь возможность восстанавливать силы у себя дома и с максимальным комфортом проводить время с семьей – принимая гостей в новой квартире, занимаясь любимым хобби на обустроенной лоджии-террасе или совершая новую кулинарную победу на просторной кухне-гостиной. Ненавязчивая архитектура, комфортная высотность домов, традиционный материал строительства, удобное расположение дома, функциональные планировки квартир. Дом №3 располагается поблизости от Московского проспекта и проспекта Фрунзе, состоит из 4 подъездов комфортной высотности. 1-я очередь строительства – две 9-этажные секции, расположенные вдоль проспекта Фрунзе, ввод – сентябрь 2022 г. Окажем содействие в одобрении ипотечного кредита, получении первоначального взноса. Есть возможность принять в зачет недвижимость, автомобиль.</description>
+<floor>2</floor>
+<floors-total>9</floors-total>
+<ceiling-height>2.7</ceiling-height>
+<built-year>2022</built-year>
+<ready-quarter>2</ready-quarter>
+<yandex-building-id>538643</yandex-building-id>
+<yandex-house-id>1685075</yandex-house-id>
+<type>продажа</type>
+<property-type>living</property-type>
+<category>flat</category>
+<deal-status>reassignment</deal-status>
+<living-space>
+<value>14.61</value>
+</living-space>
+<room-space>
+<value>14.61</value>
+</room-space>
+<rooms>1</rooms>
+<rooms-offered>1</rooms-offered>
+<kitchen-space>
+<value>10.35</value>
+</kitchen-space>
+<renovation>черновая отделка</renovation>
+<window-view>во двор</window-view>
+<balcony>лоджия</balcony>
+<bathroom-unit>1</bathroom-unit>
+<building-name>микрорайон «Московский квартал»</building-name>
+<building-type>кирпичный</building-type>
+<building-state>unfinished</building-state>
+<lift>true</lift>
+<parking>0</parking>
+<rubbish-chute>0</rubbish-chute>
+</offer>
+<offer internal-id="apartment_329">
+<creation-date>2021-08-04T00:00:00+03:00</creation-date>
+<location>
+<country>Россия</country>
+<region>Ярославская область</region>
+<locality-name>Ярославль</locality-name>
+<address>1-я Приволжская улица, 16</address>
+</location>
+<sales-agent>
+<name>Вадим</name>
+<phone>8(996)241-25-71</phone>
+<category>agency</category>
+</sales-agent>
+<price>
+<value>2310000</value>
+<currency>RUB</currency>
+</price>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%94%D0%BE%D0%BC%203/%D0%9F%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/1%D0%BA34%2C83.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%94%D0%BE%D0%BC%203/%D0%9F%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/1%D0%BA34%2C83.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%94%D0%BE%D0%BC%203/%D0%A1%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%204%20%D1%8D%D1%82%D0%B0%D0%B6.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%A4%D0%BE%D1%82%D0%BE/044d46ad9b27ef2a852b603dc7438a40.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%A4%D0%BE%D1%82%D0%BE/2e571b7a510b81cb6817934577e6b352.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%A4%D0%BE%D1%82%D0%BE/32588796ad3900d0faf3ec59bc3531a5.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%A4%D0%BE%D1%82%D0%BE/3eb77f494a1439ca5344b58103006b52.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%A4%D0%BE%D1%82%D0%BE/900da3b192255e5d7428b28391bf608f.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%A4%D0%BE%D1%82%D0%BE/cf96e9f23ebb7ae76fbdf082782d09d4.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%A4%D0%BE%D1%82%D0%BE/df7066d655c075c07c2d88db4c242131.jpg</image>
+<area>
+<value>34.83</value>
+<unit>sq. m</unit>
+</area>
+<description>Новый жилой дом №3 – уже третий по счету дом, строящийся в рамках масштабного проекта ЖК «Московский Квартал», продуманный с учетом всех потребностей современного городского жителя. Активный ритм современного мегаполиса требует быстроты, мобильности и высоких энергозатрат. Поэтому так важно иметь возможность восстанавливать силы у себя дома и с максимальным комфортом проводить время с семьей – принимая гостей в новой квартире, занимаясь любимым хобби на обустроенной лоджии-террасе или совершая новую кулинарную победу на просторной кухне-гостиной. Ненавязчивая архитектура, комфортная высотность домов, традиционный материал строительства, удобное расположение дома, функциональные планировки квартир. Дом №3 располагается поблизости от Московского проспекта и проспекта Фрунзе, состоит из 4 подъездов комфортной высотности. 1-я очередь строительства – две 9-этажные секции, расположенные вдоль проспекта Фрунзе, ввод – сентябрь 2022 г. Окажем содействие в одобрении ипотечного кредита, получении первоначального взноса. Есть возможность принять в зачет недвижимость, автомобиль.</description>
+<floor>6</floor>
+<floors-total>9</floors-total>
+<ceiling-height>2.7</ceiling-height>
+<built-year>2022</built-year>
+<ready-quarter>2</ready-quarter>
+<yandex-building-id>538643</yandex-building-id>
+<yandex-house-id>1685075</yandex-house-id>
+<type>продажа</type>
+<property-type>living</property-type>
+<category>flat</category>
+<deal-status>reassignment</deal-status>
+<living-space>
+<value>16.05</value>
+</living-space>
+<room-space>
+<value>16.05</value>
+</room-space>
+<rooms>1</rooms>
+<rooms-offered>1</rooms-offered>
+<kitchen-space>
+<value>9.79</value>
+</kitchen-space>
+<renovation>черновая отделка</renovation>
+<window-view>во двор</window-view>
+<balcony>лоджия</balcony>
+<bathroom-unit>1</bathroom-unit>
+<building-name>микрорайон «Московский квартал»</building-name>
+<building-type>кирпичный</building-type>
+<building-state>unfinished</building-state>
+<lift>true</lift>
+<parking>0</parking>
+<rubbish-chute>0</rubbish-chute>
+</offer>
+<offer internal-id="apartment_330">
+<creation-date>2021-08-04T00:00:00+03:00</creation-date>
+<location>
+<country>Россия</country>
+<region>Ярославская область</region>
+<locality-name>Ярославль</locality-name>
+<address>1-я Приволжская улица, 16</address>
+</location>
+<sales-agent>
+<name>Вадим</name>
+<phone>8(996)241-25-71</phone>
+<category>agency</category>
+</sales-agent>
+<price>
+<value>2330000</value>
+<currency>RUB</currency>
+</price>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%94%D0%BE%D0%BC%203/%D0%9F%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/1%D0%BA34%2C83.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%94%D0%BE%D0%BC%203/%D0%9F%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/1%D0%BA34%2C83.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%94%D0%BE%D0%BC%203/%D0%A1%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%204%20%D1%8D%D1%82%D0%B0%D0%B6.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%A4%D0%BE%D1%82%D0%BE/044d46ad9b27ef2a852b603dc7438a40.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%A4%D0%BE%D1%82%D0%BE/2e571b7a510b81cb6817934577e6b352.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%A4%D0%BE%D1%82%D0%BE/32588796ad3900d0faf3ec59bc3531a5.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%A4%D0%BE%D1%82%D0%BE/3eb77f494a1439ca5344b58103006b52.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%A4%D0%BE%D1%82%D0%BE/900da3b192255e5d7428b28391bf608f.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%A4%D0%BE%D1%82%D0%BE/cf96e9f23ebb7ae76fbdf082782d09d4.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%A4%D0%BE%D1%82%D0%BE/df7066d655c075c07c2d88db4c242131.jpg</image>
+<area>
+<value>34.83</value>
+<unit>sq. m</unit>
+</area>
+<description>Новый жилой дом №3 – уже третий по счету дом, строящийся в рамках масштабного проекта ЖК «Московский Квартал», продуманный с учетом всех потребностей современного городского жителя. Активный ритм современного мегаполиса требует быстроты, мобильности и высоких энергозатрат. Поэтому так важно иметь возможность восстанавливать силы у себя дома и с максимальным комфортом проводить время с семьей – принимая гостей в новой квартире, занимаясь любимым хобби на обустроенной лоджии-террасе или совершая новую кулинарную победу на просторной кухне-гостиной. Ненавязчивая архитектура, комфортная высотность домов, традиционный материал строительства, удобное расположение дома, функциональные планировки квартир. Дом №3 располагается поблизости от Московского проспекта и проспекта Фрунзе, состоит из 4 подъездов комфортной высотности. 1-я очередь строительства – две 9-этажные секции, расположенные вдоль проспекта Фрунзе, ввод – сентябрь 2022 г. Окажем содействие в одобрении ипотечного кредита, получении первоначального взноса. Есть возможность принять в зачет недвижимость, автомобиль.</description>
+<floor>4</floor>
+<floors-total>9</floors-total>
+<ceiling-height>2.7</ceiling-height>
+<built-year>2022</built-year>
+<ready-quarter>2</ready-quarter>
+<yandex-building-id>538643</yandex-building-id>
+<yandex-house-id>1685075</yandex-house-id>
+<type>продажа</type>
+<property-type>living</property-type>
+<category>flat</category>
+<deal-status>reassignment</deal-status>
+<living-space>
+<value>16.05</value>
+</living-space>
+<room-space>
+<value>16.05</value>
+</room-space>
+<rooms>1</rooms>
+<rooms-offered>1</rooms-offered>
+<kitchen-space>
+<value>9.79</value>
+</kitchen-space>
+<renovation>черновая отделка</renovation>
+<window-view>во двор</window-view>
+<balcony>лоджия</balcony>
+<bathroom-unit>1</bathroom-unit>
+<building-name>микрорайон «Московский квартал»</building-name>
+<building-type>кирпичный</building-type>
+<building-state>unfinished</building-state>
+<lift>true</lift>
+<parking>0</parking>
+<rubbish-chute>0</rubbish-chute>
+</offer>
+<offer internal-id="apartment_331">
+<creation-date>2021-08-04T00:00:00+03:00</creation-date>
+<location>
+<country>Россия</country>
+<region>Ярославская область</region>
+<locality-name>Ярославль</locality-name>
+<address>1-я Приволжская улица, 16</address>
+</location>
+<sales-agent>
+<name>Вадим</name>
+<phone>8(996)241-25-71</phone>
+<category>agency</category>
+</sales-agent>
+<price>
+<value>2330000</value>
+<currency>RUB</currency>
+</price>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%94%D0%BE%D0%BC%203/%D0%9F%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/1%D0%BA34%2C83.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%94%D0%BE%D0%BC%203/%D0%9F%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/1%D0%BA34%2C83.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%94%D0%BE%D0%BC%203/%D0%A1%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%204%20%D1%8D%D1%82%D0%B0%D0%B6.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%A4%D0%BE%D1%82%D0%BE/044d46ad9b27ef2a852b603dc7438a40.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%A4%D0%BE%D1%82%D0%BE/2e571b7a510b81cb6817934577e6b352.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%A4%D0%BE%D1%82%D0%BE/32588796ad3900d0faf3ec59bc3531a5.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%A4%D0%BE%D1%82%D0%BE/3eb77f494a1439ca5344b58103006b52.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%A4%D0%BE%D1%82%D0%BE/900da3b192255e5d7428b28391bf608f.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%A4%D0%BE%D1%82%D0%BE/cf96e9f23ebb7ae76fbdf082782d09d4.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%A4%D0%BE%D1%82%D0%BE/df7066d655c075c07c2d88db4c242131.jpg</image>
+<area>
+<value>34.83</value>
+<unit>sq. m</unit>
+</area>
+<description>Новый жилой дом №3 – уже третий по счету дом, строящийся в рамках масштабного проекта ЖК «Московский Квартал», продуманный с учетом всех потребностей современного городского жителя. Активный ритм современного мегаполиса требует быстроты, мобильности и высоких энергозатрат. Поэтому так важно иметь возможность восстанавливать силы у себя дома и с максимальным комфортом проводить время с семьей – принимая гостей в новой квартире, занимаясь любимым хобби на обустроенной лоджии-террасе или совершая новую кулинарную победу на просторной кухне-гостиной. Ненавязчивая архитектура, комфортная высотность домов, традиционный материал строительства, удобное расположение дома, функциональные планировки квартир. Дом №3 располагается поблизости от Московского проспекта и проспекта Фрунзе, состоит из 4 подъездов комфортной высотности. 1-я очередь строительства – две 9-этажные секции, расположенные вдоль проспекта Фрунзе, ввод – сентябрь 2022 г. Окажем содействие в одобрении ипотечного кредита, получении первоначального взноса. Есть возможность принять в зачет недвижимость, автомобиль.</description>
+<floor>3</floor>
+<floors-total>9</floors-total>
+<ceiling-height>2.7</ceiling-height>
+<built-year>2022</built-year>
+<ready-quarter>2</ready-quarter>
+<yandex-building-id>538643</yandex-building-id>
+<yandex-house-id>1685075</yandex-house-id>
+<type>продажа</type>
+<property-type>living</property-type>
+<category>flat</category>
+<deal-status>reassignment</deal-status>
+<living-space>
+<value>16.05</value>
+</living-space>
+<room-space>
+<value>16.05</value>
+</room-space>
+<rooms>1</rooms>
+<rooms-offered>1</rooms-offered>
+<kitchen-space>
+<value>9.79</value>
+</kitchen-space>
+<renovation>черновая отделка</renovation>
+<window-view>во двор</window-view>
+<balcony>лоджия</balcony>
+<bathroom-unit>1</bathroom-unit>
+<building-name>микрорайон «Московский квартал»</building-name>
+<building-type>кирпичный</building-type>
+<building-state>unfinished</building-state>
+<lift>true</lift>
+<parking>0</parking>
+<rubbish-chute>0</rubbish-chute>
+</offer>
+<offer internal-id="apartment_332">
+<creation-date>2021-08-04T00:00:00+03:00</creation-date>
+<location>
+<country>Россия</country>
+<region>Ярославская область</region>
+<locality-name>Ярославль</locality-name>
+<address>1-я Приволжская улица, 16</address>
+</location>
+<sales-agent>
+<name>Вадим</name>
+<phone>8(996)241-25-71</phone>
+<category>agency</category>
+</sales-agent>
+<price>
+<value>2260000</value>
+<currency>RUB</currency>
+</price>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%94%D0%BE%D0%BC%203/%D0%9F%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/1%D0%BA33%2C13.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%94%D0%BE%D0%BC%203/%D0%9F%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/1%D0%BA33%2C13.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%94%D0%BE%D0%BC%203/%D0%A1%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%204%20%D1%8D%D1%82%D0%B0%D0%B6.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%A4%D0%BE%D1%82%D0%BE/044d46ad9b27ef2a852b603dc7438a40.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%A4%D0%BE%D1%82%D0%BE/2e571b7a510b81cb6817934577e6b352.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%A4%D0%BE%D1%82%D0%BE/32588796ad3900d0faf3ec59bc3531a5.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%A4%D0%BE%D1%82%D0%BE/3eb77f494a1439ca5344b58103006b52.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%A4%D0%BE%D1%82%D0%BE/900da3b192255e5d7428b28391bf608f.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%A4%D0%BE%D1%82%D0%BE/cf96e9f23ebb7ae76fbdf082782d09d4.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%A4%D0%BE%D1%82%D0%BE/df7066d655c075c07c2d88db4c242131.jpg</image>
+<area>
+<value>33.13</value>
+<unit>sq. m</unit>
+</area>
+<description>Новый жилой дом №3 – уже третий по счету дом, строящийся в рамках масштабного проекта ЖК «Московский Квартал», продуманный с учетом всех потребностей современного городского жителя. Активный ритм современного мегаполиса требует быстроты, мобильности и высоких энергозатрат. Поэтому так важно иметь возможность восстанавливать силы у себя дома и с максимальным комфортом проводить время с семьей – принимая гостей в новой квартире, занимаясь любимым хобби на обустроенной лоджии-террасе или совершая новую кулинарную победу на просторной кухне-гостиной. Ненавязчивая архитектура, комфортная высотность домов, традиционный материал строительства, удобное расположение дома, функциональные планировки квартир. Дом №3 располагается поблизости от Московского проспекта и проспекта Фрунзе, состоит из 4 подъездов комфортной высотности. 1-я очередь строительства – две 9-этажные секции, расположенные вдоль проспекта Фрунзе, ввод – сентябрь 2022 г. Окажем содействие в одобрении ипотечного кредита, получении первоначального взноса. Есть возможность принять в зачет недвижимость, автомобиль.</description>
+<floor>9</floor>
+<floors-total>9</floors-total>
+<ceiling-height>2.7</ceiling-height>
+<built-year>2022</built-year>
+<ready-quarter>2</ready-quarter>
+<yandex-building-id>538643</yandex-building-id>
+<yandex-house-id>1685075</yandex-house-id>
+<type>продажа</type>
+<property-type>living</property-type>
+<category>flat</category>
+<deal-status>reassignment</deal-status>
+<living-space>
+<value>16.05</value>
+</living-space>
+<room-space>
+<value>16.05</value>
+</room-space>
+<rooms>1</rooms>
+<rooms-offered>1</rooms-offered>
+<kitchen-space>
+<value>9.38</value>
+</kitchen-space>
+<renovation>черновая отделка</renovation>
+<window-view>во двор</window-view>
+<balcony>балкон</balcony>
+<bathroom-unit>1</bathroom-unit>
+<building-name>микрорайон «Московский квартал»</building-name>
+<building-type>кирпичный</building-type>
+<building-state>unfinished</building-state>
+<lift>true</lift>
+<parking>0</parking>
+<rubbish-chute>0</rubbish-chute>
+</offer>
+<offer internal-id="apartment_333">
+<creation-date>2021-08-04T00:00:00+03:00</creation-date>
+<location>
+<country>Россия</country>
+<region>Ярославская область</region>
+<locality-name>Ярославль</locality-name>
+<address>1-я Приволжская улица, 16</address>
+</location>
+<sales-agent>
+<name>Вадим</name>
+<phone>8(996)241-25-71</phone>
+<category>agency</category>
+</sales-agent>
+<price>
+<value>2240000</value>
+<currency>RUB</currency>
+</price>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%94%D0%BE%D0%BC%203/%D0%9F%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/1%D0%BA33%2C13.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%94%D0%BE%D0%BC%203/%D0%9F%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/1%D0%BA33%2C13.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%94%D0%BE%D0%BC%203/%D0%A1%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%204%20%D1%8D%D1%82%D0%B0%D0%B6.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%A4%D0%BE%D1%82%D0%BE/044d46ad9b27ef2a852b603dc7438a40.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%A4%D0%BE%D1%82%D0%BE/2e571b7a510b81cb6817934577e6b352.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%A4%D0%BE%D1%82%D0%BE/32588796ad3900d0faf3ec59bc3531a5.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%A4%D0%BE%D1%82%D0%BE/3eb77f494a1439ca5344b58103006b52.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%A4%D0%BE%D1%82%D0%BE/900da3b192255e5d7428b28391bf608f.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%A4%D0%BE%D1%82%D0%BE/cf96e9f23ebb7ae76fbdf082782d09d4.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%A4%D0%BE%D1%82%D0%BE/df7066d655c075c07c2d88db4c242131.jpg</image>
+<area>
+<value>33.13</value>
+<unit>sq. m</unit>
+</area>
+<description>Новый жилой дом №3 – уже третий по счету дом, строящийся в рамках масштабного проекта ЖК «Московский Квартал», продуманный с учетом всех потребностей современного городского жителя. Активный ритм современного мегаполиса требует быстроты, мобильности и высоких энергозатрат. Поэтому так важно иметь возможность восстанавливать силы у себя дома и с максимальным комфортом проводить время с семьей – принимая гостей в новой квартире, занимаясь любимым хобби на обустроенной лоджии-террасе или совершая новую кулинарную победу на просторной кухне-гостиной. Ненавязчивая архитектура, комфортная высотность домов, традиционный материал строительства, удобное расположение дома, функциональные планировки квартир. Дом №3 располагается поблизости от Московского проспекта и проспекта Фрунзе, состоит из 4 подъездов комфортной высотности. 1-я очередь строительства – две 9-этажные секции, расположенные вдоль проспекта Фрунзе, ввод – сентябрь 2022 г. Окажем содействие в одобрении ипотечного кредита, получении первоначального взноса. Есть возможность принять в зачет недвижимость, автомобиль.</description>
+<floor>5</floor>
+<floors-total>9</floors-total>
+<ceiling-height>2.7</ceiling-height>
+<built-year>2022</built-year>
+<ready-quarter>2</ready-quarter>
+<yandex-building-id>538643</yandex-building-id>
+<yandex-house-id>1685075</yandex-house-id>
+<type>продажа</type>
+<property-type>living</property-type>
+<category>flat</category>
+<deal-status>reassignment</deal-status>
+<living-space>
+<value>16.05</value>
+</living-space>
+<room-space>
+<value>16.05</value>
+</room-space>
+<rooms>1</rooms>
+<rooms-offered>1</rooms-offered>
+<kitchen-space>
+<value>9.38</value>
+</kitchen-space>
+<renovation>черновая отделка</renovation>
+<window-view>во двор</window-view>
+<balcony>балкон</balcony>
+<bathroom-unit>1</bathroom-unit>
+<building-name>микрорайон «Московский квартал»</building-name>
+<building-type>кирпичный</building-type>
+<building-state>unfinished</building-state>
+<lift>true</lift>
+<parking>0</parking>
+<rubbish-chute>0</rubbish-chute>
+</offer>
+<offer internal-id="apartment_334">
+<creation-date>2021-08-04T00:00:00+03:00</creation-date>
+<location>
+<country>Россия</country>
+<region>Ярославская область</region>
+<locality-name>Ярославль</locality-name>
+<address>1-я Приволжская улица, 16</address>
+</location>
+<sales-agent>
+<name>Вадим</name>
+<phone>8(996)241-25-71</phone>
+<category>agency</category>
+</sales-agent>
+<price>
+<value>2220000</value>
+<currency>RUB</currency>
+</price>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%94%D0%BE%D0%BC%203/%D0%9F%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/1%D0%BA33%2C13.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%94%D0%BE%D0%BC%203/%D0%9F%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/1%D0%BA33%2C13.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%94%D0%BE%D0%BC%203/%D0%A1%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%204%20%D1%8D%D1%82%D0%B0%D0%B6.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%A4%D0%BE%D1%82%D0%BE/044d46ad9b27ef2a852b603dc7438a40.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%A4%D0%BE%D1%82%D0%BE/2e571b7a510b81cb6817934577e6b352.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%A4%D0%BE%D1%82%D0%BE/32588796ad3900d0faf3ec59bc3531a5.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%A4%D0%BE%D1%82%D0%BE/3eb77f494a1439ca5344b58103006b52.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%A4%D0%BE%D1%82%D0%BE/900da3b192255e5d7428b28391bf608f.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%A4%D0%BE%D1%82%D0%BE/cf96e9f23ebb7ae76fbdf082782d09d4.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%A4%D0%BE%D1%82%D0%BE/df7066d655c075c07c2d88db4c242131.jpg</image>
+<area>
+<value>33.13</value>
+<unit>sq. m</unit>
+</area>
+<description>Новый жилой дом №3 – уже третий по счету дом, строящийся в рамках масштабного проекта ЖК «Московский Квартал», продуманный с учетом всех потребностей современного городского жителя. Активный ритм современного мегаполиса требует быстроты, мобильности и высоких энергозатрат. Поэтому так важно иметь возможность восстанавливать силы у себя дома и с максимальным комфортом проводить время с семьей – принимая гостей в новой квартире, занимаясь любимым хобби на обустроенной лоджии-террасе или совершая новую кулинарную победу на просторной кухне-гостиной. Ненавязчивая архитектура, комфортная высотность домов, традиционный материал строительства, удобное расположение дома, функциональные планировки квартир. Дом №3 располагается поблизости от Московского проспекта и проспекта Фрунзе, состоит из 4 подъездов комфортной высотности. 1-я очередь строительства – две 9-этажные секции, расположенные вдоль проспекта Фрунзе, ввод – сентябрь 2022 г. Окажем содействие в одобрении ипотечного кредита, получении первоначального взноса. Есть возможность принять в зачет недвижимость, автомобиль.</description>
+<floor>4</floor>
+<floors-total>9</floors-total>
+<ceiling-height>2.7</ceiling-height>
+<built-year>2022</built-year>
+<ready-quarter>2</ready-quarter>
+<yandex-building-id>538643</yandex-building-id>
+<yandex-house-id>1685075</yandex-house-id>
+<type>продажа</type>
+<property-type>living</property-type>
+<category>flat</category>
+<deal-status>reassignment</deal-status>
+<living-space>
+<value>16.05</value>
+</living-space>
+<room-space>
+<value>16.05</value>
+</room-space>
+<rooms>1</rooms>
+<rooms-offered>1</rooms-offered>
+<kitchen-space>
+<value>9.38</value>
+</kitchen-space>
+<renovation>черновая отделка</renovation>
+<window-view>во двор</window-view>
+<balcony>балкон</balcony>
+<bathroom-unit>1</bathroom-unit>
+<building-name>микрорайон «Московский квартал»</building-name>
+<building-type>кирпичный</building-type>
+<building-state>unfinished</building-state>
+<lift>true</lift>
+<parking>0</parking>
+<rubbish-chute>0</rubbish-chute>
+</offer>
+<offer internal-id="apartment_335">
+<creation-date>2021-08-04T00:00:00+03:00</creation-date>
+<location>
+<country>Россия</country>
+<region>Ярославская область</region>
+<locality-name>Ярославль</locality-name>
+<address>1-я Приволжская улица, 16</address>
+</location>
+<sales-agent>
+<name>Вадим</name>
+<phone>8(996)241-25-71</phone>
+<category>agency</category>
+</sales-agent>
+<price>
+<value>2220000</value>
+<currency>RUB</currency>
+</price>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%94%D0%BE%D0%BC%203/%D0%9F%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/1%D0%BA33%2C13.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%94%D0%BE%D0%BC%203/%D0%9F%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/1%D0%BA33%2C13.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%94%D0%BE%D0%BC%203/%D0%A1%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%204%20%D1%8D%D1%82%D0%B0%D0%B6.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%A4%D0%BE%D1%82%D0%BE/044d46ad9b27ef2a852b603dc7438a40.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%A4%D0%BE%D1%82%D0%BE/2e571b7a510b81cb6817934577e6b352.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%A4%D0%BE%D1%82%D0%BE/32588796ad3900d0faf3ec59bc3531a5.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%A4%D0%BE%D1%82%D0%BE/3eb77f494a1439ca5344b58103006b52.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%A4%D0%BE%D1%82%D0%BE/900da3b192255e5d7428b28391bf608f.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%A4%D0%BE%D1%82%D0%BE/cf96e9f23ebb7ae76fbdf082782d09d4.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%A4%D0%BE%D1%82%D0%BE/df7066d655c075c07c2d88db4c242131.jpg</image>
+<area>
+<value>33.13</value>
+<unit>sq. m</unit>
+</area>
+<description>Новый жилой дом №3 – уже третий по счету дом, строящийся в рамках масштабного проекта ЖК «Московский Квартал», продуманный с учетом всех потребностей современного городского жителя. Активный ритм современного мегаполиса требует быстроты, мобильности и высоких энергозатрат. Поэтому так важно иметь возможность восстанавливать силы у себя дома и с максимальным комфортом проводить время с семьей – принимая гостей в новой квартире, занимаясь любимым хобби на обустроенной лоджии-террасе или совершая новую кулинарную победу на просторной кухне-гостиной. Ненавязчивая архитектура, комфортная высотность домов, традиционный материал строительства, удобное расположение дома, функциональные планировки квартир. Дом №3 располагается поблизости от Московского проспекта и проспекта Фрунзе, состоит из 4 подъездов комфортной высотности. 1-я очередь строительства – две 9-этажные секции, расположенные вдоль проспекта Фрунзе, ввод – сентябрь 2022 г. Окажем содействие в одобрении ипотечного кредита, получении первоначального взноса. Есть возможность принять в зачет недвижимость, автомобиль.</description>
+<floor>3</floor>
+<floors-total>9</floors-total>
+<ceiling-height>2.7</ceiling-height>
+<built-year>2022</built-year>
+<ready-quarter>2</ready-quarter>
+<yandex-building-id>538643</yandex-building-id>
+<yandex-house-id>1685075</yandex-house-id>
+<type>продажа</type>
+<property-type>living</property-type>
+<category>flat</category>
+<deal-status>reassignment</deal-status>
+<living-space>
+<value>16.05</value>
+</living-space>
+<room-space>
+<value>16.05</value>
+</room-space>
+<rooms>1</rooms>
+<rooms-offered>1</rooms-offered>
+<kitchen-space>
+<value>9.38</value>
+</kitchen-space>
+<renovation>черновая отделка</renovation>
+<window-view>во двор</window-view>
+<balcony>балкон</balcony>
+<bathroom-unit>1</bathroom-unit>
+<building-name>микрорайон «Московский квартал»</building-name>
+<building-type>кирпичный</building-type>
+<building-state>unfinished</building-state>
+<lift>true</lift>
+<parking>0</parking>
+<rubbish-chute>0</rubbish-chute>
+</offer>
+<offer internal-id="apartment_336">
+<creation-date>2021-08-04T00:00:00+03:00</creation-date>
+<location>
+<country>Россия</country>
+<region>Ярославская область</region>
+<locality-name>Ярославль</locality-name>
+<address>1-я Приволжская улица, 16</address>
+</location>
+<sales-agent>
+<name>Вадим</name>
+<phone>8(996)241-25-71</phone>
+<category>agency</category>
+</sales-agent>
+<price>
+<value>2185000</value>
+<currency>RUB</currency>
+</price>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%94%D0%BE%D0%BC%203/%D0%9F%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/1%D0%BA33%2C13.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%94%D0%BE%D0%BC%203/%D0%9F%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/1%D0%BA33%2C13.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%94%D0%BE%D0%BC%203/%D0%A1%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%204%20%D1%8D%D1%82%D0%B0%D0%B6.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%A4%D0%BE%D1%82%D0%BE/044d46ad9b27ef2a852b603dc7438a40.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%A4%D0%BE%D1%82%D0%BE/2e571b7a510b81cb6817934577e6b352.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%A4%D0%BE%D1%82%D0%BE/32588796ad3900d0faf3ec59bc3531a5.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%A4%D0%BE%D1%82%D0%BE/3eb77f494a1439ca5344b58103006b52.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%A4%D0%BE%D1%82%D0%BE/900da3b192255e5d7428b28391bf608f.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%A4%D0%BE%D1%82%D0%BE/cf96e9f23ebb7ae76fbdf082782d09d4.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%A4%D0%BE%D1%82%D0%BE/df7066d655c075c07c2d88db4c242131.jpg</image>
+<area>
+<value>33.13</value>
+<unit>sq. m</unit>
+</area>
+<description>Новый жилой дом №3 – уже третий по счету дом, строящийся в рамках масштабного проекта ЖК «Московский Квартал», продуманный с учетом всех потребностей современного городского жителя. Активный ритм современного мегаполиса требует быстроты, мобильности и высоких энергозатрат. Поэтому так важно иметь возможность восстанавливать силы у себя дома и с максимальным комфортом проводить время с семьей – принимая гостей в новой квартире, занимаясь любимым хобби на обустроенной лоджии-террасе или совершая новую кулинарную победу на просторной кухне-гостиной. Ненавязчивая архитектура, комфортная высотность домов, традиционный материал строительства, удобное расположение дома, функциональные планировки квартир. Дом №3 располагается поблизости от Московского проспекта и проспекта Фрунзе, состоит из 4 подъездов комфортной высотности. 1-я очередь строительства – две 9-этажные секции, расположенные вдоль проспекта Фрунзе, ввод – сентябрь 2022 г. Окажем содействие в одобрении ипотечного кредита, получении первоначального взноса. Есть возможность принять в зачет недвижимость, автомобиль.</description>
+<floor>2</floor>
+<floors-total>9</floors-total>
+<ceiling-height>2.7</ceiling-height>
+<built-year>2022</built-year>
+<ready-quarter>2</ready-quarter>
+<yandex-building-id>538643</yandex-building-id>
+<yandex-house-id>1685075</yandex-house-id>
+<type>продажа</type>
+<property-type>living</property-type>
+<category>flat</category>
+<deal-status>reassignment</deal-status>
+<living-space>
+<value>16.05</value>
+</living-space>
+<room-space>
+<value>16.05</value>
+</room-space>
+<rooms>1</rooms>
+<rooms-offered>1</rooms-offered>
+<kitchen-space>
+<value>9.38</value>
+</kitchen-space>
+<renovation>черновая отделка</renovation>
+<window-view>во двор</window-view>
+<balcony>балкон</balcony>
+<bathroom-unit>1</bathroom-unit>
+<building-name>микрорайон «Московский квартал»</building-name>
+<building-type>кирпичный</building-type>
+<building-state>unfinished</building-state>
+<lift>true</lift>
+<parking>0</parking>
+<rubbish-chute>0</rubbish-chute>
+</offer>
+<offer internal-id="apartment_337">
+<creation-date>2021-08-04T00:00:00+03:00</creation-date>
+<location>
+<country>Россия</country>
+<region>Ярославская область</region>
+<locality-name>Ярославль</locality-name>
+<address>1-я Приволжская улица, 16</address>
+</location>
+<sales-agent>
+<name>Вадим</name>
+<phone>8(996)241-25-71</phone>
+<category>agency</category>
+</sales-agent>
+<price>
+<value>1990000</value>
+<currency>RUB</currency>
+</price>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%94%D0%BE%D0%BC%203/%D0%9F%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/%D0%A1%D1%82%D1%83%D0%B4%D0%B8%D1%8F%2028%2C35.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%94%D0%BE%D0%BC%203/%D0%9F%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/%D0%A1%D1%82%D1%83%D0%B4%D0%B8%D1%8F%2028%2C35.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%94%D0%BE%D0%BC%203/%D0%A1%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%204%20%D1%8D%D1%82%D0%B0%D0%B6.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%A4%D0%BE%D1%82%D0%BE/044d46ad9b27ef2a852b603dc7438a40.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%A4%D0%BE%D1%82%D0%BE/2e571b7a510b81cb6817934577e6b352.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%A4%D0%BE%D1%82%D0%BE/32588796ad3900d0faf3ec59bc3531a5.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%A4%D0%BE%D1%82%D0%BE/3eb77f494a1439ca5344b58103006b52.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%A4%D0%BE%D1%82%D0%BE/900da3b192255e5d7428b28391bf608f.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%A4%D0%BE%D1%82%D0%BE/cf96e9f23ebb7ae76fbdf082782d09d4.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%A4%D0%BE%D1%82%D0%BE/df7066d655c075c07c2d88db4c242131.jpg</image>
+<area>
+<value>28.35</value>
+<unit>sq. m</unit>
+</area>
+<description>Новый жилой дом №3 – уже третий по счету дом, строящийся в рамках масштабного проекта ЖК «Московский Квартал», продуманный с учетом всех потребностей современного городского жителя. Активный ритм современного мегаполиса требует быстроты, мобильности и высоких энергозатрат. Поэтому так важно иметь возможность восстанавливать силы у себя дома и с максимальным комфортом проводить время с семьей – принимая гостей в новой квартире, занимаясь любимым хобби на обустроенной лоджии-террасе или совершая новую кулинарную победу на просторной кухне-гостиной. Ненавязчивая архитектура, комфортная высотность домов, традиционный материал строительства, удобное расположение дома, функциональные планировки квартир. Дом №3 располагается поблизости от Московского проспекта и проспекта Фрунзе, состоит из 4 подъездов комфортной высотности. 1-я очередь строительства – две 9-этажные секции, расположенные вдоль проспекта Фрунзе, ввод – сентябрь 2022 г. Окажем содействие в одобрении ипотечного кредита, получении первоначального взноса. Есть возможность принять в зачет недвижимость, автомобиль.</description>
+<floor>9</floor>
+<floors-total>9</floors-total>
+<ceiling-height>2.7</ceiling-height>
+<built-year>2022</built-year>
+<ready-quarter>2</ready-quarter>
+<yandex-building-id>538643</yandex-building-id>
+<yandex-house-id>1685075</yandex-house-id>
+<type>продажа</type>
+<property-type>living</property-type>
+<category>flat</category>
+<deal-status>reassignment</deal-status>
+<living-space>
+<value>12.27</value>
+</living-space>
+<kitchen-space>
+<value>6.51</value>
+</kitchen-space>
+<renovation>черновая отделка</renovation>
+<studio>1</studio>
+<window-view>во двор</window-view>
+<balcony>балкон</balcony>
+<bathroom-unit>1</bathroom-unit>
+<building-name>микрорайон «Московский квартал»</building-name>
+<building-type>кирпичный</building-type>
+<building-state>unfinished</building-state>
+<lift>true</lift>
+<parking>0</parking>
+<rubbish-chute>0</rubbish-chute>
+</offer>
+<offer internal-id="apartment_338">
+<creation-date>2021-08-04T00:00:00+03:00</creation-date>
+<location>
+<country>Россия</country>
+<region>Ярославская область</region>
+<locality-name>Ярославль</locality-name>
+<address>1-я Приволжская улица, 16</address>
+</location>
+<sales-agent>
+<name>Вадим</name>
+<phone>8(996)241-25-71</phone>
+<category>agency</category>
+</sales-agent>
+<price>
+<value>1990000</value>
+<currency>RUB</currency>
+</price>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%94%D0%BE%D0%BC%203/%D0%9F%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/%D0%A1%D1%82%D1%83%D0%B4%D0%B8%D1%8F%2028%2C35.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%94%D0%BE%D0%BC%203/%D0%9F%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/%D0%A1%D1%82%D1%83%D0%B4%D0%B8%D1%8F%2028%2C35.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%94%D0%BE%D0%BC%203/%D0%A1%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%204%20%D1%8D%D1%82%D0%B0%D0%B6.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%A4%D0%BE%D1%82%D0%BE/044d46ad9b27ef2a852b603dc7438a40.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%A4%D0%BE%D1%82%D0%BE/2e571b7a510b81cb6817934577e6b352.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%A4%D0%BE%D1%82%D0%BE/32588796ad3900d0faf3ec59bc3531a5.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%A4%D0%BE%D1%82%D0%BE/3eb77f494a1439ca5344b58103006b52.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%A4%D0%BE%D1%82%D0%BE/900da3b192255e5d7428b28391bf608f.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%A4%D0%BE%D1%82%D0%BE/cf96e9f23ebb7ae76fbdf082782d09d4.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%A4%D0%BE%D1%82%D0%BE/df7066d655c075c07c2d88db4c242131.jpg</image>
+<area>
+<value>28.35</value>
+<unit>sq. m</unit>
+</area>
+<description>Новый жилой дом №3 – уже третий по счету дом, строящийся в рамках масштабного проекта ЖК «Московский Квартал», продуманный с учетом всех потребностей современного городского жителя. Активный ритм современного мегаполиса требует быстроты, мобильности и высоких энергозатрат. Поэтому так важно иметь возможность восстанавливать силы у себя дома и с максимальным комфортом проводить время с семьей – принимая гостей в новой квартире, занимаясь любимым хобби на обустроенной лоджии-террасе или совершая новую кулинарную победу на просторной кухне-гостиной. Ненавязчивая архитектура, комфортная высотность домов, традиционный материал строительства, удобное расположение дома, функциональные планировки квартир. Дом №3 располагается поблизости от Московского проспекта и проспекта Фрунзе, состоит из 4 подъездов комфортной высотности. 1-я очередь строительства – две 9-этажные секции, расположенные вдоль проспекта Фрунзе, ввод – сентябрь 2022 г. Окажем содействие в одобрении ипотечного кредита, получении первоначального взноса. Есть возможность принять в зачет недвижимость, автомобиль.</description>
+<floor>6</floor>
+<floors-total>9</floors-total>
+<ceiling-height>2.7</ceiling-height>
+<built-year>2022</built-year>
+<ready-quarter>2</ready-quarter>
+<yandex-building-id>538643</yandex-building-id>
+<yandex-house-id>1685075</yandex-house-id>
+<type>продажа</type>
+<property-type>living</property-type>
+<category>flat</category>
+<deal-status>reassignment</deal-status>
+<living-space>
+<value>12.27</value>
+</living-space>
+<kitchen-space>
+<value>6.51</value>
+</kitchen-space>
+<renovation>черновая отделка</renovation>
+<studio>1</studio>
+<window-view>во двор</window-view>
+<balcony>балкон</balcony>
+<bathroom-unit>1</bathroom-unit>
+<building-name>микрорайон «Московский квартал»</building-name>
+<building-type>кирпичный</building-type>
+<building-state>unfinished</building-state>
+<lift>true</lift>
+<parking>0</parking>
+<rubbish-chute>0</rubbish-chute>
+</offer>
+<offer internal-id="apartment_339">
+<creation-date>2021-08-04T00:00:00+03:00</creation-date>
+<location>
+<country>Россия</country>
+<region>Ярославская область</region>
+<locality-name>Ярославль</locality-name>
+<address>1-я Приволжская улица, 16</address>
+</location>
+<sales-agent>
+<name>Вадим</name>
+<phone>8(996)241-25-71</phone>
+<category>agency</category>
+</sales-agent>
+<price>
+<value>1970000</value>
+<currency>RUB</currency>
+</price>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%94%D0%BE%D0%BC%203/%D0%9F%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/%D0%A1%D1%82%D1%83%D0%B4%D0%B8%D1%8F%2028%2C35.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%94%D0%BE%D0%BC%203/%D0%9F%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/%D0%A1%D1%82%D1%83%D0%B4%D0%B8%D1%8F%2028%2C35.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%94%D0%BE%D0%BC%203/%D0%A1%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%204%20%D1%8D%D1%82%D0%B0%D0%B6.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%A4%D0%BE%D1%82%D0%BE/044d46ad9b27ef2a852b603dc7438a40.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%A4%D0%BE%D1%82%D0%BE/2e571b7a510b81cb6817934577e6b352.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%A4%D0%BE%D1%82%D0%BE/32588796ad3900d0faf3ec59bc3531a5.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%A4%D0%BE%D1%82%D0%BE/3eb77f494a1439ca5344b58103006b52.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%A4%D0%BE%D1%82%D0%BE/900da3b192255e5d7428b28391bf608f.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%A4%D0%BE%D1%82%D0%BE/cf96e9f23ebb7ae76fbdf082782d09d4.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%A4%D0%BE%D1%82%D0%BE/df7066d655c075c07c2d88db4c242131.jpg</image>
+<area>
+<value>28.35</value>
+<unit>sq. m</unit>
+</area>
+<description>Новый жилой дом №3 – уже третий по счету дом, строящийся в рамках масштабного проекта ЖК «Московский Квартал», продуманный с учетом всех потребностей современного городского жителя. Активный ритм современного мегаполиса требует быстроты, мобильности и высоких энергозатрат. Поэтому так важно иметь возможность восстанавливать силы у себя дома и с максимальным комфортом проводить время с семьей – принимая гостей в новой квартире, занимаясь любимым хобби на обустроенной лоджии-террасе или совершая новую кулинарную победу на просторной кухне-гостиной. Ненавязчивая архитектура, комфортная высотность домов, традиционный материал строительства, удобное расположение дома, функциональные планировки квартир. Дом №3 располагается поблизости от Московского проспекта и проспекта Фрунзе, состоит из 4 подъездов комфортной высотности. 1-я очередь строительства – две 9-этажные секции, расположенные вдоль проспекта Фрунзе, ввод – сентябрь 2022 г. Окажем содействие в одобрении ипотечного кредита, получении первоначального взноса. Есть возможность принять в зачет недвижимость, автомобиль.</description>
+<floor>3</floor>
+<floors-total>9</floors-total>
+<ceiling-height>2.7</ceiling-height>
+<built-year>2022</built-year>
+<ready-quarter>2</ready-quarter>
+<yandex-building-id>538643</yandex-building-id>
+<yandex-house-id>1685075</yandex-house-id>
+<type>продажа</type>
+<property-type>living</property-type>
+<category>flat</category>
+<deal-status>reassignment</deal-status>
+<living-space>
+<value>12.27</value>
+</living-space>
+<kitchen-space>
+<value>6.51</value>
+</kitchen-space>
+<renovation>черновая отделка</renovation>
+<studio>1</studio>
+<window-view>во двор</window-view>
+<balcony>балкон</balcony>
+<bathroom-unit>1</bathroom-unit>
+<building-name>микрорайон «Московский квартал»</building-name>
+<building-type>кирпичный</building-type>
+<building-state>unfinished</building-state>
+<lift>true</lift>
+<parking>0</parking>
+<rubbish-chute>0</rubbish-chute>
+</offer>
+<offer internal-id="apartment_340">
+<creation-date>2021-08-04T00:00:00+03:00</creation-date>
+<location>
+<country>Россия</country>
+<region>Ярославская область</region>
+<locality-name>Ярославль</locality-name>
+<address>1-я Приволжская улица, 16</address>
+</location>
+<sales-agent>
+<name>Вадим</name>
+<phone>8(996)241-25-71</phone>
+<category>agency</category>
+</sales-agent>
+<price>
+<value>1940000</value>
+<currency>RUB</currency>
+</price>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%94%D0%BE%D0%BC%203/%D0%9F%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/%D0%A1%D1%82%D1%83%D0%B4%D0%B8%D1%8F%2028%2C35.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%94%D0%BE%D0%BC%203/%D0%9F%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80/%D0%A1%D1%82%D1%83%D0%B4%D0%B8%D1%8F%2028%2C35.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%94%D0%BE%D0%BC%203/%D0%A1%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%204%20%D1%8D%D1%82%D0%B0%D0%B6.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%A4%D0%BE%D1%82%D0%BE/044d46ad9b27ef2a852b603dc7438a40.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%A4%D0%BE%D1%82%D0%BE/2e571b7a510b81cb6817934577e6b352.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%A4%D0%BE%D1%82%D0%BE/32588796ad3900d0faf3ec59bc3531a5.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%A4%D0%BE%D1%82%D0%BE/3eb77f494a1439ca5344b58103006b52.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%A4%D0%BE%D1%82%D0%BE/900da3b192255e5d7428b28391bf608f.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%A4%D0%BE%D1%82%D0%BE/cf96e9f23ebb7ae76fbdf082782d09d4.jpg</image>
+<image>https://raw.githubusercontent.com/REMCAlpha/Photo_1/main/%D0%AF%D1%80%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D0%BA/'%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB'/%D0%A4%D0%BE%D1%82%D0%BE/df7066d655c075c07c2d88db4c242131.jpg</image>
+<area>
+<value>28.35</value>
+<unit>sq. m</unit>
+</area>
+<description>Новый жилой дом №3 – уже третий по счету дом, строящийся в рамках масштабного проекта ЖК «Московский Квартал», продуманный с учетом всех потребностей современного городского жителя. Активный ритм современного мегаполиса требует быстроты, мобильности и высоких энергозатрат. Поэтому так важно иметь возможность восстанавливать силы у себя дома и с максимальным комфортом проводить время с семьей – принимая гостей в новой квартире, занимаясь любимым хобби на обустроенной лоджии-террасе или совершая новую кулинарную победу на просторной кухне-гостиной. Ненавязчивая архитектура, комфортная высотность домов, традиционный материал строительства, удобное расположение дома, функциональные планировки квартир. Дом №3 располагается поблизости от Московского проспекта и проспекта Фрунзе, состоит из 4 подъездов комфортной высотности. 1-я очередь строительства – две 9-этажные секции, расположенные вдоль проспекта Фрунзе, ввод – сентябрь 2022 г. Окажем содействие в одобрении ипотечного кредита, получении первоначального взноса. Есть возможность принять в зачет недвижимость, автомобиль.</description>
+<floor>2</floor>
+<floors-total>9</floors-total>
+<ceiling-height>2.7</ceiling-height>
+<built-year>2022</built-year>
+<ready-quarter>2</ready-quarter>
+<yandex-building-id>538643</yandex-building-id>
+<yandex-house-id>1685075</yandex-house-id>
+<type>продажа</type>
+<property-type>living</property-type>
+<category>flat</category>
+<deal-status>reassignment</deal-status>
+<living-space>
+<value>12.27</value>
+</living-space>
+<kitchen-space>
+<value>6.51</value>
+</kitchen-space>
+<renovation>черновая отделка</renovation>
+<studio>1</studio>
+<window-view>во двор</window-view>
+<balcony>балкон</balcony>
+<bathroom-unit>1</bathroom-unit>
+<building-name>микрорайон «Московский квартал»</building-name>
+<building-type>кирпичный</building-type>
+<building-state>unfinished</building-state>
+<lift>true</lift>
+<parking>0</parking>
+<rubbish-chute>0</rubbish-chute>
+</offer>
 </realty-feed>
