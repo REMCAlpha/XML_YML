@@ -18891,1395 +18891,1395 @@
 	</offer>
 	<!--ЭКСКЛЮЗИВ-->
 	<offer internal-id="apartment_395">
-<creation-date>2022-08-09T00:00:00+03:00</creation-date>
-<location>
-<country>Россия</country>
-<region>Ярославская область</region>
-<locality-name>Ярославль</locality-name>
-<sub-locality-name>Красноперекопский район</sub-locality-name>
-<address>Большая Донская, 10</address>
-</location>
-<sales-agent>
-<name>Вадим</name>
-<phone>8(996)241-25-71</phone>
-<category>agency</category>
-</sales-agent>
-<price>
-<value>3590000</value>
-<currency>RUB</currency>
-</price>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/1%D1%81/1%20%D1%8D%D1%82%D0%B0%D0%B6%201%D1%81%20%D0%BF%D0%BB%D0%B0%D0%BD.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/1%D1%81/1%20%D1%8D%D1%82%D0%B0%D0%B6%201%D1%81%20%D0%BF%D0%BB%D0%B0%D0%BD.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165357_727.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165400_875.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165440_982.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165408_637.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165452_335.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165413_883.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182154.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182156.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182159.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182216.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182318.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182512.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182601.jpg?raw=true</image>
-<area>
-<value>42.90</value>
-<unit>sq. m</unit>
-</area>
-<description>Квартира в новостройке в пяти минутах от центра Ярославля в экологически чистом, нешумном месте. Придомовая территория с парковкой. Эксклюзив! Преимущества: Внутри помещений большое количество естественного освещения благодаря объемно-планировочным решениям Высокий индекс изоляции шума между жилыми помещениями Двухкамерные ПВХ окна с мягким селективным покрытием Максимально грамотное использование пространства Чердачное помещение Теплоизоляция выполнена с учётом всех стандартов В подъездах используется гипоаллергенная воднодисперсионная акриловая краска Широкий лифт с большой грузоподъемностью Доступна покупка с рассрочкой платежа Звоните, чтобы узнать подробности!</description>
-<floor>1</floor>
-<floors-total>5</floors-total>
-<ceiling-height>2.7</ceiling-height>
-<built-year>2022</built-year>
-<ready-quarter>2</ready-quarter>
-<type>продажа</type>
-<property-type>living</property-type>
-<category>flat</category>
-<deal-status>reassignment</deal-status>
-<living-space>
-<value>17.36</value>
-</living-space>
-<room-space>
-<value>17.36</value>
-</room-space>
-<rooms>1</rooms>
-<rooms-offered>1</rooms-offered>
-<kitchen-space>
-<value>9.61</value>
-</kitchen-space>
-<renovation>черновая отделка</renovation>
-<window-view>во двор</window-view>
-<balcony>балкон</balcony>
-<bathroom-unit>1</bathroom-unit>
-<building-type>кирпичный</building-type>
-<building-state>hand-over</building-state>
-<lift>true</lift>
-<parking>0</parking>
-<rubbish-chute>0</rubbish-chute>
-</offer>
-<offer internal-id="apartment_396">
-<creation-date>2022-08-09T00:00:00+03:00</creation-date>
-<location>
-<country>Россия</country>
-<region>Ярославская область</region>
-<locality-name>Ярославль</locality-name>
-<sub-locality-name>Красноперекопский район</sub-locality-name>
-<address>Большая Донская, 10</address>
-</location>
-<sales-agent>
-<name>Вадим</name>
-<phone>8(996)241-25-71</phone>
-<category>agency</category>
-</sales-agent>
-<price>
-<value>3590000</value>
-<currency>RUB</currency>
-</price>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/1%D1%81/1%20%D1%8D%D1%82%D0%B0%D0%B6%201%D1%81%20%D0%BF%D0%BB%D0%B0%D0%BD.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/1%D1%81/1%20%D1%8D%D1%82%D0%B0%D0%B6%201%D1%81%20%D0%BF%D0%BB%D0%B0%D0%BD.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165357_727.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165400_875.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165440_982.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165408_637.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165452_335.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165413_883.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182154.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182156.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182159.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182216.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182318.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182512.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182601.jpg?raw=true</image>
-<area>
-<value>42.90</value>
-<unit>sq. m</unit>
-</area>
-<description>Квартира в новостройке в пяти минутах от центра Ярославля в экологически чистом, нешумном месте. Придомовая территория с парковкой. Эксклюзив! Преимущества: Внутри помещений большое количество естественного освещения благодаря объемно-планировочным решениям Высокий индекс изоляции шума между жилыми помещениями Двухкамерные ПВХ окна с мягким селективным покрытием Максимально грамотное использование пространства Чердачное помещение Теплоизоляция выполнена с учётом всех стандартов В подъездах используется гипоаллергенная воднодисперсионная акриловая краска Широкий лифт с большой грузоподъемностью Доступна покупка с рассрочкой платежа Звоните, чтобы узнать подробности!</description>
-<floor>1</floor>
-<floors-total>5</floors-total>
-<ceiling-height>2.7</ceiling-height>
-<built-year>2022</built-year>
-<ready-quarter>2</ready-quarter>
-<type>продажа</type>
-<property-type>living</property-type>
-<category>flat</category>
-<deal-status>reassignment</deal-status>
-<living-space>
-<value>17.36</value>
-</living-space>
-<room-space>
-<value>17.36</value>
-</room-space>
-<rooms>1</rooms>
-<rooms-offered>1</rooms-offered>
-<kitchen-space>
-<value>9.61</value>
-</kitchen-space>
-<renovation>черновая отделка</renovation>
-<window-view>во двор</window-view>
-<balcony>балкон</balcony>
-<bathroom-unit>1</bathroom-unit>
-<building-type>кирпичный</building-type>
-<building-state>hand-over</building-state>
-<lift>true</lift>
-<parking>0</parking>
-<rubbish-chute>0</rubbish-chute>
-</offer>
-<offer internal-id="apartment_397">
-<creation-date>2022-08-09T00:00:00+03:00</creation-date>
-<location>
-<country>Россия</country>
-<region>Ярославская область</region>
-<locality-name>Ярославль</locality-name>
-<sub-locality-name>Красноперекопский район</sub-locality-name>
-<address>Большая Донская, 10</address>
-</location>
-<sales-agent>
-<name>Вадим</name>
-<phone>8(996)241-25-71</phone>
-<category>agency</category>
-</sales-agent>
-<price>
-<value>5790000</value>
-<currency>RUB</currency>
-</price>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/1%D1%81/1%20%D1%8D%D1%82%D0%B0%D0%B6%201%D1%81%20%D0%BF%D0%BB%D0%B0%D0%BD.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/1%D1%81/1%20%D1%8D%D1%82%D0%B0%D0%B6%201%D1%81%20%D0%BF%D0%BB%D0%B0%D0%BD.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165357_727.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165400_875.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165440_982.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165408_637.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165452_335.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165413_883.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182154.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182156.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182159.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182216.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182318.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182512.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182601.jpg?raw=true</image>
-<area>
-<value>74.30</value>
-<unit>sq. m</unit>
-</area>
-<description>Квартира в новостройке в пяти минутах от центра Ярославля в экологически чистом, нешумном месте. Придомовая территория с парковкой. Эксклюзив! Преимущества: Внутри помещений большое количество естественного освещения благодаря объемно-планировочным решениям Высокий индекс изоляции шума между жилыми помещениями Двухкамерные ПВХ окна с мягким селективным покрытием Максимально грамотное использование пространства Чердачное помещение Теплоизоляция выполнена с учётом всех стандартов В подъездах используется гипоаллергенная воднодисперсионная акриловая краска Широкий лифт с большой грузоподъемностью Доступна покупка с рассрочкой платежа Звоните, чтобы узнать подробности!</description>
-<floor>1</floor>
-<floors-total>5</floors-total>
-<ceiling-height>2.7</ceiling-height>
-<built-year>2022</built-year>
-<ready-quarter>2</ready-quarter>
-<type>продажа</type>
-<property-type>living</property-type>
-<category>flat</category>
-<deal-status>reassignment</deal-status>
-<living-space>
-<value>49.13</value>
-</living-space>
-<room-space>
-<value>35.50</value>
-</room-space>
-<room-space>
-<value>13.63</value>
-</room-space>
-<rooms>2</rooms>
-<rooms-offered>2</rooms-offered>
-<kitchen-space>
-<value>7.92</value>
-</kitchen-space>
-<renovation>черновая отделка</renovation>
-<window-view>во двор</window-view>
-<balcony>балкон</balcony>
-<bathroom-unit>1</bathroom-unit>
-<building-type>кирпичный</building-type>
-<building-state>hand-over</building-state>
-<lift>true</lift>
-<parking>0</parking>
-<rubbish-chute>0</rubbish-chute>
-</offer>
-<offer internal-id="apartment_398">
-<creation-date>2022-08-09T00:00:00+03:00</creation-date>
-<location>
-<country>Россия</country>
-<region>Ярославская область</region>
-<locality-name>Ярославль</locality-name>
-<sub-locality-name>Красноперекопский район</sub-locality-name>
-<address>Большая Донская, 10</address>
-</location>
-<sales-agent>
-<name>Вадим</name>
-<phone>8(996)241-25-71</phone>
-<category>agency</category>
-</sales-agent>
-<price>
-<value>5790000</value>
-<currency>RUB</currency>
-</price>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/1%D1%81/1%20%D1%8D%D1%82%D0%B0%D0%B6%201%D1%81%20%D0%BF%D0%BB%D0%B0%D0%BD.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/1%D1%81/1%20%D1%8D%D1%82%D0%B0%D0%B6%201%D1%81%20%D0%BF%D0%BB%D0%B0%D0%BD.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165357_727.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165400_875.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165440_982.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165408_637.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165452_335.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165413_883.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182154.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182156.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182159.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182216.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182318.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182512.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182601.jpg?raw=true</image>
-<area>
-<value>74.30</value>
-<unit>sq. m</unit>
-</area>
-<description>Квартира в новостройке в пяти минутах от центра Ярославля в экологически чистом, нешумном месте. Придомовая территория с парковкой. Эксклюзив! Преимущества: Внутри помещений большое количество естественного освещения благодаря объемно-планировочным решениям Высокий индекс изоляции шума между жилыми помещениями Двухкамерные ПВХ окна с мягким селективным покрытием Максимально грамотное использование пространства Чердачное помещение Теплоизоляция выполнена с учётом всех стандартов В подъездах используется гипоаллергенная воднодисперсионная акриловая краска Широкий лифт с большой грузоподъемностью Доступна покупка с рассрочкой платежа Звоните, чтобы узнать подробности!</description>
-<floor>1</floor>
-<floors-total>5</floors-total>
-<ceiling-height>2.7</ceiling-height>
-<built-year>2022</built-year>
-<ready-quarter>2</ready-quarter>
-<type>продажа</type>
-<property-type>living</property-type>
-<category>flat</category>
-<deal-status>reassignment</deal-status>
-<living-space>
-<value>49.13</value>
-</living-space>
-<room-space>
-<value>35.50</value>
-</room-space>
-<room-space>
-<value>13.63</value>
-</room-space>
-<rooms>2</rooms>
-<rooms-offered>2</rooms-offered>
-<kitchen-space>
-<value>7.92</value>
-</kitchen-space>
-<renovation>черновая отделка</renovation>
-<window-view>во двор</window-view>
-<balcony>балкон</balcony>
-<bathroom-unit>1</bathroom-unit>
-<building-type>кирпичный</building-type>
-<building-state>hand-over</building-state>
-<lift>true</lift>
-<parking>0</parking>
-<rubbish-chute>0</rubbish-chute>
-</offer>
-<offer internal-id="apartment_399">
-<creation-date>2022-08-09T00:00:00+03:00</creation-date>
-<location>
-<country>Россия</country>
-<region>Ярославская область</region>
-<locality-name>Ярославль</locality-name>
-<sub-locality-name>Красноперекопский район</sub-locality-name>
-<address>Большая Донская, 10</address>
-</location>
-<sales-agent>
-<name>Вадим</name>
-<phone>8(996)241-25-71</phone>
-<category>agency</category>
-</sales-agent>
-<price>
-<value>3849750</value>
-<currency>RUB</currency>
-</price>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/1%D1%81/2%20%D1%8D%D1%82%D0%B0%D0%B6%201%D1%81%20%D0%BF%D0%BB%D0%B0%D0%BD.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/1%D1%81/2%20%D1%8D%D1%82%D0%B0%D0%B6%201%D1%81%20%D0%BF%D0%BB%D0%B0%D0%BD.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165357_727.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165400_875.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165440_982.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165408_637.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165452_335.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165413_883.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182154.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182156.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182159.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182216.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182318.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182512.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182601.jpg?raw=true</image>
-<area>
-<value>43.50</value>
-<unit>sq. m</unit>
-</area>
-<description>Квартира в новостройке в пяти минутах от центра Ярославля в экологически чистом, нешумном месте. Придомовая территория с парковкой. Эксклюзив! Преимущества: Внутри помещений большое количество естественного освещения благодаря объемно-планировочным решениям Высокий индекс изоляции шума между жилыми помещениями Двухкамерные ПВХ окна с мягким селективным покрытием Максимально грамотное использование пространства Чердачное помещение Теплоизоляция выполнена с учётом всех стандартов В подъездах используется гипоаллергенная воднодисперсионная акриловая краска Широкий лифт с большой грузоподъемностью Доступна покупка с рассрочкой платежа Звоните, чтобы узнать подробности!</description>
-<floor>2</floor>
-<floors-total>5</floors-total>
-<ceiling-height>2.7</ceiling-height>
-<built-year>2022</built-year>
-<ready-quarter>2</ready-quarter>
-<type>продажа</type>
-<property-type>living</property-type>
-<category>flat</category>
-<deal-status>reassignment</deal-status>
-<living-space>
-<value>18.02</value>
-</living-space>
-<room-space>
-<value>18.02</value>
-</room-space>
-<rooms>1</rooms>
-<rooms-offered>1</rooms-offered>
-<kitchen-space>
-<value>9.44</value>
-</kitchen-space>
-<renovation>черновая отделка</renovation>
-<window-view>во двор</window-view>
-<balcony>балкон</balcony>
-<bathroom-unit>1</bathroom-unit>
-<building-type>кирпичный</building-type>
-<building-state>hand-over</building-state>
-<lift>true</lift>
-<parking>0</parking>
-<rubbish-chute>0</rubbish-chute>
-</offer>
-<offer internal-id="apartment_400">
-<creation-date>2022-08-09T00:00:00+03:00</creation-date>
-<location>
-<country>Россия</country>
-<region>Ярославская область</region>
-<locality-name>Ярославль</locality-name>
-<sub-locality-name>Красноперекопский район</sub-locality-name>
-<address>Большая Донская, 10</address>
-</location>
-<sales-agent>
-<name>Вадим</name>
-<phone>8(996)241-25-71</phone>
-<category>agency</category>
-</sales-agent>
-<price>
-<value>3849750</value>
-<currency>RUB</currency>
-</price>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/1%D1%81/2%20%D1%8D%D1%82%D0%B0%D0%B6%201%D1%81%20%D0%BF%D0%BB%D0%B0%D0%BD.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/1%D1%81/2%20%D1%8D%D1%82%D0%B0%D0%B6%201%D1%81%20%D0%BF%D0%BB%D0%B0%D0%BD.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165357_727.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165400_875.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165440_982.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165408_637.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165452_335.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165413_883.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182154.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182156.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182159.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182216.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182318.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182512.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182601.jpg?raw=true</image>
-<area>
-<value>43.50</value>
-<unit>sq. m</unit>
-</area>
-<description>Квартира в новостройке в пяти минутах от центра Ярославля в экологически чистом, нешумном месте. Придомовая территория с парковкой. Эксклюзив! Преимущества: Внутри помещений большое количество естественного освещения благодаря объемно-планировочным решениям Высокий индекс изоляции шума между жилыми помещениями Двухкамерные ПВХ окна с мягким селективным покрытием Максимально грамотное использование пространства Чердачное помещение Теплоизоляция выполнена с учётом всех стандартов В подъездах используется гипоаллергенная воднодисперсионная акриловая краска Широкий лифт с большой грузоподъемностью Доступна покупка с рассрочкой платежа Звоните, чтобы узнать подробности!</description>
-<floor>2</floor>
-<floors-total>5</floors-total>
-<ceiling-height>2.7</ceiling-height>
-<built-year>2022</built-year>
-<ready-quarter>2</ready-quarter>
-<type>продажа</type>
-<property-type>living</property-type>
-<category>flat</category>
-<deal-status>reassignment</deal-status>
-<living-space>
-<value>18.02</value>
-</living-space>
-<room-space>
-<value>18.02</value>
-</room-space>
-<rooms>1</rooms>
-<rooms-offered>1</rooms-offered>
-<kitchen-space>
-<value>9.44</value>
-</kitchen-space>
-<renovation>черновая отделка</renovation>
-<window-view>во двор</window-view>
-<balcony>балкон</balcony>
-<bathroom-unit>1</bathroom-unit>
-<building-type>кирпичный</building-type>
-<building-state>hand-over</building-state>
-<lift>true</lift>
-<parking>0</parking>
-<rubbish-chute>0</rubbish-chute>
-</offer>
-<offer internal-id="apartment_401">
-<creation-date>2022-08-09T00:00:00+03:00</creation-date>
-<location>
-<country>Россия</country>
-<region>Ярославская область</region>
-<locality-name>Ярославль</locality-name>
-<sub-locality-name>Красноперекопский район</sub-locality-name>
-<address>Большая Донская, 10</address>
-</location>
-<sales-agent>
-<name>Вадим</name>
-<phone>8(996)241-25-71</phone>
-<category>agency</category>
-</sales-agent>
-<price>
-<value>6166900</value>
-<currency>RUB</currency>
-</price>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/1%D1%81/2%20%D1%8D%D1%82%D0%B0%D0%B6%201%D1%81%20%D0%BF%D0%BB%D0%B0%D0%BD.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/1%D1%81/2%20%D1%8D%D1%82%D0%B0%D0%B6%201%D1%81%20%D0%BF%D0%BB%D0%B0%D0%BD.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165357_727.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165400_875.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165440_982.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165408_637.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165452_335.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165413_883.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182154.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182156.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182159.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182216.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182318.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182512.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182601.jpg?raw=true</image>
-<area>
-<value>74.30</value>
-<unit>sq. m</unit>
-</area>
-<description>Квартира в новостройке в пяти минутах от центра Ярославля в экологически чистом, нешумном месте. Придомовая территория с парковкой. Эксклюзив! Преимущества: Внутри помещений большое количество естественного освещения благодаря объемно-планировочным решениям Высокий индекс изоляции шума между жилыми помещениями Двухкамерные ПВХ окна с мягким селективным покрытием Максимально грамотное использование пространства Чердачное помещение Теплоизоляция выполнена с учётом всех стандартов В подъездах используется гипоаллергенная воднодисперсионная акриловая краска Широкий лифт с большой грузоподъемностью Доступна покупка с рассрочкой платежа Звоните, чтобы узнать подробности!</description>
-<floor>2</floor>
-<floors-total>5</floors-total>
-<ceiling-height>2.7</ceiling-height>
-<built-year>2022</built-year>
-<ready-quarter>2</ready-quarter>
-<type>продажа</type>
-<property-type>living</property-type>
-<category>flat</category>
-<deal-status>reassignment</deal-status>
-<living-space>
-<value>49.13</value>
-</living-space>
-<room-space>
-<value>35.50</value>
-</room-space>
-<room-space>
-<value>13.63</value>
-</room-space>
-<rooms>2</rooms>
-<rooms-offered>2</rooms-offered>
-<kitchen-space>
-<value>7.92</value>
-</kitchen-space>
-<renovation>черновая отделка</renovation>
-<window-view>во двор</window-view>
-<balcony>балкон</balcony>
-<bathroom-unit>1</bathroom-unit>
-<building-type>кирпичный</building-type>
-<building-state>hand-over</building-state>
-<lift>true</lift>
-<parking>0</parking>
-<rubbish-chute>0</rubbish-chute>
-</offer>
-<offer internal-id="apartment_402">
-<creation-date>2022-08-09T00:00:00+03:00</creation-date>
-<location>
-<country>Россия</country>
-<region>Ярославская область</region>
-<locality-name>Ярославль</locality-name>
-<sub-locality-name>Красноперекопский район</sub-locality-name>
-<address>Большая Донская, 10</address>
-</location>
-<sales-agent>
-<name>Вадим</name>
-<phone>8(996)241-25-71</phone>
-<category>agency</category>
-</sales-agent>
-<price>
-<value>6440800</value>
-<currency>RUB</currency>
-</price>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/1%D1%81/2%20%D1%8D%D1%82%D0%B0%D0%B6%201%D1%81%20%D0%BF%D0%BB%D0%B0%D0%BD.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/1%D1%81/2%20%D1%8D%D1%82%D0%B0%D0%B6%201%D1%81%20%D0%BF%D0%BB%D0%B0%D0%BD.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165357_727.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165400_875.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165440_982.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165408_637.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165452_335.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165413_883.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182154.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182156.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182159.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182216.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182318.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182512.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182601.jpg?raw=true</image>
-<area>
-<value>77.60</value>
-<unit>sq. m</unit>
-</area>
-<description>Квартира в новостройке в пяти минутах от центра Ярославля в экологически чистом, нешумном месте. Придомовая территория с парковкой. Эксклюзив! Преимущества: Внутри помещений большое количество естественного освещения благодаря объемно-планировочным решениям Высокий индекс изоляции шума между жилыми помещениями Двухкамерные ПВХ окна с мягким селективным покрытием Максимально грамотное использование пространства Чердачное помещение Теплоизоляция выполнена с учётом всех стандартов В подъездах используется гипоаллергенная воднодисперсионная акриловая краска Широкий лифт с большой грузоподъемностью Доступна покупка с рассрочкой платежа Звоните, чтобы узнать подробности!</description>
-<floor>2</floor>
-<floors-total>5</floors-total>
-<ceiling-height>2.7</ceiling-height>
-<built-year>2022</built-year>
-<ready-quarter>2</ready-quarter>
-<type>продажа</type>
-<property-type>living</property-type>
-<category>flat</category>
-<deal-status>reassignment</deal-status>
-<living-space>
-<value>49.13</value>
-</living-space>
-<room-space>
-<value>35.50</value>
-</room-space>
-<room-space>
-<value>13.63</value>
-</room-space>
-<rooms>2</rooms>
-<rooms-offered>2</rooms-offered>
-<kitchen-space>
-<value>11.26</value>
-</kitchen-space>
-<renovation>черновая отделка</renovation>
-<window-view>во двор</window-view>
-<balcony>балкон</balcony>
-<bathroom-unit>1</bathroom-unit>
-<building-type>кирпичный</building-type>
-<building-state>hand-over</building-state>
-<lift>true</lift>
-<parking>0</parking>
-<rubbish-chute>0</rubbish-chute>
-</offer>
-<offer internal-id="apartment_403">
-<creation-date>2022-08-09T00:00:00+03:00</creation-date>
-<location>
-<country>Россия</country>
-<region>Ярославская область</region>
-<locality-name>Ярославль</locality-name>
-<sub-locality-name>Красноперекопский район</sub-locality-name>
-<address>Большая Донская, 10</address>
-</location>
-<sales-agent>
-<name>Вадим</name>
-<phone>8(996)241-25-71</phone>
-<category>agency</category>
-</sales-agent>
-<price>
-<value>3823200</value>
-<currency>RUB</currency>
-</price>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/1%D1%81/3%20%D1%8D%D1%82%D0%B0%D0%B6%201%D1%81%20%D0%BF%D0%BB%D0%B0%D0%BD.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/1%D1%81/3%20%D1%8D%D1%82%D0%B0%D0%B6%201%D1%81%20%D0%BF%D0%BB%D0%B0%D0%BD.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165357_727.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165400_875.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165440_982.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165408_637.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165452_335.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165413_883.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182154.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182156.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182159.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182216.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182318.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182512.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182601.jpg?raw=true</image>
-<area>
-<value>43.20</value>
-<unit>sq. m</unit>
-</area>
-<description>Квартира в новостройке в пяти минутах от центра Ярославля в экологически чистом, нешумном месте. Придомовая территория с парковкой. Эксклюзив! Преимущества: Внутри помещений большое количество естественного освещения благодаря объемно-планировочным решениям Высокий индекс изоляции шума между жилыми помещениями Двухкамерные ПВХ окна с мягким селективным покрытием Максимально грамотное использование пространства Чердачное помещение Теплоизоляция выполнена с учётом всех стандартов В подъездах используется гипоаллергенная воднодисперсионная акриловая краска Широкий лифт с большой грузоподъемностью Доступна покупка с рассрочкой платежа Звоните, чтобы узнать подробности!</description>
-<floor>3</floor>
-<floors-total>5</floors-total>
-<ceiling-height>2.7</ceiling-height>
-<built-year>2022</built-year>
-<ready-quarter>2</ready-quarter>
-<type>продажа</type>
-<property-type>living</property-type>
-<category>flat</category>
-<deal-status>reassignment</deal-status>
-<living-space>
-<value>18.02</value>
-</living-space>
-<room-space>
-<value>18.02</value>
-</room-space>
-<rooms>1</rooms>
-<rooms-offered>1</rooms-offered>
-<kitchen-space>
-<value>9.44</value>
-</kitchen-space>
-<renovation>черновая отделка</renovation>
-<window-view>во двор</window-view>
-<balcony>балкон</balcony>
-<bathroom-unit>1</bathroom-unit>
-<building-type>кирпичный</building-type>
-<building-state>hand-over</building-state>
-<lift>true</lift>
-<parking>0</parking>
-<rubbish-chute>0</rubbish-chute>
-</offer>
-<offer internal-id="apartment_404">
-<creation-date>2022-08-09T00:00:00+03:00</creation-date>
-<location>
-<country>Россия</country>
-<region>Ярославская область</region>
-<locality-name>Ярославль</locality-name>
-<sub-locality-name>Красноперекопский район</sub-locality-name>
-<address>Большая Донская, 10</address>
-</location>
-<sales-agent>
-<name>Вадим</name>
-<phone>8(996)241-25-71</phone>
-<category>agency</category>
-</sales-agent>
-<price>
-<value>3823200</value>
-<currency>RUB</currency>
-</price>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/1%D1%81/3%20%D1%8D%D1%82%D0%B0%D0%B6%201%D1%81%20%D0%BF%D0%BB%D0%B0%D0%BD.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/1%D1%81/3%20%D1%8D%D1%82%D0%B0%D0%B6%201%D1%81%20%D0%BF%D0%BB%D0%B0%D0%BD.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165357_727.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165400_875.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165440_982.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165408_637.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165452_335.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165413_883.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182154.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182156.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182159.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182216.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182318.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182512.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182601.jpg?raw=true</image>
-<area>
-<value>43.20</value>
-<unit>sq. m</unit>
-</area>
-<description>Квартира в новостройке в пяти минутах от центра Ярославля в экологически чистом, нешумном месте. Придомовая территория с парковкой. Эксклюзив! Преимущества: Внутри помещений большое количество естественного освещения благодаря объемно-планировочным решениям Высокий индекс изоляции шума между жилыми помещениями Двухкамерные ПВХ окна с мягким селективным покрытием Максимально грамотное использование пространства Чердачное помещение Теплоизоляция выполнена с учётом всех стандартов В подъездах используется гипоаллергенная воднодисперсионная акриловая краска Широкий лифт с большой грузоподъемностью Доступна покупка с рассрочкой платежа Звоните, чтобы узнать подробности!</description>
-<floor>3</floor>
-<floors-total>5</floors-total>
-<ceiling-height>2.7</ceiling-height>
-<built-year>2022</built-year>
-<ready-quarter>2</ready-quarter>
-<type>продажа</type>
-<property-type>living</property-type>
-<category>flat</category>
-<deal-status>reassignment</deal-status>
-<living-space>
-<value>18.02</value>
-</living-space>
-<room-space>
-<value>18.02</value>
-</room-space>
-<rooms>1</rooms>
-<rooms-offered>1</rooms-offered>
-<kitchen-space>
-<value>9.44</value>
-</kitchen-space>
-<renovation>черновая отделка</renovation>
-<window-view>во двор</window-view>
-<balcony>балкон</balcony>
-<bathroom-unit>1</bathroom-unit>
-<building-type>кирпичный</building-type>
-<building-state>hand-over</building-state>
-<lift>true</lift>
-<parking>0</parking>
-<rubbish-chute>0</rubbish-chute>
-</offer>
-<offer internal-id="apartment_405">
-<creation-date>2022-08-09T00:00:00+03:00</creation-date>
-<location>
-<country>Россия</country>
-<region>Ярославская область</region>
-<locality-name>Ярославль</locality-name>
-<sub-locality-name>Красноперекопский район</sub-locality-name>
-<address>Большая Донская, 10</address>
-</location>
-<sales-agent>
-<name>Вадим</name>
-<phone>8(996)241-25-71</phone>
-<category>agency</category>
-</sales-agent>
-<price>
-<value>6150300</value>
-<currency>RUB</currency>
-</price>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/1%D1%81/3%20%D1%8D%D1%82%D0%B0%D0%B6%201%D1%81%20%D0%BF%D0%BB%D0%B0%D0%BD.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/1%D1%81/3%20%D1%8D%D1%82%D0%B0%D0%B6%201%D1%81%20%D0%BF%D0%BB%D0%B0%D0%BD.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165357_727.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165400_875.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165440_982.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165408_637.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165452_335.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165413_883.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182154.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182156.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182159.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182216.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182318.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182512.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182601.jpg?raw=true</image>
-<area>
-<value>74.10</value>
-<unit>sq. m</unit>
-</area>
-<description>Квартира в новостройке в пяти минутах от центра Ярославля в экологически чистом, нешумном месте. Придомовая территория с парковкой. Эксклюзив! Преимущества: Внутри помещений большое количество естественного освещения благодаря объемно-планировочным решениям Высокий индекс изоляции шума между жилыми помещениями Двухкамерные ПВХ окна с мягким селективным покрытием Максимально грамотное использование пространства Чердачное помещение Теплоизоляция выполнена с учётом всех стандартов В подъездах используется гипоаллергенная воднодисперсионная акриловая краска Широкий лифт с большой грузоподъемностью Доступна покупка с рассрочкой платежа Звоните, чтобы узнать подробности!</description>
-<floor>3</floor>
-<floors-total>5</floors-total>
-<ceiling-height>2.7</ceiling-height>
-<built-year>2022</built-year>
-<ready-quarter>2</ready-quarter>
-<type>продажа</type>
-<property-type>living</property-type>
-<category>flat</category>
-<deal-status>reassignment</deal-status>
-<living-space>
-<value>49.13</value>
-</living-space>
-<room-space>
-<value>35.50</value>
-</room-space>
-<room-space>
-<value>13.63</value>
-</room-space>
-<rooms>2</rooms>
-<rooms-offered>2</rooms-offered>
-<kitchen-space>
-<value>7.92</value>
-</kitchen-space>
-<renovation>черновая отделка</renovation>
-<window-view>во двор</window-view>
-<balcony>балкон</balcony>
-<bathroom-unit>1</bathroom-unit>
-<building-type>кирпичный</building-type>
-<building-state>hand-over</building-state>
-<lift>true</lift>
-<parking>0</parking>
-<rubbish-chute>0</rubbish-chute>
-</offer>
-<offer internal-id="apartment_406">
-<creation-date>2022-08-09T00:00:00+03:00</creation-date>
-<location>
-<country>Россия</country>
-<region>Ярославская область</region>
-<locality-name>Ярославль</locality-name>
-<sub-locality-name>Красноперекопский район</sub-locality-name>
-<address>Большая Донская, 10</address>
-</location>
-<sales-agent>
-<name>Вадим</name>
-<phone>8(996)241-25-71</phone>
-<category>agency</category>
-</sales-agent>
-<price>
-<value>6432500</value>
-<currency>RUB</currency>
-</price>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/1%D1%81/3%20%D1%8D%D1%82%D0%B0%D0%B6%201%D1%81%20%D0%BF%D0%BB%D0%B0%D0%BD.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/1%D1%81/3%20%D1%8D%D1%82%D0%B0%D0%B6%201%D1%81%20%D0%BF%D0%BB%D0%B0%D0%BD.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165357_727.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165400_875.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165440_982.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165408_637.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165452_335.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165413_883.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182154.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182156.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182159.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182216.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182318.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182512.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182601.jpg?raw=true</image>
-<area>
-<value>77.50</value>
-<unit>sq. m</unit>
-</area>
-<description>Квартира в новостройке в пяти минутах от центра Ярославля в экологически чистом, нешумном месте. Придомовая территория с парковкой. Эксклюзив! Преимущества: Внутри помещений большое количество естественного освещения благодаря объемно-планировочным решениям Высокий индекс изоляции шума между жилыми помещениями Двухкамерные ПВХ окна с мягким селективным покрытием Максимально грамотное использование пространства Чердачное помещение Теплоизоляция выполнена с учётом всех стандартов В подъездах используется гипоаллергенная воднодисперсионная акриловая краска Широкий лифт с большой грузоподъемностью Доступна покупка с рассрочкой платежа Звоните, чтобы узнать подробности!</description>
-<floor>3</floor>
-<floors-total>5</floors-total>
-<ceiling-height>2.7</ceiling-height>
-<built-year>2022</built-year>
-<ready-quarter>2</ready-quarter>
-<type>продажа</type>
-<property-type>living</property-type>
-<category>flat</category>
-<deal-status>reassignment</deal-status>
-<living-space>
-<value>49.13</value>
-</living-space>
-<room-space>
-<value>35.50</value>
-</room-space>
-<room-space>
-<value>13.63</value>
-</room-space>
-<rooms>2</rooms>
-<rooms-offered>2</rooms-offered>
-<kitchen-space>
-<value>7.92</value>
-</kitchen-space>
-<renovation>черновая отделка</renovation>
-<window-view>во двор</window-view>
-<balcony>балкон</balcony>
-<bathroom-unit>1</bathroom-unit>
-<building-type>кирпичный</building-type>
-<building-state>hand-over</building-state>
-<lift>true</lift>
-<parking>0</parking>
-<rubbish-chute>0</rubbish-chute>
-</offer>
-<offer internal-id="apartment_407">
-<creation-date>2022-08-09T00:00:00+03:00</creation-date>
-<location>
-<country>Россия</country>
-<region>Ярославская область</region>
-<locality-name>Ярославль</locality-name>
-<sub-locality-name>Красноперекопский район</sub-locality-name>
-<address>Большая Донская, 10</address>
-</location>
-<sales-agent>
-<name>Вадим</name>
-<phone>8(996)241-25-71</phone>
-<category>agency</category>
-</sales-agent>
-<price>
-<value>3823200</value>
-<currency>RUB</currency>
-</price>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/1%D1%81/4%20%D1%8D%D1%82%D0%B0%D0%B6%201%D1%81%20%D0%BF%D0%BB%D0%B0%D0%BD.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/1%D1%81/4%20%D1%8D%D1%82%D0%B0%D0%B6%201%D1%81%20%D0%BF%D0%BB%D0%B0%D0%BD.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165357_727.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165400_875.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165440_982.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165408_637.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165452_335.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165413_883.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182154.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182156.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182159.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182216.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182318.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182512.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182601.jpg?raw=true</image>
-<area>
-<value>43.20</value>
-<unit>sq. m</unit>
-</area>
-<description>Квартира в новостройке в пяти минутах от центра Ярославля в экологически чистом, нешумном месте. Придомовая территория с парковкой. Эксклюзив! Преимущества: Внутри помещений большое количество естественного освещения благодаря объемно-планировочным решениям Высокий индекс изоляции шума между жилыми помещениями Двухкамерные ПВХ окна с мягким селективным покрытием Максимально грамотное использование пространства Чердачное помещение Теплоизоляция выполнена с учётом всех стандартов В подъездах используется гипоаллергенная воднодисперсионная акриловая краска Широкий лифт с большой грузоподъемностью Доступна покупка с рассрочкой платежа Звоните, чтобы узнать подробности!</description>
-<floor>4</floor>
-<floors-total>5</floors-total>
-<ceiling-height>2.7</ceiling-height>
-<built-year>2022</built-year>
-<ready-quarter>2</ready-quarter>
-<type>продажа</type>
-<property-type>living</property-type>
-<category>flat</category>
-<deal-status>reassignment</deal-status>
-<living-space>
-<value>18.02</value>
-</living-space>
-<room-space>
-<value>18.02</value>
-</room-space>
-<rooms>1</rooms>
-<rooms-offered>1</rooms-offered>
-<kitchen-space>
-<value>9.44</value>
-</kitchen-space>
-<renovation>черновая отделка</renovation>
-<window-view>во двор</window-view>
-<balcony>балкон</balcony>
-<bathroom-unit>1</bathroom-unit>
-<building-type>кирпичный</building-type>
-<building-state>hand-over</building-state>
-<lift>true</lift>
-<parking>0</parking>
-<rubbish-chute>0</rubbish-chute>
-</offer>
-<offer internal-id="apartment_408">
-<creation-date>2022-08-09T00:00:00+03:00</creation-date>
-<location>
-<country>Россия</country>
-<region>Ярославская область</region>
-<locality-name>Ярославль</locality-name>
-<sub-locality-name>Красноперекопский район</sub-locality-name>
-<address>Большая Донская, 10</address>
-</location>
-<sales-agent>
-<name>Вадим</name>
-<phone>8(996)241-25-71</phone>
-<category>agency</category>
-</sales-agent>
-<price>
-<value>3823200</value>
-<currency>RUB</currency>
-</price>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/1%D1%81/4%20%D1%8D%D1%82%D0%B0%D0%B6%201%D1%81%20%D0%BF%D0%BB%D0%B0%D0%BD.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/1%D1%81/4%20%D1%8D%D1%82%D0%B0%D0%B6%201%D1%81%20%D0%BF%D0%BB%D0%B0%D0%BD.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165357_727.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165400_875.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165440_982.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165408_637.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165452_335.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165413_883.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182154.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182156.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182159.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182216.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182318.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182512.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182601.jpg?raw=true</image>
-<area>
-<value>43.20</value>
-<unit>sq. m</unit>
-</area>
-<description>Квартира в новостройке в пяти минутах от центра Ярославля в экологически чистом, нешумном месте. Придомовая территория с парковкой. Эксклюзив! Преимущества: Внутри помещений большое количество естественного освещения благодаря объемно-планировочным решениям Высокий индекс изоляции шума между жилыми помещениями Двухкамерные ПВХ окна с мягким селективным покрытием Максимально грамотное использование пространства Чердачное помещение Теплоизоляция выполнена с учётом всех стандартов В подъездах используется гипоаллергенная воднодисперсионная акриловая краска Широкий лифт с большой грузоподъемностью Доступна покупка с рассрочкой платежа Звоните, чтобы узнать подробности!</description>
-<floor>4</floor>
-<floors-total>5</floors-total>
-<ceiling-height>2.7</ceiling-height>
-<built-year>2022</built-year>
-<ready-quarter>2</ready-quarter>
-<type>продажа</type>
-<property-type>living</property-type>
-<category>flat</category>
-<deal-status>reassignment</deal-status>
-<living-space>
-<value>18.02</value>
-</living-space>
-<room-space>
-<value>18.02</value>
-</room-space>
-<rooms>1</rooms>
-<rooms-offered>1</rooms-offered>
-<kitchen-space>
-<value>9.44</value>
-</kitchen-space>
-<renovation>черновая отделка</renovation>
-<window-view>во двор</window-view>
-<balcony>балкон</balcony>
-<bathroom-unit>1</bathroom-unit>
-<building-type>кирпичный</building-type>
-<building-state>hand-over</building-state>
-<lift>true</lift>
-<parking>0</parking>
-<rubbish-chute>0</rubbish-chute>
-</offer>
-<offer internal-id="apartment_409">
-<creation-date>2022-08-09T00:00:00+03:00</creation-date>
-<location>
-<country>Россия</country>
-<region>Ярославская область</region>
-<locality-name>Ярославль</locality-name>
-<sub-locality-name>Красноперекопский район</sub-locality-name>
-<address>Большая Донская, 10</address>
-</location>
-<sales-agent>
-<name>Вадим</name>
-<phone>8(996)241-25-71</phone>
-<category>agency</category>
-</sales-agent>
-<price>
-<value>6150300</value>
-<currency>RUB</currency>
-</price>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/1%D1%81/4%20%D1%8D%D1%82%D0%B0%D0%B6%201%D1%81%20%D0%BF%D0%BB%D0%B0%D0%BD.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/1%D1%81/4%20%D1%8D%D1%82%D0%B0%D0%B6%201%D1%81%20%D0%BF%D0%BB%D0%B0%D0%BD.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165357_727.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165400_875.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165440_982.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165408_637.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165452_335.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165413_883.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182154.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182156.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182159.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182216.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182318.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182512.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182601.jpg?raw=true</image>
-<area>
-<value>74.10</value>
-<unit>sq. m</unit>
-</area>
-<description>Квартира в новостройке в пяти минутах от центра Ярославля в экологически чистом, нешумном месте. Придомовая территория с парковкой. Эксклюзив! Преимущества: Внутри помещений большое количество естественного освещения благодаря объемно-планировочным решениям Высокий индекс изоляции шума между жилыми помещениями Двухкамерные ПВХ окна с мягким селективным покрытием Максимально грамотное использование пространства Чердачное помещение Теплоизоляция выполнена с учётом всех стандартов В подъездах используется гипоаллергенная воднодисперсионная акриловая краска Широкий лифт с большой грузоподъемностью Доступна покупка с рассрочкой платежа Звоните, чтобы узнать подробности!</description>
-<floor>4</floor>
-<floors-total>5</floors-total>
-<ceiling-height>2.7</ceiling-height>
-<built-year>2022</built-year>
-<ready-quarter>2</ready-quarter>
-<type>продажа</type>
-<property-type>living</property-type>
-<category>flat</category>
-<deal-status>reassignment</deal-status>
-<living-space>
-<value>49.13</value>
-</living-space>
-<room-space>
-<value>35.50</value>
-</room-space>
-<room-space>
-<value>13.63</value>
-</room-space>
-<rooms>2</rooms>
-<rooms-offered>2</rooms-offered>
-<kitchen-space>
-<value>7.92</value>
-</kitchen-space>
-<renovation>черновая отделка</renovation>
-<window-view>во двор</window-view>
-<balcony>балкон</balcony>
-<bathroom-unit>1</bathroom-unit>
-<building-type>кирпичный</building-type>
-<building-state>hand-over</building-state>
-<lift>true</lift>
-<parking>0</parking>
-<rubbish-chute>0</rubbish-chute>
-</offer>
-<offer internal-id="apartment_410">
-<creation-date>2022-08-09T00:00:00+03:00</creation-date>
-<location>
-<country>Россия</country>
-<region>Ярославская область</region>
-<locality-name>Ярославль</locality-name>
-<sub-locality-name>Красноперекопский район</sub-locality-name>
-<address>Большая Донская, 10</address>
-</location>
-<sales-agent>
-<name>Вадим</name>
-<phone>8(996)241-25-71</phone>
-<category>agency</category>
-</sales-agent>
-<price>
-<value>6432500</value>
-<currency>RUB</currency>
-</price>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/1%D1%81/4%20%D1%8D%D1%82%D0%B0%D0%B6%201%D1%81%20%D0%BF%D0%BB%D0%B0%D0%BD.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/1%D1%81/4%20%D1%8D%D1%82%D0%B0%D0%B6%201%D1%81%20%D0%BF%D0%BB%D0%B0%D0%BD.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165357_727.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165400_875.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165440_982.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165408_637.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165452_335.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165413_883.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182154.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182156.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182159.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182216.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182318.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182512.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182601.jpg?raw=true</image>
-<area>
-<value>77.50</value>
-<unit>sq. m</unit>
-</area>
-<description>Квартира в новостройке в пяти минутах от центра Ярославля в экологически чистом, нешумном месте. Придомовая территория с парковкой. Эксклюзив! Преимущества: Внутри помещений большое количество естественного освещения благодаря объемно-планировочным решениям Высокий индекс изоляции шума между жилыми помещениями Двухкамерные ПВХ окна с мягким селективным покрытием Максимально грамотное использование пространства Чердачное помещение Теплоизоляция выполнена с учётом всех стандартов В подъездах используется гипоаллергенная воднодисперсионная акриловая краска Широкий лифт с большой грузоподъемностью Доступна покупка с рассрочкой платежа Звоните, чтобы узнать подробности!</description>
-<floor>4</floor>
-<floors-total>5</floors-total>
-<ceiling-height>2.7</ceiling-height>
-<built-year>2022</built-year>
-<ready-quarter>2</ready-quarter>
-<type>продажа</type>
-<property-type>living</property-type>
-<category>flat</category>
-<deal-status>reassignment</deal-status>
-<living-space>
-<value>49.13</value>
-</living-space>
-<room-space>
-<value>35.50</value>
-</room-space>
-<room-space>
-<value>13.63</value>
-</room-space>
-<rooms>2</rooms>
-<rooms-offered>2</rooms-offered>
-<kitchen-space>
-<value>7.92</value>
-</kitchen-space>
-<renovation>черновая отделка</renovation>
-<window-view>во двор</window-view>
-<balcony>балкон</balcony>
-<bathroom-unit>1</bathroom-unit>
-<building-type>кирпичный</building-type>
-<building-state>hand-over</building-state>
-<lift>true</lift>
-<parking>0</parking>
-<rubbish-chute>0</rubbish-chute>
-</offer>
-<offer internal-id="apartment_411">
-<creation-date>2022-08-09T00:00:00+03:00</creation-date>
-<location>
-<country>Россия</country>
-<region>Ярославская область</region>
-<locality-name>Ярославль</locality-name>
-<sub-locality-name>Красноперекопский район</sub-locality-name>
-<address>Большая Донская, 10</address>
-</location>
-<sales-agent>
-<name>Вадим</name>
-<phone>8(996)241-25-71</phone>
-<category>agency</category>
-</sales-agent>
-<price>
-<value>3736800</value>
-<currency>RUB</currency>
-</price>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/1%D1%81/5%20%D1%8D%D1%82%D0%B0%D0%B6%201%D1%81%20%D0%BF%D0%BB%D0%B0%D0%BD.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/1%D1%81/5%20%D1%8D%D1%82%D0%B0%D0%B6%201%D1%81%20%D0%BF%D0%BB%D0%B0%D0%BD.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165357_727.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165400_875.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165440_982.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165408_637.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165452_335.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165413_883.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182154.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182156.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182159.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182216.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182318.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182512.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182601.jpg?raw=true</image>
-<area>
-<value>43.20</value>
-<unit>sq. m</unit>
-</area>
-<description>Квартира в новостройке в пяти минутах от центра Ярославля в экологически чистом, нешумном месте. Придомовая территория с парковкой. Эксклюзив! Преимущества: Внутри помещений большое количество естественного освещения благодаря объемно-планировочным решениям Высокий индекс изоляции шума между жилыми помещениями Двухкамерные ПВХ окна с мягким селективным покрытием Максимально грамотное использование пространства Чердачное помещение Теплоизоляция выполнена с учётом всех стандартов В подъездах используется гипоаллергенная воднодисперсионная акриловая краска Широкий лифт с большой грузоподъемностью Доступна покупка с рассрочкой платежа Звоните, чтобы узнать подробности!</description>
-<floor>5</floor>
-<floors-total>5</floors-total>
-<ceiling-height>2.7</ceiling-height>
-<built-year>2022</built-year>
-<ready-quarter>2</ready-quarter>
-<type>продажа</type>
-<property-type>living</property-type>
-<category>flat</category>
-<deal-status>reassignment</deal-status>
-<living-space>
-<value>18.02</value>
-</living-space>
-<room-space>
-<value>18.02</value>
-</room-space>
-<rooms>1</rooms>
-<rooms-offered>1</rooms-offered>
-<kitchen-space>
-<value>9.44</value>
-</kitchen-space>
-<renovation>черновая отделка</renovation>
-<window-view>во двор</window-view>
-<balcony>балкон</balcony>
-<bathroom-unit>1</bathroom-unit>
-<building-type>кирпичный</building-type>
-<building-state>hand-over</building-state>
-<lift>true</lift>
-<parking>0</parking>
-<rubbish-chute>0</rubbish-chute>
-</offer>
-<offer internal-id="apartment_412">
-<creation-date>2022-08-09T00:00:00+03:00</creation-date>
-<location>
-<country>Россия</country>
-<region>Ярославская область</region>
-<locality-name>Ярославль</locality-name>
-<sub-locality-name>Красноперекопский район</sub-locality-name>
-<address>Большая Донская, 10</address>
-</location>
-<sales-agent>
-<name>Вадим</name>
-<phone>8(996)241-25-71</phone>
-<category>agency</category>
-</sales-agent>
-<price>
-<value>3736800</value>
-<currency>RUB</currency>
-</price>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/1%D1%81/5%20%D1%8D%D1%82%D0%B0%D0%B6%201%D1%81%20%D0%BF%D0%BB%D0%B0%D0%BD.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/1%D1%81/5%20%D1%8D%D1%82%D0%B0%D0%B6%201%D1%81%20%D0%BF%D0%BB%D0%B0%D0%BD.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165357_727.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165400_875.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165440_982.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165408_637.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165452_335.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165413_883.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182154.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182156.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182159.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182216.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182318.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182512.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182601.jpg?raw=true</image>
-<area>
-<value>43.20</value>
-<unit>sq. m</unit>
-</area>
-<description>Квартира в новостройке в пяти минутах от центра Ярославля в экологически чистом, нешумном месте. Придомовая территория с парковкой. Эксклюзив! Преимущества: Внутри помещений большое количество естественного освещения благодаря объемно-планировочным решениям Высокий индекс изоляции шума между жилыми помещениями Двухкамерные ПВХ окна с мягким селективным покрытием Максимально грамотное использование пространства Чердачное помещение Теплоизоляция выполнена с учётом всех стандартов В подъездах используется гипоаллергенная воднодисперсионная акриловая краска Широкий лифт с большой грузоподъемностью Доступна покупка с рассрочкой платежа Звоните, чтобы узнать подробности!</description>
-<floor>5</floor>
-<floors-total>5</floors-total>
-<ceiling-height>2.7</ceiling-height>
-<built-year>2022</built-year>
-<ready-quarter>2</ready-quarter>
-<type>продажа</type>
-<property-type>living</property-type>
-<category>flat</category>
-<deal-status>reassignment</deal-status>
-<living-space>
-<value>18.02</value>
-</living-space>
-<room-space>
-<value>18.02</value>
-</room-space>
-<rooms>1</rooms>
-<rooms-offered>1</rooms-offered>
-<kitchen-space>
-<value>9.44</value>
-</kitchen-space>
-<renovation>черновая отделка</renovation>
-<window-view>во двор</window-view>
-<balcony>балкон</balcony>
-<bathroom-unit>1</bathroom-unit>
-<building-type>кирпичный</building-type>
-<building-state>hand-over</building-state>
-<lift>true</lift>
-<parking>0</parking>
-<rubbish-chute>0</rubbish-chute>
-</offer>
-<offer internal-id="apartment_413">
-<creation-date>2022-08-09T00:00:00+03:00</creation-date>
-<location>
-<country>Россия</country>
-<region>Ярославская область</region>
-<locality-name>Ярославль</locality-name>
-<sub-locality-name>Красноперекопский район</sub-locality-name>
-<address>Большая Донская, 10</address>
-</location>
-<sales-agent>
-<name>Вадим</name>
-<phone>8(996)241-25-71</phone>
-<category>agency</category>
-</sales-agent>
-<price>
-<value>5994000</value>
-<currency>RUB</currency>
-</price>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/1%D1%81/5%20%D1%8D%D1%82%D0%B0%D0%B6%201%D1%81%20%D0%BF%D0%BB%D0%B0%D0%BD.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/1%D1%81/5%20%D1%8D%D1%82%D0%B0%D0%B6%201%D1%81%20%D0%BF%D0%BB%D0%B0%D0%BD.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165357_727.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165400_875.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165440_982.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165408_637.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165452_335.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165413_883.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182154.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182156.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182159.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182216.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182318.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182512.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182601.jpg?raw=true</image>
-<area>
-<value>74.00</value>
-<unit>sq. m</unit>
-</area>
-<description>Квартира в новостройке в пяти минутах от центра Ярославля в экологически чистом, нешумном месте. Придомовая территория с парковкой. Эксклюзив! Преимущества: Внутри помещений большое количество естественного освещения благодаря объемно-планировочным решениям Высокий индекс изоляции шума между жилыми помещениями Двухкамерные ПВХ окна с мягким селективным покрытием Максимально грамотное использование пространства Чердачное помещение Теплоизоляция выполнена с учётом всех стандартов В подъездах используется гипоаллергенная воднодисперсионная акриловая краска Широкий лифт с большой грузоподъемностью Доступна покупка с рассрочкой платежа Звоните, чтобы узнать подробности!</description>
-<floor>5</floor>
-<floors-total>5</floors-total>
-<ceiling-height>2.7</ceiling-height>
-<built-year>2022</built-year>
-<ready-quarter>2</ready-quarter>
-<type>продажа</type>
-<property-type>living</property-type>
-<category>flat</category>
-<deal-status>reassignment</deal-status>
-<living-space>
-<value>49.13</value>
-</living-space>
-<room-space>
-<value>35.50</value>
-</room-space>
-<room-space>
-<value>13.63</value>
-</room-space>
-<rooms>2</rooms>
-<rooms-offered>2</rooms-offered>
-<kitchen-space>
-<value>7.92</value>
-</kitchen-space>
-<renovation>черновая отделка</renovation>
-<window-view>во двор</window-view>
-<balcony>балкон</balcony>
-<bathroom-unit>1</bathroom-unit>
-<building-type>кирпичный</building-type>
-<building-state>hand-over</building-state>
-<lift>true</lift>
-<parking>0</parking>
-<rubbish-chute>0</rubbish-chute>
-</offer>
-<offer internal-id="apartment_414">
-<creation-date>2022-08-09T00:00:00+03:00</creation-date>
-<location>
-<country>Россия</country>
-<region>Ярославская область</region>
-<locality-name>Ярославль</locality-name>
-<sub-locality-name>Красноперекопский район</sub-locality-name>
-<address>Большая Донская, 10</address>
-</location>
-<sales-agent>
-<name>Вадим</name>
-<phone>8(996)241-25-71</phone>
-<category>agency</category>
-</sales-agent>
-<price>
-<value>6261300</value>
-<currency>RUB</currency>
-</price>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/1%D1%81/5%20%D1%8D%D1%82%D0%B0%D0%B6%201%D1%81%20%D0%BF%D0%BB%D0%B0%D0%BD.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/1%D1%81/5%20%D1%8D%D1%82%D0%B0%D0%B6%201%D1%81%20%D0%BF%D0%BB%D0%B0%D0%BD.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165357_727.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165400_875.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165440_982.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165408_637.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165452_335.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165413_883.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182154.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182156.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182159.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182216.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182318.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182512.jpg?raw=true</image>
-<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182601.jpg?raw=true</image>
-<area>
-<value>77.30</value>
-<unit>sq. m</unit>
-</area>
-<description>Квартира в новостройке в пяти минутах от центра Ярославля в экологически чистом, нешумном месте. Придомовая территория с парковкой. Эксклюзив! Преимущества: Внутри помещений большое количество естественного освещения благодаря объемно-планировочным решениям Высокий индекс изоляции шума между жилыми помещениями Двухкамерные ПВХ окна с мягким селективным покрытием Максимально грамотное использование пространства Чердачное помещение Теплоизоляция выполнена с учётом всех стандартов В подъездах используется гипоаллергенная воднодисперсионная акриловая краска Широкий лифт с большой грузоподъемностью Доступна покупка с рассрочкой платежа Звоните, чтобы узнать подробности!</description>
-<floor>5</floor>
-<floors-total>5</floors-total>
-<ceiling-height>2.7</ceiling-height>
-<built-year>2022</built-year>
-<ready-quarter>2</ready-quarter>
-<type>продажа</type>
-<property-type>living</property-type>
-<category>flat</category>
-<deal-status>reassignment</deal-status>
-<living-space>
-<value>49.13</value>
-</living-space>
-<room-space>
-<value>35.50</value>
-</room-space>
-<room-space>
-<value>13.63</value>
-</room-space>
-<rooms>2</rooms>
-<rooms-offered>2</rooms-offered>
-<kitchen-space>
-<value>7.92</value>
-</kitchen-space>
-<renovation>черновая отделка</renovation>
-<window-view>во двор</window-view>
-<balcony>балкон</balcony>
-<bathroom-unit>1</bathroom-unit>
-<building-type>кирпичный</building-type>
-<building-state>hand-over</building-state>
-<lift>true</lift>
-<parking>0</parking>
-<rubbish-chute>0</rubbish-chute>
-</offer>
+		<creation-date>2022-08-09T00:00:00+03:00</creation-date>
+		<location>
+			<country>Россия</country>
+			<region>Ярославская область</region>
+			<locality-name>Ярославль</locality-name>
+			<sub-locality-name>Красноперекопский район</sub-locality-name>
+			<address>Большая Донская, 10</address>
+		</location>
+		<sales-agent>
+			<name>Вадим</name>
+			<phone>8(996)241-25-71</phone>
+			<category>agency</category>
+		</sales-agent>
+		<price>
+			<value>3590000</value>
+			<currency>RUB</currency>
+		</price>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/1%D1%81/1%20%D1%8D%D1%82%D0%B0%D0%B6%201%D1%81%20%D0%BF%D0%BB%D0%B0%D0%BD.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/1%D1%81/1%20%D1%8D%D1%82%D0%B0%D0%B6%201%D1%81%20%D0%BF%D0%BB%D0%B0%D0%BD.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165357_727.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165400_875.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165440_982.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165408_637.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165452_335.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165413_883.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182154.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182156.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182159.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182216.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182318.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182512.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182601.jpg?raw=true</image>
+		<area>
+			<value>42.90</value>
+			<unit>sq. m</unit>
+		</area>
+		<description>Квартира в новостройке в пяти минутах от центра Ярославля в экологически чистом, нешумном месте. Придомовая территория с парковкой. Эксклюзив! Преимущества: Внутри помещений большое количество естественного освещения благодаря объемно-планировочным решениям Высокий индекс изоляции шума между жилыми помещениями Двухкамерные ПВХ окна с мягким селективным покрытием Максимально грамотное использование пространства Чердачное помещение Теплоизоляция выполнена с учётом всех стандартов В подъездах используется гипоаллергенная воднодисперсионная акриловая краска Широкий лифт с большой грузоподъемностью Доступна покупка с рассрочкой платежа Звоните, чтобы узнать подробности!</description>
+		<floor>1</floor>
+		<floors-total>5</floors-total>
+		<ceiling-height>2.7</ceiling-height>
+		<built-year>2022</built-year>
+		<ready-quarter>2</ready-quarter>
+		<type>продажа</type>
+		<property-type>living</property-type>
+		<category>flat</category>
+		<deal-status>reassignment</deal-status>
+		<living-space>
+			<value>17.36</value>
+		</living-space>
+		<room-space>
+			<value>17.36</value>
+		</room-space>
+		<rooms>1</rooms>
+		<rooms-offered>1</rooms-offered>
+		<kitchen-space>
+			<value>9.61</value>
+		</kitchen-space>
+		<renovation>черновая отделка</renovation>
+		<window-view>во двор</window-view>
+		<balcony>балкон</balcony>
+		<bathroom-unit>1</bathroom-unit>
+		<building-type>кирпичный</building-type>
+		<building-state>hand-over</building-state>
+		<lift>true</lift>
+		<parking>0</parking>
+		<rubbish-chute>0</rubbish-chute>
+	</offer>
+	<offer internal-id="apartment_396">
+		<creation-date>2022-08-09T00:00:00+03:00</creation-date>
+		<location>
+			<country>Россия</country>
+			<region>Ярославская область</region>
+			<locality-name>Ярославль</locality-name>
+			<sub-locality-name>Красноперекопский район</sub-locality-name>
+			<address>Большая Донская, 10</address>
+		</location>
+		<sales-agent>
+			<name>Вадим</name>
+			<phone>8(996)241-25-71</phone>
+			<category>agency</category>
+		</sales-agent>
+		<price>
+			<value>3590000</value>
+			<currency>RUB</currency>
+		</price>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/1%D1%81/1%20%D1%8D%D1%82%D0%B0%D0%B6%201%D1%81%20%D0%BF%D0%BB%D0%B0%D0%BD.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/1%D1%81/1%20%D1%8D%D1%82%D0%B0%D0%B6%201%D1%81%20%D0%BF%D0%BB%D0%B0%D0%BD.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165357_727.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165400_875.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165440_982.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165408_637.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165452_335.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165413_883.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182154.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182156.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182159.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182216.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182318.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182512.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182601.jpg?raw=true</image>
+		<area>
+			<value>42.90</value>
+			<unit>sq. m</unit>
+		</area>
+		<description>Квартира в новостройке в пяти минутах от центра Ярославля в экологически чистом, нешумном месте. Придомовая территория с парковкой. Эксклюзив! Преимущества: Внутри помещений большое количество естественного освещения благодаря объемно-планировочным решениям Высокий индекс изоляции шума между жилыми помещениями Двухкамерные ПВХ окна с мягким селективным покрытием Максимально грамотное использование пространства Чердачное помещение Теплоизоляция выполнена с учётом всех стандартов В подъездах используется гипоаллергенная воднодисперсионная акриловая краска Широкий лифт с большой грузоподъемностью Доступна покупка с рассрочкой платежа Звоните, чтобы узнать подробности!</description>
+		<floor>1</floor>
+		<floors-total>5</floors-total>
+		<ceiling-height>2.7</ceiling-height>
+		<built-year>2022</built-year>
+		<ready-quarter>2</ready-quarter>
+		<type>продажа</type>
+		<property-type>living</property-type>
+		<category>flat</category>
+		<deal-status>reassignment</deal-status>
+		<living-space>
+			<value>17.36</value>
+		</living-space>
+		<room-space>
+			<value>17.36</value>
+		</room-space>
+		<rooms>1</rooms>
+		<rooms-offered>1</rooms-offered>
+		<kitchen-space>
+			<value>9.61</value>
+		</kitchen-space>
+		<renovation>черновая отделка</renovation>
+		<window-view>во двор</window-view>
+		<balcony>балкон</balcony>
+		<bathroom-unit>1</bathroom-unit>
+		<building-type>кирпичный</building-type>
+		<building-state>hand-over</building-state>
+		<lift>true</lift>
+		<parking>0</parking>
+		<rubbish-chute>0</rubbish-chute>
+	</offer>
+	<offer internal-id="apartment_397">
+		<creation-date>2022-08-09T00:00:00+03:00</creation-date>
+		<location>
+			<country>Россия</country>
+			<region>Ярославская область</region>
+			<locality-name>Ярославль</locality-name>
+			<sub-locality-name>Красноперекопский район</sub-locality-name>
+			<address>Большая Донская, 10</address>
+		</location>
+		<sales-agent>
+			<name>Вадим</name>
+			<phone>8(996)241-25-71</phone>
+			<category>agency</category>
+		</sales-agent>
+		<price>
+			<value>5790000</value>
+			<currency>RUB</currency>
+		</price>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/1%D1%81/1%20%D1%8D%D1%82%D0%B0%D0%B6%201%D1%81%20%D0%BF%D0%BB%D0%B0%D0%BD.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/1%D1%81/1%20%D1%8D%D1%82%D0%B0%D0%B6%201%D1%81%20%D0%BF%D0%BB%D0%B0%D0%BD.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165357_727.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165400_875.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165440_982.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165408_637.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165452_335.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165413_883.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182154.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182156.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182159.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182216.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182318.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182512.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182601.jpg?raw=true</image>
+		<area>
+			<value>74.30</value>
+			<unit>sq. m</unit>
+		</area>
+		<description>Квартира в новостройке в пяти минутах от центра Ярославля в экологически чистом, нешумном месте. Придомовая территория с парковкой. Эксклюзив! Преимущества: Внутри помещений большое количество естественного освещения благодаря объемно-планировочным решениям Высокий индекс изоляции шума между жилыми помещениями Двухкамерные ПВХ окна с мягким селективным покрытием Максимально грамотное использование пространства Чердачное помещение Теплоизоляция выполнена с учётом всех стандартов В подъездах используется гипоаллергенная воднодисперсионная акриловая краска Широкий лифт с большой грузоподъемностью Доступна покупка с рассрочкой платежа Звоните, чтобы узнать подробности!</description>
+		<floor>1</floor>
+		<floors-total>5</floors-total>
+		<ceiling-height>2.7</ceiling-height>
+		<built-year>2022</built-year>
+		<ready-quarter>2</ready-quarter>
+		<type>продажа</type>
+		<property-type>living</property-type>
+		<category>flat</category>
+		<deal-status>reassignment</deal-status>
+		<living-space>
+			<value>49.13</value>
+		</living-space>
+		<room-space>
+			<value>35.50</value>
+		</room-space>
+		<room-space>
+			<value>13.63</value>
+		</room-space>
+		<rooms>2</rooms>
+		<rooms-offered>2</rooms-offered>
+		<kitchen-space>
+			<value>7.92</value>
+		</kitchen-space>
+		<renovation>черновая отделка</renovation>
+		<window-view>во двор</window-view>
+		<balcony>балкон</balcony>
+		<bathroom-unit>1</bathroom-unit>
+		<building-type>кирпичный</building-type>
+		<building-state>hand-over</building-state>
+		<lift>true</lift>
+		<parking>0</parking>
+		<rubbish-chute>0</rubbish-chute>
+	</offer>
+	<offer internal-id="apartment_398">
+		<creation-date>2022-08-09T00:00:00+03:00</creation-date>
+		<location>
+			<country>Россия</country>
+			<region>Ярославская область</region>
+			<locality-name>Ярославль</locality-name>
+			<sub-locality-name>Красноперекопский район</sub-locality-name>
+			<address>Большая Донская, 10</address>
+		</location>
+		<sales-agent>
+			<name>Вадим</name>
+			<phone>8(996)241-25-71</phone>
+			<category>agency</category>
+		</sales-agent>
+		<price>
+			<value>5790000</value>
+			<currency>RUB</currency>
+		</price>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/1%D1%81/1%20%D1%8D%D1%82%D0%B0%D0%B6%201%D1%81%20%D0%BF%D0%BB%D0%B0%D0%BD.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/1%D1%81/1%20%D1%8D%D1%82%D0%B0%D0%B6%201%D1%81%20%D0%BF%D0%BB%D0%B0%D0%BD.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165357_727.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165400_875.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165440_982.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165408_637.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165452_335.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165413_883.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182154.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182156.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182159.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182216.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182318.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182512.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182601.jpg?raw=true</image>
+		<area>
+			<value>74.30</value>
+			<unit>sq. m</unit>
+		</area>
+		<description>Квартира в новостройке в пяти минутах от центра Ярославля в экологически чистом, нешумном месте. Придомовая территория с парковкой. Эксклюзив! Преимущества: Внутри помещений большое количество естественного освещения благодаря объемно-планировочным решениям Высокий индекс изоляции шума между жилыми помещениями Двухкамерные ПВХ окна с мягким селективным покрытием Максимально грамотное использование пространства Чердачное помещение Теплоизоляция выполнена с учётом всех стандартов В подъездах используется гипоаллергенная воднодисперсионная акриловая краска Широкий лифт с большой грузоподъемностью Доступна покупка с рассрочкой платежа Звоните, чтобы узнать подробности!</description>
+		<floor>1</floor>
+		<floors-total>5</floors-total>
+		<ceiling-height>2.7</ceiling-height>
+		<built-year>2022</built-year>
+		<ready-quarter>2</ready-quarter>
+		<type>продажа</type>
+		<property-type>living</property-type>
+		<category>flat</category>
+		<deal-status>reassignment</deal-status>
+		<living-space>
+			<value>49.13</value>
+		</living-space>
+		<room-space>
+			<value>35.50</value>
+		</room-space>
+		<room-space>
+			<value>13.63</value>
+		</room-space>
+		<rooms>2</rooms>
+		<rooms-offered>2</rooms-offered>
+		<kitchen-space>
+			<value>7.92</value>
+		</kitchen-space>
+		<renovation>черновая отделка</renovation>
+		<window-view>во двор</window-view>
+		<balcony>балкон</balcony>
+		<bathroom-unit>1</bathroom-unit>
+		<building-type>кирпичный</building-type>
+		<building-state>hand-over</building-state>
+		<lift>true</lift>
+		<parking>0</parking>
+		<rubbish-chute>0</rubbish-chute>
+	</offer>
+	<offer internal-id="apartment_399">
+		<creation-date>2022-08-09T00:00:00+03:00</creation-date>
+		<location>
+			<country>Россия</country>
+			<region>Ярославская область</region>
+			<locality-name>Ярославль</locality-name>
+			<sub-locality-name>Красноперекопский район</sub-locality-name>
+			<address>Большая Донская, 10</address>
+		</location>
+		<sales-agent>
+			<name>Вадим</name>
+			<phone>8(996)241-25-71</phone>
+			<category>agency</category>
+		</sales-agent>
+		<price>
+			<value>3849750</value>
+			<currency>RUB</currency>
+		</price>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/1%D1%81/2%20%D1%8D%D1%82%D0%B0%D0%B6%201%D1%81%20%D0%BF%D0%BB%D0%B0%D0%BD.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/1%D1%81/2%20%D1%8D%D1%82%D0%B0%D0%B6%201%D1%81%20%D0%BF%D0%BB%D0%B0%D0%BD.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165357_727.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165400_875.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165440_982.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165408_637.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165452_335.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165413_883.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182154.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182156.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182159.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182216.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182318.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182512.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182601.jpg?raw=true</image>
+		<area>
+			<value>43.50</value>
+			<unit>sq. m</unit>
+		</area>
+		<description>Квартира в новостройке в пяти минутах от центра Ярославля в экологически чистом, нешумном месте. Придомовая территория с парковкой. Эксклюзив! Преимущества: Внутри помещений большое количество естественного освещения благодаря объемно-планировочным решениям Высокий индекс изоляции шума между жилыми помещениями Двухкамерные ПВХ окна с мягким селективным покрытием Максимально грамотное использование пространства Чердачное помещение Теплоизоляция выполнена с учётом всех стандартов В подъездах используется гипоаллергенная воднодисперсионная акриловая краска Широкий лифт с большой грузоподъемностью Доступна покупка с рассрочкой платежа Звоните, чтобы узнать подробности!</description>
+		<floor>2</floor>
+		<floors-total>5</floors-total>
+		<ceiling-height>2.7</ceiling-height>
+		<built-year>2022</built-year>
+		<ready-quarter>2</ready-quarter>
+		<type>продажа</type>
+		<property-type>living</property-type>
+		<category>flat</category>
+		<deal-status>reassignment</deal-status>
+		<living-space>
+			<value>18.02</value>
+		</living-space>
+		<room-space>
+			<value>18.02</value>
+		</room-space>
+		<rooms>1</rooms>
+		<rooms-offered>1</rooms-offered>
+		<kitchen-space>
+			<value>9.44</value>
+		</kitchen-space>
+		<renovation>черновая отделка</renovation>
+		<window-view>во двор</window-view>
+		<balcony>балкон</balcony>
+		<bathroom-unit>1</bathroom-unit>
+		<building-type>кирпичный</building-type>
+		<building-state>hand-over</building-state>
+		<lift>true</lift>
+		<parking>0</parking>
+		<rubbish-chute>0</rubbish-chute>
+	</offer>
+	<offer internal-id="apartment_400">
+		<creation-date>2022-08-09T00:00:00+03:00</creation-date>
+		<location>
+			<country>Россия</country>
+			<region>Ярославская область</region>
+			<locality-name>Ярославль</locality-name>
+			<sub-locality-name>Красноперекопский район</sub-locality-name>
+			<address>Большая Донская, 10</address>
+		</location>
+		<sales-agent>
+			<name>Вадим</name>
+			<phone>8(996)241-25-71</phone>
+			<category>agency</category>
+		</sales-agent>
+		<price>
+			<value>3849750</value>
+			<currency>RUB</currency>
+		</price>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/1%D1%81/2%20%D1%8D%D1%82%D0%B0%D0%B6%201%D1%81%20%D0%BF%D0%BB%D0%B0%D0%BD.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/1%D1%81/2%20%D1%8D%D1%82%D0%B0%D0%B6%201%D1%81%20%D0%BF%D0%BB%D0%B0%D0%BD.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165357_727.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165400_875.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165440_982.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165408_637.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165452_335.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165413_883.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182154.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182156.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182159.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182216.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182318.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182512.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182601.jpg?raw=true</image>
+		<area>
+			<value>43.50</value>
+			<unit>sq. m</unit>
+		</area>
+		<description>Квартира в новостройке в пяти минутах от центра Ярославля в экологически чистом, нешумном месте. Придомовая территория с парковкой. Эксклюзив! Преимущества: Внутри помещений большое количество естественного освещения благодаря объемно-планировочным решениям Высокий индекс изоляции шума между жилыми помещениями Двухкамерные ПВХ окна с мягким селективным покрытием Максимально грамотное использование пространства Чердачное помещение Теплоизоляция выполнена с учётом всех стандартов В подъездах используется гипоаллергенная воднодисперсионная акриловая краска Широкий лифт с большой грузоподъемностью Доступна покупка с рассрочкой платежа Звоните, чтобы узнать подробности!</description>
+		<floor>2</floor>
+		<floors-total>5</floors-total>
+		<ceiling-height>2.7</ceiling-height>
+		<built-year>2022</built-year>
+		<ready-quarter>2</ready-quarter>
+		<type>продажа</type>
+		<property-type>living</property-type>
+		<category>flat</category>
+		<deal-status>reassignment</deal-status>
+		<living-space>
+			<value>18.02</value>
+		</living-space>
+		<room-space>
+			<value>18.02</value>
+		</room-space>
+		<rooms>1</rooms>
+		<rooms-offered>1</rooms-offered>
+		<kitchen-space>
+			<value>9.44</value>
+		</kitchen-space>
+		<renovation>черновая отделка</renovation>
+		<window-view>во двор</window-view>
+		<balcony>балкон</balcony>
+		<bathroom-unit>1</bathroom-unit>
+		<building-type>кирпичный</building-type>
+		<building-state>hand-over</building-state>
+		<lift>true</lift>
+		<parking>0</parking>
+		<rubbish-chute>0</rubbish-chute>
+	</offer>
+	<offer internal-id="apartment_401">
+		<creation-date>2022-08-09T00:00:00+03:00</creation-date>
+		<location>
+			<country>Россия</country>
+			<region>Ярославская область</region>
+			<locality-name>Ярославль</locality-name>
+			<sub-locality-name>Красноперекопский район</sub-locality-name>
+			<address>Большая Донская, 10</address>
+		</location>
+		<sales-agent>
+			<name>Вадим</name>
+			<phone>8(996)241-25-71</phone>
+			<category>agency</category>
+		</sales-agent>
+		<price>
+			<value>6166900</value>
+			<currency>RUB</currency>
+		</price>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/1%D1%81/2%20%D1%8D%D1%82%D0%B0%D0%B6%201%D1%81%20%D0%BF%D0%BB%D0%B0%D0%BD.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/1%D1%81/2%20%D1%8D%D1%82%D0%B0%D0%B6%201%D1%81%20%D0%BF%D0%BB%D0%B0%D0%BD.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165357_727.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165400_875.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165440_982.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165408_637.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165452_335.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165413_883.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182154.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182156.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182159.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182216.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182318.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182512.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182601.jpg?raw=true</image>
+		<area>
+			<value>74.30</value>
+			<unit>sq. m</unit>
+		</area>
+		<description>Квартира в новостройке в пяти минутах от центра Ярославля в экологически чистом, нешумном месте. Придомовая территория с парковкой. Эксклюзив! Преимущества: Внутри помещений большое количество естественного освещения благодаря объемно-планировочным решениям Высокий индекс изоляции шума между жилыми помещениями Двухкамерные ПВХ окна с мягким селективным покрытием Максимально грамотное использование пространства Чердачное помещение Теплоизоляция выполнена с учётом всех стандартов В подъездах используется гипоаллергенная воднодисперсионная акриловая краска Широкий лифт с большой грузоподъемностью Доступна покупка с рассрочкой платежа Звоните, чтобы узнать подробности!</description>
+		<floor>2</floor>
+		<floors-total>5</floors-total>
+		<ceiling-height>2.7</ceiling-height>
+		<built-year>2022</built-year>
+		<ready-quarter>2</ready-quarter>
+		<type>продажа</type>
+		<property-type>living</property-type>
+		<category>flat</category>
+		<deal-status>reassignment</deal-status>
+		<living-space>
+			<value>49.13</value>
+		</living-space>
+		<room-space>
+			<value>35.50</value>
+		</room-space>
+		<room-space>
+			<value>13.63</value>
+		</room-space>
+		<rooms>2</rooms>
+		<rooms-offered>2</rooms-offered>
+		<kitchen-space>
+			<value>7.92</value>
+		</kitchen-space>
+		<renovation>черновая отделка</renovation>
+		<window-view>во двор</window-view>
+		<balcony>балкон</balcony>
+		<bathroom-unit>1</bathroom-unit>
+		<building-type>кирпичный</building-type>
+		<building-state>hand-over</building-state>
+		<lift>true</lift>
+		<parking>0</parking>
+		<rubbish-chute>0</rubbish-chute>
+	</offer>
+	<offer internal-id="apartment_402">
+		<creation-date>2022-08-09T00:00:00+03:00</creation-date>
+		<location>
+			<country>Россия</country>
+			<region>Ярославская область</region>
+			<locality-name>Ярославль</locality-name>
+			<sub-locality-name>Красноперекопский район</sub-locality-name>
+			<address>Большая Донская, 10</address>
+		</location>
+		<sales-agent>
+			<name>Вадим</name>
+			<phone>8(996)241-25-71</phone>
+			<category>agency</category>
+		</sales-agent>
+		<price>
+			<value>6440800</value>
+			<currency>RUB</currency>
+		</price>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/1%D1%81/2%20%D1%8D%D1%82%D0%B0%D0%B6%201%D1%81%20%D0%BF%D0%BB%D0%B0%D0%BD.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/1%D1%81/2%20%D1%8D%D1%82%D0%B0%D0%B6%201%D1%81%20%D0%BF%D0%BB%D0%B0%D0%BD.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165357_727.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165400_875.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165440_982.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165408_637.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165452_335.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165413_883.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182154.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182156.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182159.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182216.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182318.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182512.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182601.jpg?raw=true</image>
+		<area>
+			<value>77.60</value>
+			<unit>sq. m</unit>
+		</area>
+		<description>Квартира в новостройке в пяти минутах от центра Ярославля в экологически чистом, нешумном месте. Придомовая территория с парковкой. Эксклюзив! Преимущества: Внутри помещений большое количество естественного освещения благодаря объемно-планировочным решениям Высокий индекс изоляции шума между жилыми помещениями Двухкамерные ПВХ окна с мягким селективным покрытием Максимально грамотное использование пространства Чердачное помещение Теплоизоляция выполнена с учётом всех стандартов В подъездах используется гипоаллергенная воднодисперсионная акриловая краска Широкий лифт с большой грузоподъемностью Доступна покупка с рассрочкой платежа Звоните, чтобы узнать подробности!</description>
+		<floor>2</floor>
+		<floors-total>5</floors-total>
+		<ceiling-height>2.7</ceiling-height>
+		<built-year>2022</built-year>
+		<ready-quarter>2</ready-quarter>
+		<type>продажа</type>
+		<property-type>living</property-type>
+		<category>flat</category>
+		<deal-status>reassignment</deal-status>
+		<living-space>
+			<value>49.13</value>
+		</living-space>
+		<room-space>
+			<value>35.50</value>
+		</room-space>
+		<room-space>
+			<value>13.63</value>
+		</room-space>
+		<rooms>2</rooms>
+		<rooms-offered>2</rooms-offered>
+		<kitchen-space>
+			<value>11.26</value>
+		</kitchen-space>
+		<renovation>черновая отделка</renovation>
+		<window-view>во двор</window-view>
+		<balcony>балкон</balcony>
+		<bathroom-unit>1</bathroom-unit>
+		<building-type>кирпичный</building-type>
+		<building-state>hand-over</building-state>
+		<lift>true</lift>
+		<parking>0</parking>
+		<rubbish-chute>0</rubbish-chute>
+	</offer>
+	<offer internal-id="apartment_403">
+		<creation-date>2022-08-09T00:00:00+03:00</creation-date>
+		<location>
+			<country>Россия</country>
+			<region>Ярославская область</region>
+			<locality-name>Ярославль</locality-name>
+			<sub-locality-name>Красноперекопский район</sub-locality-name>
+			<address>Большая Донская, 10</address>
+		</location>
+		<sales-agent>
+			<name>Вадим</name>
+			<phone>8(996)241-25-71</phone>
+			<category>agency</category>
+		</sales-agent>
+		<price>
+			<value>3823200</value>
+			<currency>RUB</currency>
+		</price>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/1%D1%81/3%20%D1%8D%D1%82%D0%B0%D0%B6%201%D1%81%20%D0%BF%D0%BB%D0%B0%D0%BD.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/1%D1%81/3%20%D1%8D%D1%82%D0%B0%D0%B6%201%D1%81%20%D0%BF%D0%BB%D0%B0%D0%BD.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165357_727.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165400_875.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165440_982.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165408_637.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165452_335.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165413_883.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182154.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182156.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182159.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182216.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182318.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182512.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182601.jpg?raw=true</image>
+		<area>
+			<value>43.20</value>
+			<unit>sq. m</unit>
+		</area>
+		<description>Квартира в новостройке в пяти минутах от центра Ярославля в экологически чистом, нешумном месте. Придомовая территория с парковкой. Эксклюзив! Преимущества: Внутри помещений большое количество естественного освещения благодаря объемно-планировочным решениям Высокий индекс изоляции шума между жилыми помещениями Двухкамерные ПВХ окна с мягким селективным покрытием Максимально грамотное использование пространства Чердачное помещение Теплоизоляция выполнена с учётом всех стандартов В подъездах используется гипоаллергенная воднодисперсионная акриловая краска Широкий лифт с большой грузоподъемностью Доступна покупка с рассрочкой платежа Звоните, чтобы узнать подробности!</description>
+		<floor>3</floor>
+		<floors-total>5</floors-total>
+		<ceiling-height>2.7</ceiling-height>
+		<built-year>2022</built-year>
+		<ready-quarter>2</ready-quarter>
+		<type>продажа</type>
+		<property-type>living</property-type>
+		<category>flat</category>
+		<deal-status>reassignment</deal-status>
+		<living-space>
+			<value>18.02</value>
+		</living-space>
+		<room-space>
+			<value>18.02</value>
+		</room-space>
+		<rooms>1</rooms>
+		<rooms-offered>1</rooms-offered>
+		<kitchen-space>
+			<value>9.44</value>
+		</kitchen-space>
+		<renovation>черновая отделка</renovation>
+		<window-view>во двор</window-view>
+		<balcony>балкон</balcony>
+		<bathroom-unit>1</bathroom-unit>
+		<building-type>кирпичный</building-type>
+		<building-state>hand-over</building-state>
+		<lift>true</lift>
+		<parking>0</parking>
+		<rubbish-chute>0</rubbish-chute>
+	</offer>
+	<offer internal-id="apartment_404">
+		<creation-date>2022-08-09T00:00:00+03:00</creation-date>
+		<location>
+			<country>Россия</country>
+			<region>Ярославская область</region>
+			<locality-name>Ярославль</locality-name>
+			<sub-locality-name>Красноперекопский район</sub-locality-name>
+			<address>Большая Донская, 10</address>
+		</location>
+		<sales-agent>
+			<name>Вадим</name>
+			<phone>8(996)241-25-71</phone>
+			<category>agency</category>
+		</sales-agent>
+		<price>
+			<value>3823200</value>
+			<currency>RUB</currency>
+		</price>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/1%D1%81/3%20%D1%8D%D1%82%D0%B0%D0%B6%201%D1%81%20%D0%BF%D0%BB%D0%B0%D0%BD.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/1%D1%81/3%20%D1%8D%D1%82%D0%B0%D0%B6%201%D1%81%20%D0%BF%D0%BB%D0%B0%D0%BD.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165357_727.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165400_875.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165440_982.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165408_637.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165452_335.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165413_883.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182154.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182156.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182159.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182216.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182318.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182512.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182601.jpg?raw=true</image>
+		<area>
+			<value>43.20</value>
+			<unit>sq. m</unit>
+		</area>
+		<description>Квартира в новостройке в пяти минутах от центра Ярославля в экологически чистом, нешумном месте. Придомовая территория с парковкой. Эксклюзив! Преимущества: Внутри помещений большое количество естественного освещения благодаря объемно-планировочным решениям Высокий индекс изоляции шума между жилыми помещениями Двухкамерные ПВХ окна с мягким селективным покрытием Максимально грамотное использование пространства Чердачное помещение Теплоизоляция выполнена с учётом всех стандартов В подъездах используется гипоаллергенная воднодисперсионная акриловая краска Широкий лифт с большой грузоподъемностью Доступна покупка с рассрочкой платежа Звоните, чтобы узнать подробности!</description>
+		<floor>3</floor>
+		<floors-total>5</floors-total>
+		<ceiling-height>2.7</ceiling-height>
+		<built-year>2022</built-year>
+		<ready-quarter>2</ready-quarter>
+		<type>продажа</type>
+		<property-type>living</property-type>
+		<category>flat</category>
+		<deal-status>reassignment</deal-status>
+		<living-space>
+			<value>18.02</value>
+		</living-space>
+		<room-space>
+			<value>18.02</value>
+		</room-space>
+		<rooms>1</rooms>
+		<rooms-offered>1</rooms-offered>
+		<kitchen-space>
+			<value>9.44</value>
+		</kitchen-space>
+		<renovation>черновая отделка</renovation>
+		<window-view>во двор</window-view>
+		<balcony>балкон</balcony>
+		<bathroom-unit>1</bathroom-unit>
+		<building-type>кирпичный</building-type>
+		<building-state>hand-over</building-state>
+		<lift>true</lift>
+		<parking>0</parking>
+		<rubbish-chute>0</rubbish-chute>
+	</offer>
+	<offer internal-id="apartment_405">
+		<creation-date>2022-08-09T00:00:00+03:00</creation-date>
+		<location>
+			<country>Россия</country>
+			<region>Ярославская область</region>
+			<locality-name>Ярославль</locality-name>
+			<sub-locality-name>Красноперекопский район</sub-locality-name>
+			<address>Большая Донская, 10</address>
+		</location>
+		<sales-agent>
+			<name>Вадим</name>
+			<phone>8(996)241-25-71</phone>
+			<category>agency</category>
+		</sales-agent>
+		<price>
+			<value>6150300</value>
+			<currency>RUB</currency>
+		</price>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/1%D1%81/3%20%D1%8D%D1%82%D0%B0%D0%B6%201%D1%81%20%D0%BF%D0%BB%D0%B0%D0%BD.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/1%D1%81/3%20%D1%8D%D1%82%D0%B0%D0%B6%201%D1%81%20%D0%BF%D0%BB%D0%B0%D0%BD.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165357_727.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165400_875.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165440_982.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165408_637.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165452_335.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165413_883.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182154.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182156.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182159.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182216.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182318.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182512.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182601.jpg?raw=true</image>
+		<area>
+			<value>74.10</value>
+			<unit>sq. m</unit>
+		</area>
+		<description>Квартира в новостройке в пяти минутах от центра Ярославля в экологически чистом, нешумном месте. Придомовая территория с парковкой. Эксклюзив! Преимущества: Внутри помещений большое количество естественного освещения благодаря объемно-планировочным решениям Высокий индекс изоляции шума между жилыми помещениями Двухкамерные ПВХ окна с мягким селективным покрытием Максимально грамотное использование пространства Чердачное помещение Теплоизоляция выполнена с учётом всех стандартов В подъездах используется гипоаллергенная воднодисперсионная акриловая краска Широкий лифт с большой грузоподъемностью Доступна покупка с рассрочкой платежа Звоните, чтобы узнать подробности!</description>
+		<floor>3</floor>
+		<floors-total>5</floors-total>
+		<ceiling-height>2.7</ceiling-height>
+		<built-year>2022</built-year>
+		<ready-quarter>2</ready-quarter>
+		<type>продажа</type>
+		<property-type>living</property-type>
+		<category>flat</category>
+		<deal-status>reassignment</deal-status>
+		<living-space>
+			<value>49.13</value>
+		</living-space>
+		<room-space>
+			<value>35.50</value>
+		</room-space>
+		<room-space>
+			<value>13.63</value>
+		</room-space>
+		<rooms>2</rooms>
+		<rooms-offered>2</rooms-offered>
+		<kitchen-space>
+			<value>7.92</value>
+		</kitchen-space>
+		<renovation>черновая отделка</renovation>
+		<window-view>во двор</window-view>
+		<balcony>балкон</balcony>
+		<bathroom-unit>1</bathroom-unit>
+		<building-type>кирпичный</building-type>
+		<building-state>hand-over</building-state>
+		<lift>true</lift>
+		<parking>0</parking>
+		<rubbish-chute>0</rubbish-chute>
+	</offer>
+	<offer internal-id="apartment_406">
+		<creation-date>2022-08-09T00:00:00+03:00</creation-date>
+		<location>
+			<country>Россия</country>
+			<region>Ярославская область</region>
+			<locality-name>Ярославль</locality-name>
+			<sub-locality-name>Красноперекопский район</sub-locality-name>
+			<address>Большая Донская, 10</address>
+		</location>
+		<sales-agent>
+			<name>Вадим</name>
+			<phone>8(996)241-25-71</phone>
+			<category>agency</category>
+		</sales-agent>
+		<price>
+			<value>6432500</value>
+			<currency>RUB</currency>
+		</price>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/1%D1%81/3%20%D1%8D%D1%82%D0%B0%D0%B6%201%D1%81%20%D0%BF%D0%BB%D0%B0%D0%BD.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/1%D1%81/3%20%D1%8D%D1%82%D0%B0%D0%B6%201%D1%81%20%D0%BF%D0%BB%D0%B0%D0%BD.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165357_727.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165400_875.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165440_982.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165408_637.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165452_335.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165413_883.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182154.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182156.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182159.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182216.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182318.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182512.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182601.jpg?raw=true</image>
+		<area>
+			<value>77.50</value>
+			<unit>sq. m</unit>
+		</area>
+		<description>Квартира в новостройке в пяти минутах от центра Ярославля в экологически чистом, нешумном месте. Придомовая территория с парковкой. Эксклюзив! Преимущества: Внутри помещений большое количество естественного освещения благодаря объемно-планировочным решениям Высокий индекс изоляции шума между жилыми помещениями Двухкамерные ПВХ окна с мягким селективным покрытием Максимально грамотное использование пространства Чердачное помещение Теплоизоляция выполнена с учётом всех стандартов В подъездах используется гипоаллергенная воднодисперсионная акриловая краска Широкий лифт с большой грузоподъемностью Доступна покупка с рассрочкой платежа Звоните, чтобы узнать подробности!</description>
+		<floor>3</floor>
+		<floors-total>5</floors-total>
+		<ceiling-height>2.7</ceiling-height>
+		<built-year>2022</built-year>
+		<ready-quarter>2</ready-quarter>
+		<type>продажа</type>
+		<property-type>living</property-type>
+		<category>flat</category>
+		<deal-status>reassignment</deal-status>
+		<living-space>
+			<value>49.13</value>
+		</living-space>
+		<room-space>
+			<value>35.50</value>
+		</room-space>
+		<room-space>
+			<value>13.63</value>
+		</room-space>
+		<rooms>2</rooms>
+		<rooms-offered>2</rooms-offered>
+		<kitchen-space>
+			<value>7.92</value>
+		</kitchen-space>
+		<renovation>черновая отделка</renovation>
+		<window-view>во двор</window-view>
+		<balcony>балкон</balcony>
+		<bathroom-unit>1</bathroom-unit>
+		<building-type>кирпичный</building-type>
+		<building-state>hand-over</building-state>
+		<lift>true</lift>
+		<parking>0</parking>
+		<rubbish-chute>0</rubbish-chute>
+	</offer>
+	<offer internal-id="apartment_407">
+		<creation-date>2022-08-09T00:00:00+03:00</creation-date>
+		<location>
+			<country>Россия</country>
+			<region>Ярославская область</region>
+			<locality-name>Ярославль</locality-name>
+			<sub-locality-name>Красноперекопский район</sub-locality-name>
+			<address>Большая Донская, 10</address>
+		</location>
+		<sales-agent>
+			<name>Вадим</name>
+			<phone>8(996)241-25-71</phone>
+			<category>agency</category>
+		</sales-agent>
+		<price>
+			<value>3823200</value>
+			<currency>RUB</currency>
+		</price>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/1%D1%81/4%20%D1%8D%D1%82%D0%B0%D0%B6%201%D1%81%20%D0%BF%D0%BB%D0%B0%D0%BD.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/1%D1%81/4%20%D1%8D%D1%82%D0%B0%D0%B6%201%D1%81%20%D0%BF%D0%BB%D0%B0%D0%BD.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165357_727.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165400_875.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165440_982.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165408_637.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165452_335.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165413_883.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182154.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182156.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182159.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182216.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182318.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182512.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182601.jpg?raw=true</image>
+		<area>
+			<value>43.20</value>
+			<unit>sq. m</unit>
+		</area>
+		<description>Квартира в новостройке в пяти минутах от центра Ярославля в экологически чистом, нешумном месте. Придомовая территория с парковкой. Эксклюзив! Преимущества: Внутри помещений большое количество естественного освещения благодаря объемно-планировочным решениям Высокий индекс изоляции шума между жилыми помещениями Двухкамерные ПВХ окна с мягким селективным покрытием Максимально грамотное использование пространства Чердачное помещение Теплоизоляция выполнена с учётом всех стандартов В подъездах используется гипоаллергенная воднодисперсионная акриловая краска Широкий лифт с большой грузоподъемностью Доступна покупка с рассрочкой платежа Звоните, чтобы узнать подробности!</description>
+		<floor>4</floor>
+		<floors-total>5</floors-total>
+		<ceiling-height>2.7</ceiling-height>
+		<built-year>2022</built-year>
+		<ready-quarter>2</ready-quarter>
+		<type>продажа</type>
+		<property-type>living</property-type>
+		<category>flat</category>
+		<deal-status>reassignment</deal-status>
+		<living-space>
+			<value>18.02</value>
+		</living-space>
+		<room-space>
+			<value>18.02</value>
+		</room-space>
+		<rooms>1</rooms>
+		<rooms-offered>1</rooms-offered>
+		<kitchen-space>
+			<value>9.44</value>
+		</kitchen-space>
+		<renovation>черновая отделка</renovation>
+		<window-view>во двор</window-view>
+		<balcony>балкон</balcony>
+		<bathroom-unit>1</bathroom-unit>
+		<building-type>кирпичный</building-type>
+		<building-state>hand-over</building-state>
+		<lift>true</lift>
+		<parking>0</parking>
+		<rubbish-chute>0</rubbish-chute>
+	</offer>
+	<offer internal-id="apartment_408">
+		<creation-date>2022-08-09T00:00:00+03:00</creation-date>
+		<location>
+			<country>Россия</country>
+			<region>Ярославская область</region>
+			<locality-name>Ярославль</locality-name>
+			<sub-locality-name>Красноперекопский район</sub-locality-name>
+			<address>Большая Донская, 10</address>
+		</location>
+		<sales-agent>
+			<name>Вадим</name>
+			<phone>8(996)241-25-71</phone>
+			<category>agency</category>
+		</sales-agent>
+		<price>
+			<value>3823200</value>
+			<currency>RUB</currency>
+		</price>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/1%D1%81/4%20%D1%8D%D1%82%D0%B0%D0%B6%201%D1%81%20%D0%BF%D0%BB%D0%B0%D0%BD.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/1%D1%81/4%20%D1%8D%D1%82%D0%B0%D0%B6%201%D1%81%20%D0%BF%D0%BB%D0%B0%D0%BD.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165357_727.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165400_875.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165440_982.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165408_637.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165452_335.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165413_883.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182154.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182156.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182159.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182216.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182318.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182512.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182601.jpg?raw=true</image>
+		<area>
+			<value>43.20</value>
+			<unit>sq. m</unit>
+		</area>
+		<description>Квартира в новостройке в пяти минутах от центра Ярославля в экологически чистом, нешумном месте. Придомовая территория с парковкой. Эксклюзив! Преимущества: Внутри помещений большое количество естественного освещения благодаря объемно-планировочным решениям Высокий индекс изоляции шума между жилыми помещениями Двухкамерные ПВХ окна с мягким селективным покрытием Максимально грамотное использование пространства Чердачное помещение Теплоизоляция выполнена с учётом всех стандартов В подъездах используется гипоаллергенная воднодисперсионная акриловая краска Широкий лифт с большой грузоподъемностью Доступна покупка с рассрочкой платежа Звоните, чтобы узнать подробности!</description>
+		<floor>4</floor>
+		<floors-total>5</floors-total>
+		<ceiling-height>2.7</ceiling-height>
+		<built-year>2022</built-year>
+		<ready-quarter>2</ready-quarter>
+		<type>продажа</type>
+		<property-type>living</property-type>
+		<category>flat</category>
+		<deal-status>reassignment</deal-status>
+		<living-space>
+			<value>18.02</value>
+		</living-space>
+		<room-space>
+			<value>18.02</value>
+		</room-space>
+		<rooms>1</rooms>
+		<rooms-offered>1</rooms-offered>
+		<kitchen-space>
+			<value>9.44</value>
+		</kitchen-space>
+		<renovation>черновая отделка</renovation>
+		<window-view>во двор</window-view>
+		<balcony>балкон</balcony>
+		<bathroom-unit>1</bathroom-unit>
+		<building-type>кирпичный</building-type>
+		<building-state>hand-over</building-state>
+		<lift>true</lift>
+		<parking>0</parking>
+		<rubbish-chute>0</rubbish-chute>
+	</offer>
+	<offer internal-id="apartment_409">
+		<creation-date>2022-08-09T00:00:00+03:00</creation-date>
+		<location>
+			<country>Россия</country>
+			<region>Ярославская область</region>
+			<locality-name>Ярославль</locality-name>
+			<sub-locality-name>Красноперекопский район</sub-locality-name>
+			<address>Большая Донская, 10</address>
+		</location>
+		<sales-agent>
+			<name>Вадим</name>
+			<phone>8(996)241-25-71</phone>
+			<category>agency</category>
+		</sales-agent>
+		<price>
+			<value>6150300</value>
+			<currency>RUB</currency>
+		</price>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/1%D1%81/4%20%D1%8D%D1%82%D0%B0%D0%B6%201%D1%81%20%D0%BF%D0%BB%D0%B0%D0%BD.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/1%D1%81/4%20%D1%8D%D1%82%D0%B0%D0%B6%201%D1%81%20%D0%BF%D0%BB%D0%B0%D0%BD.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165357_727.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165400_875.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165440_982.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165408_637.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165452_335.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165413_883.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182154.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182156.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182159.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182216.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182318.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182512.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182601.jpg?raw=true</image>
+		<area>
+			<value>74.10</value>
+			<unit>sq. m</unit>
+		</area>
+		<description>Квартира в новостройке в пяти минутах от центра Ярославля в экологически чистом, нешумном месте. Придомовая территория с парковкой. Эксклюзив! Преимущества: Внутри помещений большое количество естественного освещения благодаря объемно-планировочным решениям Высокий индекс изоляции шума между жилыми помещениями Двухкамерные ПВХ окна с мягким селективным покрытием Максимально грамотное использование пространства Чердачное помещение Теплоизоляция выполнена с учётом всех стандартов В подъездах используется гипоаллергенная воднодисперсионная акриловая краска Широкий лифт с большой грузоподъемностью Доступна покупка с рассрочкой платежа Звоните, чтобы узнать подробности!</description>
+		<floor>4</floor>
+		<floors-total>5</floors-total>
+		<ceiling-height>2.7</ceiling-height>
+		<built-year>2022</built-year>
+		<ready-quarter>2</ready-quarter>
+		<type>продажа</type>
+		<property-type>living</property-type>
+		<category>flat</category>
+		<deal-status>reassignment</deal-status>
+		<living-space>
+			<value>49.13</value>
+		</living-space>
+		<room-space>
+			<value>35.50</value>
+		</room-space>
+		<room-space>
+			<value>13.63</value>
+		</room-space>
+		<rooms>2</rooms>
+		<rooms-offered>2</rooms-offered>
+		<kitchen-space>
+			<value>7.92</value>
+		</kitchen-space>
+		<renovation>черновая отделка</renovation>
+		<window-view>во двор</window-view>
+		<balcony>балкон</balcony>
+		<bathroom-unit>1</bathroom-unit>
+		<building-type>кирпичный</building-type>
+		<building-state>hand-over</building-state>
+		<lift>true</lift>
+		<parking>0</parking>
+		<rubbish-chute>0</rubbish-chute>
+	</offer>
+	<offer internal-id="apartment_410">
+		<creation-date>2022-08-09T00:00:00+03:00</creation-date>
+		<location>
+			<country>Россия</country>
+			<region>Ярославская область</region>
+			<locality-name>Ярославль</locality-name>
+			<sub-locality-name>Красноперекопский район</sub-locality-name>
+			<address>Большая Донская, 10</address>
+		</location>
+		<sales-agent>
+			<name>Вадим</name>
+			<phone>8(996)241-25-71</phone>
+			<category>agency</category>
+		</sales-agent>
+		<price>
+			<value>6432500</value>
+			<currency>RUB</currency>
+		</price>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/1%D1%81/4%20%D1%8D%D1%82%D0%B0%D0%B6%201%D1%81%20%D0%BF%D0%BB%D0%B0%D0%BD.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/1%D1%81/4%20%D1%8D%D1%82%D0%B0%D0%B6%201%D1%81%20%D0%BF%D0%BB%D0%B0%D0%BD.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165357_727.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165400_875.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165440_982.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165408_637.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165452_335.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165413_883.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182154.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182156.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182159.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182216.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182318.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182512.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182601.jpg?raw=true</image>
+		<area>
+			<value>77.50</value>
+			<unit>sq. m</unit>
+		</area>
+		<description>Квартира в новостройке в пяти минутах от центра Ярославля в экологически чистом, нешумном месте. Придомовая территория с парковкой. Эксклюзив! Преимущества: Внутри помещений большое количество естественного освещения благодаря объемно-планировочным решениям Высокий индекс изоляции шума между жилыми помещениями Двухкамерные ПВХ окна с мягким селективным покрытием Максимально грамотное использование пространства Чердачное помещение Теплоизоляция выполнена с учётом всех стандартов В подъездах используется гипоаллергенная воднодисперсионная акриловая краска Широкий лифт с большой грузоподъемностью Доступна покупка с рассрочкой платежа Звоните, чтобы узнать подробности!</description>
+		<floor>4</floor>
+		<floors-total>5</floors-total>
+		<ceiling-height>2.7</ceiling-height>
+		<built-year>2022</built-year>
+		<ready-quarter>2</ready-quarter>
+		<type>продажа</type>
+		<property-type>living</property-type>
+		<category>flat</category>
+		<deal-status>reassignment</deal-status>
+		<living-space>
+			<value>49.13</value>
+		</living-space>
+		<room-space>
+			<value>35.50</value>
+		</room-space>
+		<room-space>
+			<value>13.63</value>
+		</room-space>
+		<rooms>2</rooms>
+		<rooms-offered>2</rooms-offered>
+		<kitchen-space>
+			<value>7.92</value>
+		</kitchen-space>
+		<renovation>черновая отделка</renovation>
+		<window-view>во двор</window-view>
+		<balcony>балкон</balcony>
+		<bathroom-unit>1</bathroom-unit>
+		<building-type>кирпичный</building-type>
+		<building-state>hand-over</building-state>
+		<lift>true</lift>
+		<parking>0</parking>
+		<rubbish-chute>0</rubbish-chute>
+	</offer>
+	<offer internal-id="apartment_411">
+		<creation-date>2022-08-09T00:00:00+03:00</creation-date>
+		<location>
+			<country>Россия</country>
+			<region>Ярославская область</region>
+			<locality-name>Ярославль</locality-name>
+			<sub-locality-name>Красноперекопский район</sub-locality-name>
+			<address>Большая Донская, 10</address>
+		</location>
+		<sales-agent>
+			<name>Вадим</name>
+			<phone>8(996)241-25-71</phone>
+			<category>agency</category>
+		</sales-agent>
+		<price>
+			<value>3736800</value>
+			<currency>RUB</currency>
+		</price>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/1%D1%81/5%20%D1%8D%D1%82%D0%B0%D0%B6%201%D1%81%20%D0%BF%D0%BB%D0%B0%D0%BD.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/1%D1%81/5%20%D1%8D%D1%82%D0%B0%D0%B6%201%D1%81%20%D0%BF%D0%BB%D0%B0%D0%BD.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165357_727.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165400_875.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165440_982.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165408_637.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165452_335.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165413_883.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182154.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182156.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182159.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182216.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182318.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182512.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182601.jpg?raw=true</image>
+		<area>
+			<value>43.20</value>
+			<unit>sq. m</unit>
+		</area>
+		<description>Квартира в новостройке в пяти минутах от центра Ярославля в экологически чистом, нешумном месте. Придомовая территория с парковкой. Эксклюзив! Преимущества: Внутри помещений большое количество естественного освещения благодаря объемно-планировочным решениям Высокий индекс изоляции шума между жилыми помещениями Двухкамерные ПВХ окна с мягким селективным покрытием Максимально грамотное использование пространства Чердачное помещение Теплоизоляция выполнена с учётом всех стандартов В подъездах используется гипоаллергенная воднодисперсионная акриловая краска Широкий лифт с большой грузоподъемностью Доступна покупка с рассрочкой платежа Звоните, чтобы узнать подробности!</description>
+		<floor>5</floor>
+		<floors-total>5</floors-total>
+		<ceiling-height>2.7</ceiling-height>
+		<built-year>2022</built-year>
+		<ready-quarter>2</ready-quarter>
+		<type>продажа</type>
+		<property-type>living</property-type>
+		<category>flat</category>
+		<deal-status>reassignment</deal-status>
+		<living-space>
+			<value>18.02</value>
+		</living-space>
+		<room-space>
+			<value>18.02</value>
+		</room-space>
+		<rooms>1</rooms>
+		<rooms-offered>1</rooms-offered>
+		<kitchen-space>
+			<value>9.44</value>
+		</kitchen-space>
+		<renovation>черновая отделка</renovation>
+		<window-view>во двор</window-view>
+		<balcony>балкон</balcony>
+		<bathroom-unit>1</bathroom-unit>
+		<building-type>кирпичный</building-type>
+		<building-state>hand-over</building-state>
+		<lift>true</lift>
+		<parking>0</parking>
+		<rubbish-chute>0</rubbish-chute>
+	</offer>
+	<offer internal-id="apartment_412">
+		<creation-date>2022-08-09T00:00:00+03:00</creation-date>
+		<location>
+			<country>Россия</country>
+			<region>Ярославская область</region>
+			<locality-name>Ярославль</locality-name>
+			<sub-locality-name>Красноперекопский район</sub-locality-name>
+			<address>Большая Донская, 10</address>
+		</location>
+		<sales-agent>
+			<name>Вадим</name>
+			<phone>8(996)241-25-71</phone>
+			<category>agency</category>
+		</sales-agent>
+		<price>
+			<value>3736800</value>
+			<currency>RUB</currency>
+		</price>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/1%D1%81/5%20%D1%8D%D1%82%D0%B0%D0%B6%201%D1%81%20%D0%BF%D0%BB%D0%B0%D0%BD.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/1%D1%81/5%20%D1%8D%D1%82%D0%B0%D0%B6%201%D1%81%20%D0%BF%D0%BB%D0%B0%D0%BD.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165357_727.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165400_875.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165440_982.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165408_637.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165452_335.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165413_883.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182154.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182156.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182159.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182216.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182318.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182512.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182601.jpg?raw=true</image>
+		<area>
+			<value>43.20</value>
+			<unit>sq. m</unit>
+		</area>
+		<description>Квартира в новостройке в пяти минутах от центра Ярославля в экологически чистом, нешумном месте. Придомовая территория с парковкой. Эксклюзив! Преимущества: Внутри помещений большое количество естественного освещения благодаря объемно-планировочным решениям Высокий индекс изоляции шума между жилыми помещениями Двухкамерные ПВХ окна с мягким селективным покрытием Максимально грамотное использование пространства Чердачное помещение Теплоизоляция выполнена с учётом всех стандартов В подъездах используется гипоаллергенная воднодисперсионная акриловая краска Широкий лифт с большой грузоподъемностью Доступна покупка с рассрочкой платежа Звоните, чтобы узнать подробности!</description>
+		<floor>5</floor>
+		<floors-total>5</floors-total>
+		<ceiling-height>2.7</ceiling-height>
+		<built-year>2022</built-year>
+		<ready-quarter>2</ready-quarter>
+		<type>продажа</type>
+		<property-type>living</property-type>
+		<category>flat</category>
+		<deal-status>reassignment</deal-status>
+		<living-space>
+			<value>18.02</value>
+		</living-space>
+		<room-space>
+			<value>18.02</value>
+		</room-space>
+		<rooms>1</rooms>
+		<rooms-offered>1</rooms-offered>
+		<kitchen-space>
+			<value>9.44</value>
+		</kitchen-space>
+		<renovation>черновая отделка</renovation>
+		<window-view>во двор</window-view>
+		<balcony>балкон</balcony>
+		<bathroom-unit>1</bathroom-unit>
+		<building-type>кирпичный</building-type>
+		<building-state>hand-over</building-state>
+		<lift>true</lift>
+		<parking>0</parking>
+		<rubbish-chute>0</rubbish-chute>
+	</offer>
+	<offer internal-id="apartment_413">
+		<creation-date>2022-08-09T00:00:00+03:00</creation-date>
+		<location>
+			<country>Россия</country>
+			<region>Ярославская область</region>
+			<locality-name>Ярославль</locality-name>
+			<sub-locality-name>Красноперекопский район</sub-locality-name>
+			<address>Большая Донская, 10</address>
+		</location>
+		<sales-agent>
+			<name>Вадим</name>
+			<phone>8(996)241-25-71</phone>
+			<category>agency</category>
+		</sales-agent>
+		<price>
+			<value>5994000</value>
+			<currency>RUB</currency>
+		</price>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/1%D1%81/5%20%D1%8D%D1%82%D0%B0%D0%B6%201%D1%81%20%D0%BF%D0%BB%D0%B0%D0%BD.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/1%D1%81/5%20%D1%8D%D1%82%D0%B0%D0%B6%201%D1%81%20%D0%BF%D0%BB%D0%B0%D0%BD.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165357_727.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165400_875.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165440_982.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165408_637.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165452_335.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165413_883.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182154.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182156.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182159.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182216.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182318.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182512.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182601.jpg?raw=true</image>
+		<area>
+			<value>74.00</value>
+			<unit>sq. m</unit>
+		</area>
+		<description>Квартира в новостройке в пяти минутах от центра Ярославля в экологически чистом, нешумном месте. Придомовая территория с парковкой. Эксклюзив! Преимущества: Внутри помещений большое количество естественного освещения благодаря объемно-планировочным решениям Высокий индекс изоляции шума между жилыми помещениями Двухкамерные ПВХ окна с мягким селективным покрытием Максимально грамотное использование пространства Чердачное помещение Теплоизоляция выполнена с учётом всех стандартов В подъездах используется гипоаллергенная воднодисперсионная акриловая краска Широкий лифт с большой грузоподъемностью Доступна покупка с рассрочкой платежа Звоните, чтобы узнать подробности!</description>
+		<floor>5</floor>
+		<floors-total>5</floors-total>
+		<ceiling-height>2.7</ceiling-height>
+		<built-year>2022</built-year>
+		<ready-quarter>2</ready-quarter>
+		<type>продажа</type>
+		<property-type>living</property-type>
+		<category>flat</category>
+		<deal-status>reassignment</deal-status>
+		<living-space>
+			<value>49.13</value>
+		</living-space>
+		<room-space>
+			<value>35.50</value>
+		</room-space>
+		<room-space>
+			<value>13.63</value>
+		</room-space>
+		<rooms>2</rooms>
+		<rooms-offered>2</rooms-offered>
+		<kitchen-space>
+			<value>7.92</value>
+		</kitchen-space>
+		<renovation>черновая отделка</renovation>
+		<window-view>во двор</window-view>
+		<balcony>балкон</balcony>
+		<bathroom-unit>1</bathroom-unit>
+		<building-type>кирпичный</building-type>
+		<building-state>hand-over</building-state>
+		<lift>true</lift>
+		<parking>0</parking>
+		<rubbish-chute>0</rubbish-chute>
+	</offer>
+	<offer internal-id="apartment_414">
+		<creation-date>2022-08-09T00:00:00+03:00</creation-date>
+		<location>
+			<country>Россия</country>
+			<region>Ярославская область</region>
+			<locality-name>Ярославль</locality-name>
+			<sub-locality-name>Красноперекопский район</sub-locality-name>
+			<address>Большая Донская, 10</address>
+		</location>
+		<sales-agent>
+			<name>Вадим</name>
+			<phone>8(996)241-25-71</phone>
+			<category>agency</category>
+		</sales-agent>
+		<price>
+			<value>6261300</value>
+			<currency>RUB</currency>
+		</price>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/1%D1%81/5%20%D1%8D%D1%82%D0%B0%D0%B6%201%D1%81%20%D0%BF%D0%BB%D0%B0%D0%BD.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/1%D1%81/5%20%D1%8D%D1%82%D0%B0%D0%B6%201%D1%81%20%D0%BF%D0%BB%D0%B0%D0%BD.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165357_727.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165400_875.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165440_982.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165408_637.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165452_335.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/IMG_20220115_165413_883.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182154.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182156.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182159.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182216.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182318.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182512.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182601.jpg?raw=true</image>
+		<area>
+			<value>77.30</value>
+			<unit>sq. m</unit>
+		</area>
+		<description>Квартира в новостройке в пяти минутах от центра Ярославля в экологически чистом, нешумном месте. Придомовая территория с парковкой. Эксклюзив! Преимущества: Внутри помещений большое количество естественного освещения благодаря объемно-планировочным решениям Высокий индекс изоляции шума между жилыми помещениями Двухкамерные ПВХ окна с мягким селективным покрытием Максимально грамотное использование пространства Чердачное помещение Теплоизоляция выполнена с учётом всех стандартов В подъездах используется гипоаллергенная воднодисперсионная акриловая краска Широкий лифт с большой грузоподъемностью Доступна покупка с рассрочкой платежа Звоните, чтобы узнать подробности!</description>
+		<floor>5</floor>
+		<floors-total>5</floors-total>
+		<ceiling-height>2.7</ceiling-height>
+		<built-year>2022</built-year>
+		<ready-quarter>2</ready-quarter>
+		<type>продажа</type>
+		<property-type>living</property-type>
+		<category>flat</category>
+		<deal-status>reassignment</deal-status>
+		<living-space>
+			<value>49.13</value>
+		</living-space>
+		<room-space>
+			<value>35.50</value>
+		</room-space>
+		<room-space>
+			<value>13.63</value>
+		</room-space>
+		<rooms>2</rooms>
+		<rooms-offered>2</rooms-offered>
+		<kitchen-space>
+			<value>7.92</value>
+		</kitchen-space>
+		<renovation>черновая отделка</renovation>
+		<window-view>во двор</window-view>
+		<balcony>балкон</balcony>
+		<bathroom-unit>1</bathroom-unit>
+		<building-type>кирпичный</building-type>
+		<building-state>hand-over</building-state>
+		<lift>true</lift>
+		<parking>0</parking>
+		<rubbish-chute>0</rubbish-chute>
+	</offer>
 	<offer internal-id="apartment_415">
 		<creation-date>2022-08-09T00:00:00+03:00</creation-date>
 		<location>
@@ -20287,7 +20287,7 @@
 			<region>Ярославская область</region>
 			<locality-name>Ярославль</locality-name>
 			<sub-locality-name>Красноперекопский район</sub-locality-name>
-			<address>Большая Донская, 15к2</address>
+			<address>Большая Донская, 10</address>
 		</location>
 		<sales-agent>
 			<name>Вадим</name>
@@ -20355,7 +20355,7 @@
 			<region>Ярославская область</region>
 			<locality-name>Ярославль</locality-name>
 			<sub-locality-name>Красноперекопский район</sub-locality-name>
-			<address>Большая Донская, 15к2</address>
+			<address>Большая Донская, 10</address>
 		</location>
 		<sales-agent>
 			<name>Вадим</name>
@@ -20423,7 +20423,7 @@
 			<region>Ярославская область</region>
 			<locality-name>Ярославль</locality-name>
 			<sub-locality-name>Красноперекопский район</sub-locality-name>
-			<address>Большая Донская, 15к2</address>
+			<address>Большая Донская, 10</address>
 		</location>
 		<sales-agent>
 			<name>Вадим</name>
@@ -20494,7 +20494,7 @@
 			<region>Ярославская область</region>
 			<locality-name>Ярославль</locality-name>
 			<sub-locality-name>Красноперекопский район</sub-locality-name>
-			<address>Большая Донская, 15к2</address>
+			<address>Большая Донская, 10</address>
 		</location>
 		<sales-agent>
 			<name>Вадим</name>
@@ -20565,7 +20565,7 @@
 			<region>Ярославская область</region>
 			<locality-name>Ярославль</locality-name>
 			<sub-locality-name>Красноперекопский район</sub-locality-name>
-			<address>Большая Донская, 15к2</address>
+			<address>Большая Донская, 10</address>
 		</location>
 		<sales-agent>
 			<name>Вадим</name>
@@ -20633,7 +20633,7 @@
 			<region>Ярославская область</region>
 			<locality-name>Ярославль</locality-name>
 			<sub-locality-name>Красноперекопский район</sub-locality-name>
-			<address>Большая Донская, 15к2</address>
+			<address>Большая Донская, 10</address>
 		</location>
 		<sales-agent>
 			<name>Вадим</name>
@@ -20701,7 +20701,7 @@
 			<region>Ярославская область</region>
 			<locality-name>Ярославль</locality-name>
 			<sub-locality-name>Красноперекопский район</sub-locality-name>
-			<address>Большая Донская, 15к2</address>
+			<address>Большая Донская, 10</address>
 		</location>
 		<sales-agent>
 			<name>Вадим</name>
@@ -20772,7 +20772,7 @@
 			<region>Ярославская область</region>
 			<locality-name>Ярославль</locality-name>
 			<sub-locality-name>Красноперекопский район</sub-locality-name>
-			<address>Большая Донская, 15к2</address>
+			<address>Большая Донская, 10</address>
 		</location>
 		<sales-agent>
 			<name>Вадим</name>
@@ -20843,7 +20843,7 @@
 			<region>Ярославская область</region>
 			<locality-name>Ярославль</locality-name>
 			<sub-locality-name>Красноперекопский район</sub-locality-name>
-			<address>Большая Донская, 15к2</address>
+			<address>Большая Донская, 10</address>
 		</location>
 		<sales-agent>
 			<name>Вадим</name>
@@ -20911,7 +20911,7 @@
 			<region>Ярославская область</region>
 			<locality-name>Ярославль</locality-name>
 			<sub-locality-name>Красноперекопский район</sub-locality-name>
-			<address>Большая Донская, 15к2</address>
+			<address>Большая Донская, 10</address>
 		</location>
 		<sales-agent>
 			<name>Вадим</name>
@@ -20979,7 +20979,7 @@
 			<region>Ярославская область</region>
 			<locality-name>Ярославль</locality-name>
 			<sub-locality-name>Красноперекопский район</sub-locality-name>
-			<address>Большая Донская, 15к2</address>
+			<address>Большая Донская, 10</address>
 		</location>
 		<sales-agent>
 			<name>Вадим</name>
@@ -21050,7 +21050,7 @@
 			<region>Ярославская область</region>
 			<locality-name>Ярославль</locality-name>
 			<sub-locality-name>Красноперекопский район</sub-locality-name>
-			<address>Большая Донская, 15к2</address>
+			<address>Большая Донская, 10</address>
 		</location>
 		<sales-agent>
 			<name>Вадим</name>
@@ -21121,7 +21121,7 @@
 			<region>Ярославская область</region>
 			<locality-name>Ярославль</locality-name>
 			<sub-locality-name>Красноперекопский район</sub-locality-name>
-			<address>Большая Донская, 15к2</address>
+			<address>Большая Донская, 10</address>
 		</location>
 		<sales-agent>
 			<name>Вадим</name>
@@ -21189,7 +21189,7 @@
 			<region>Ярославская область</region>
 			<locality-name>Ярославль</locality-name>
 			<sub-locality-name>Красноперекопский район</sub-locality-name>
-			<address>Большая Донская, 15к2</address>
+			<address>Большая Донская, 10</address>
 		</location>
 		<sales-agent>
 			<name>Вадим</name>
@@ -21257,7 +21257,7 @@
 			<region>Ярославская область</region>
 			<locality-name>Ярославль</locality-name>
 			<sub-locality-name>Красноперекопский район</sub-locality-name>
-			<address>Большая Донская, 15к2</address>
+			<address>Большая Донская, 10</address>
 		</location>
 		<sales-agent>
 			<name>Вадим</name>
@@ -21328,7 +21328,7 @@
 			<region>Ярославская область</region>
 			<locality-name>Ярославль</locality-name>
 			<sub-locality-name>Красноперекопский район</sub-locality-name>
-			<address>Большая Донская, 15к2</address>
+			<address>Большая Донская, 10</address>
 		</location>
 		<sales-agent>
 			<name>Вадим</name>
@@ -21399,7 +21399,7 @@
 			<region>Ярославская область</region>
 			<locality-name>Ярославль</locality-name>
 			<sub-locality-name>Красноперекопский район</sub-locality-name>
-			<address>Большая Донская, 15к2</address>
+			<address>Большая Донская, 10</address>
 		</location>
 		<sales-agent>
 			<name>Вадим</name>
@@ -21467,7 +21467,7 @@
 			<region>Ярославская область</region>
 			<locality-name>Ярославль</locality-name>
 			<sub-locality-name>Красноперекопский район</sub-locality-name>
-			<address>Большая Донская, 15к2</address>
+			<address>Большая Донская, 10</address>
 		</location>
 		<sales-agent>
 			<name>Вадим</name>
@@ -21535,7 +21535,7 @@
 			<region>Ярославская область</region>
 			<locality-name>Ярославль</locality-name>
 			<sub-locality-name>Красноперекопский район</sub-locality-name>
-			<address>Большая Донская, 15к2</address>
+			<address>Большая Донская, 10</address>
 		</location>
 		<sales-agent>
 			<name>Вадим</name>
@@ -21606,7 +21606,7 @@
 			<region>Ярославская область</region>
 			<locality-name>Ярославль</locality-name>
 			<sub-locality-name>Красноперекопский район</sub-locality-name>
-			<address>Большая Донская, 15к2</address>
+			<address>Большая Донская, 10</address>
 		</location>
 		<sales-agent>
 			<name>Вадим</name>
