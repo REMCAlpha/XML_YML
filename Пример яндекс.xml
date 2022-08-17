@@ -18923,6 +18923,7 @@
 		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182318.jpg?raw=true</image>
 		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182512.jpg?raw=true</image>
 		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182601.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%9F%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C%2001_1.mp4?raw=true</image>
 		<area>
 			<value>42.90</value>
 			<unit>sq. m</unit>
@@ -18991,6 +18992,7 @@
 		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182318.jpg?raw=true</image>
 		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182512.jpg?raw=true</image>
 		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182601.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%9F%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C%2001_1.mp4?raw=true</image>
 		<area>
 			<value>42.90</value>
 			<unit>sq. m</unit>
@@ -19059,6 +19061,7 @@
 		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182318.jpg?raw=true</image>
 		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182512.jpg?raw=true</image>
 		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182601.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%9F%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C%2001_1.mp4?raw=true</image>
 		<area>
 			<value>74.30</value>
 			<unit>sq. m</unit>
@@ -19130,6 +19133,7 @@
 		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182318.jpg?raw=true</image>
 		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182512.jpg?raw=true</image>
 		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182601.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%9F%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C%2001_1.mp4?raw=true</image>
 		<area>
 			<value>74.30</value>
 			<unit>sq. m</unit>
@@ -19201,6 +19205,7 @@
 		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182318.jpg?raw=true</image>
 		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182512.jpg?raw=true</image>
 		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182601.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%9F%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C%2001_1.mp4?raw=true</image>
 		<area>
 			<value>43.50</value>
 			<unit>sq. m</unit>
@@ -19269,6 +19274,7 @@
 		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182318.jpg?raw=true</image>
 		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182512.jpg?raw=true</image>
 		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182601.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%9F%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C%2001_1.mp4?raw=true</image>
 		<area>
 			<value>43.50</value>
 			<unit>sq. m</unit>
@@ -19337,6 +19343,7 @@
 		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182318.jpg?raw=true</image>
 		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182512.jpg?raw=true</image>
 		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182601.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%9F%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C%2001_1.mp4?raw=true</image>
 		<area>
 			<value>74.30</value>
 			<unit>sq. m</unit>
@@ -19408,6 +19415,7 @@
 		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182318.jpg?raw=true</image>
 		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182512.jpg?raw=true</image>
 		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182601.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%9F%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C%2001_1.mp4?raw=true</image>
 		<area>
 			<value>77.60</value>
 			<unit>sq. m</unit>
@@ -19479,6 +19487,7 @@
 		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182318.jpg?raw=true</image>
 		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182512.jpg?raw=true</image>
 		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182601.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%9F%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C%2001_1.mp4?raw=true</image>
 		<area>
 			<value>43.20</value>
 			<unit>sq. m</unit>
@@ -19547,6 +19556,7 @@
 		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182318.jpg?raw=true</image>
 		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182512.jpg?raw=true</image>
 		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182601.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%9F%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C%2001_1.mp4?raw=true</image>
 		<area>
 			<value>43.20</value>
 			<unit>sq. m</unit>
@@ -19615,6 +19625,7 @@
 		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182318.jpg?raw=true</image>
 		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182512.jpg?raw=true</image>
 		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182601.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%9F%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C%2001_1.mp4?raw=true</image>
 		<area>
 			<value>74.10</value>
 			<unit>sq. m</unit>
@@ -19686,6 +19697,7 @@
 		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182318.jpg?raw=true</image>
 		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182512.jpg?raw=true</image>
 		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182601.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%9F%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C%2001_1.mp4?raw=true</image>
 		<area>
 			<value>77.50</value>
 			<unit>sq. m</unit>
@@ -19757,6 +19769,7 @@
 		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182318.jpg?raw=true</image>
 		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182512.jpg?raw=true</image>
 		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182601.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%9F%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C%2001_1.mp4?raw=true</image>
 		<area>
 			<value>43.20</value>
 			<unit>sq. m</unit>
@@ -19825,6 +19838,7 @@
 		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182318.jpg?raw=true</image>
 		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182512.jpg?raw=true</image>
 		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182601.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%9F%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C%2001_1.mp4?raw=true</image>
 		<area>
 			<value>43.20</value>
 			<unit>sq. m</unit>
@@ -19893,6 +19907,7 @@
 		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182318.jpg?raw=true</image>
 		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182512.jpg?raw=true</image>
 		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182601.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%9F%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C%2001_1.mp4?raw=true</image>
 		<area>
 			<value>74.10</value>
 			<unit>sq. m</unit>
@@ -19964,6 +19979,7 @@
 		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182318.jpg?raw=true</image>
 		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182512.jpg?raw=true</image>
 		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182601.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%9F%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C%2001_1.mp4?raw=true</image>
 		<area>
 			<value>77.50</value>
 			<unit>sq. m</unit>
@@ -20035,6 +20051,7 @@
 		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182318.jpg?raw=true</image>
 		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182512.jpg?raw=true</image>
 		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182601.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%9F%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C%2001_1.mp4?raw=true</image>
 		<area>
 			<value>43.20</value>
 			<unit>sq. m</unit>
@@ -20103,6 +20120,7 @@
 		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182318.jpg?raw=true</image>
 		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182512.jpg?raw=true</image>
 		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182601.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%9F%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C%2001_1.mp4?raw=true</image>
 		<area>
 			<value>43.20</value>
 			<unit>sq. m</unit>
@@ -20171,6 +20189,7 @@
 		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182318.jpg?raw=true</image>
 		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182512.jpg?raw=true</image>
 		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182601.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%9F%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C%2001_1.mp4?raw=true</image>
 		<area>
 			<value>74.00</value>
 			<unit>sq. m</unit>
@@ -20242,6 +20261,7 @@
 		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182318.jpg?raw=true</image>
 		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182512.jpg?raw=true</image>
 		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182601.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%9F%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C%2001_1.mp4?raw=true</image>
 		<area>
 			<value>77.30</value>
 			<unit>sq. m</unit>
@@ -20281,13 +20301,14 @@
 		<rubbish-chute>0</rubbish-chute>
 	</offer>
 	<offer internal-id="apartment_415">
-		<creation-date>2022-08-09T00:00:00+03:00</creation-date>
+		<creation-date>2022-08-17T00:00:00+03:00</creation-date>
 		<location>
 			<country>Россия</country>
 			<region>Ярославская область</region>
 			<locality-name>Ярославль</locality-name>
 			<sub-locality-name>Красноперекопский район</sub-locality-name>
 			<address>Большая Донская, 10</address>
+			<apartment>21</apartment>
 		</location>
 		<sales-agent>
 			<name>Вадим</name>
@@ -20313,6 +20334,7 @@
 		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182318.jpg?raw=true</image>
 		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182512.jpg?raw=true</image>
 		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182601.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%9F%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C%2001_1.mp4?raw=true</image>
 		<area>
 			<value>43.5</value>
 			<unit>sq. m</unit>
@@ -20349,13 +20371,14 @@
 		<rubbish-chute>0</rubbish-chute>
 	</offer>
 	<offer internal-id="apartment_416">
-		<creation-date>2022-08-09T00:00:00+03:00</creation-date>
+		<creation-date>2022-08-17T00:00:00+03:00</creation-date>
 		<location>
 			<country>Россия</country>
 			<region>Ярославская область</region>
 			<locality-name>Ярославль</locality-name>
 			<sub-locality-name>Красноперекопский район</sub-locality-name>
 			<address>Большая Донская, 10</address>
+			<apartment>22</apartment>
 		</location>
 		<sales-agent>
 			<name>Вадим</name>
@@ -20381,6 +20404,7 @@
 		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182318.jpg?raw=true</image>
 		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182512.jpg?raw=true</image>
 		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182601.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%9F%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C%2001_1.mp4?raw=true</image>
 		<area>
 			<value>43.7</value>
 			<unit>sq. m</unit>
@@ -20417,13 +20441,14 @@
 		<rubbish-chute>0</rubbish-chute>
 	</offer>
 	<offer internal-id="apartment_417">
-		<creation-date>2022-08-09T00:00:00+03:00</creation-date>
+		<creation-date>2022-08-17T00:00:00+03:00</creation-date>
 		<location>
 			<country>Россия</country>
 			<region>Ярославская область</region>
 			<locality-name>Ярославль</locality-name>
 			<sub-locality-name>Красноперекопский район</sub-locality-name>
 			<address>Большая Донская, 10</address>
+			<apartment>23</apartment>
 		</location>
 		<sales-agent>
 			<name>Вадим</name>
@@ -20449,6 +20474,7 @@
 		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182318.jpg?raw=true</image>
 		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182512.jpg?raw=true</image>
 		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182601.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%9F%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C%2001_1.mp4?raw=true</image>
 		<area>
 			<value>72.7</value>
 			<unit>sq. m</unit>
@@ -20488,13 +20514,14 @@
 		<rubbish-chute>0</rubbish-chute>
 	</offer>
 	<offer internal-id="apartment_418">
-		<creation-date>2022-08-09T00:00:00+03:00</creation-date>
+		<creation-date>2022-08-17T00:00:00+03:00</creation-date>
 		<location>
 			<country>Россия</country>
 			<region>Ярославская область</region>
 			<locality-name>Ярославль</locality-name>
 			<sub-locality-name>Красноперекопский район</sub-locality-name>
 			<address>Большая Донская, 10</address>
+			<apartment>24</apartment>
 		</location>
 		<sales-agent>
 			<name>Вадим</name>
@@ -20520,6 +20547,7 @@
 		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182318.jpg?raw=true</image>
 		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182512.jpg?raw=true</image>
 		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182601.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%9F%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C%2001_1.mp4?raw=true</image>
 		<area>
 			<value>72</value>
 			<unit>sq. m</unit>
@@ -20559,13 +20587,14 @@
 		<rubbish-chute>0</rubbish-chute>
 	</offer>
 	<offer internal-id="apartment_419">
-		<creation-date>2022-08-09T00:00:00+03:00</creation-date>
+		<creation-date>2022-08-17T00:00:00+03:00</creation-date>
 		<location>
 			<country>Россия</country>
 			<region>Ярославская область</region>
 			<locality-name>Ярославль</locality-name>
 			<sub-locality-name>Красноперекопский район</sub-locality-name>
 			<address>Большая Донская, 10</address>
+			<apartment>25</apartment>
 		</location>
 		<sales-agent>
 			<name>Вадим</name>
@@ -20591,6 +20620,7 @@
 		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182318.jpg?raw=true</image>
 		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182512.jpg?raw=true</image>
 		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182601.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%9F%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C%2001_1.mp4?raw=true</image>
 		<area>
 			<value>43.5</value>
 			<unit>sq. m</unit>
@@ -20627,13 +20657,14 @@
 		<rubbish-chute>0</rubbish-chute>
 	</offer>
 	<offer internal-id="apartment_420">
-		<creation-date>2022-08-09T00:00:00+03:00</creation-date>
+		<creation-date>2022-08-17T00:00:00+03:00</creation-date>
 		<location>
 			<country>Россия</country>
 			<region>Ярославская область</region>
 			<locality-name>Ярославль</locality-name>
 			<sub-locality-name>Красноперекопский район</sub-locality-name>
 			<address>Большая Донская, 10</address>
+			<apartment>26</apartment>
 		</location>
 		<sales-agent>
 			<name>Вадим</name>
@@ -20659,6 +20690,7 @@
 		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182318.jpg?raw=true</image>
 		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182512.jpg?raw=true</image>
 		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182601.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%9F%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C%2001_1.mp4?raw=true</image>
 		<area>
 			<value>43.5</value>
 			<unit>sq. m</unit>
@@ -20695,13 +20727,14 @@
 		<rubbish-chute>0</rubbish-chute>
 	</offer>
 	<offer internal-id="apartment_421">
-		<creation-date>2022-08-09T00:00:00+03:00</creation-date>
+		<creation-date>2022-08-17T00:00:00+03:00</creation-date>
 		<location>
 			<country>Россия</country>
 			<region>Ярославская область</region>
 			<locality-name>Ярославль</locality-name>
 			<sub-locality-name>Красноперекопский район</sub-locality-name>
 			<address>Большая Донская, 10</address>
+			<apartment>27</apartment>
 		</location>
 		<sales-agent>
 			<name>Вадим</name>
@@ -20727,6 +20760,7 @@
 		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182318.jpg?raw=true</image>
 		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182512.jpg?raw=true</image>
 		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182601.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%9F%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C%2001_1.mp4?raw=true</image>
 		<area>
 			<value>72.7</value>
 			<unit>sq. m</unit>
@@ -20766,13 +20800,14 @@
 		<rubbish-chute>0</rubbish-chute>
 	</offer>
 	<offer internal-id="apartment_422">
-		<creation-date>2022-08-09T00:00:00+03:00</creation-date>
+		<creation-date>2022-08-17T00:00:00+03:00</creation-date>
 		<location>
 			<country>Россия</country>
 			<region>Ярославская область</region>
 			<locality-name>Ярославль</locality-name>
 			<sub-locality-name>Красноперекопский район</sub-locality-name>
 			<address>Большая Донская, 10</address>
+			<apartment>28</apartment>
 		</location>
 		<sales-agent>
 			<name>Вадим</name>
@@ -20798,6 +20833,7 @@
 		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182318.jpg?raw=true</image>
 		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182512.jpg?raw=true</image>
 		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182601.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%9F%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C%2001_1.mp4?raw=true</image>
 		<area>
 			<value>76</value>
 			<unit>sq. m</unit>
@@ -20837,13 +20873,14 @@
 		<rubbish-chute>0</rubbish-chute>
 	</offer>
 	<offer internal-id="apartment_423">
-		<creation-date>2022-08-09T00:00:00+03:00</creation-date>
+		<creation-date>2022-08-17T00:00:00+03:00</creation-date>
 		<location>
 			<country>Россия</country>
 			<region>Ярославская область</region>
 			<locality-name>Ярославль</locality-name>
 			<sub-locality-name>Красноперекопский район</sub-locality-name>
 			<address>Большая Донская, 10</address>
+			<apartment>29</apartment>
 		</location>
 		<sales-agent>
 			<name>Вадим</name>
@@ -20869,6 +20906,7 @@
 		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182318.jpg?raw=true</image>
 		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182512.jpg?raw=true</image>
 		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182601.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%9F%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C%2001_1.mp4?raw=true</image>
 		<area>
 			<value>43.5</value>
 			<unit>sq. m</unit>
@@ -20905,13 +20943,14 @@
 		<rubbish-chute>0</rubbish-chute>
 	</offer>
 	<offer internal-id="apartment_424">
-		<creation-date>2022-08-09T00:00:00+03:00</creation-date>
+		<creation-date>2022-08-17T00:00:00+03:00</creation-date>
 		<location>
 			<country>Россия</country>
 			<region>Ярославская область</region>
 			<locality-name>Ярославль</locality-name>
 			<sub-locality-name>Красноперекопский район</sub-locality-name>
 			<address>Большая Донская, 10</address>
+			<apartment>30</apartment>
 		</location>
 		<sales-agent>
 			<name>Вадим</name>
@@ -20937,6 +20976,7 @@
 		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182318.jpg?raw=true</image>
 		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182512.jpg?raw=true</image>
 		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182601.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%9F%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C%2001_1.mp4?raw=true</image>
 		<area>
 			<value>43.5</value>
 			<unit>sq. m</unit>
@@ -20973,13 +21013,14 @@
 		<rubbish-chute>0</rubbish-chute>
 	</offer>
 	<offer internal-id="apartment_425">
-		<creation-date>2022-08-09T00:00:00+03:00</creation-date>
+		<creation-date>2022-08-17T00:00:00+03:00</creation-date>
 		<location>
 			<country>Россия</country>
 			<region>Ярославская область</region>
 			<locality-name>Ярославль</locality-name>
 			<sub-locality-name>Красноперекопский район</sub-locality-name>
 			<address>Большая Донская, 10</address>
+			<apartment>31</apartment>
 		</location>
 		<sales-agent>
 			<name>Вадим</name>
@@ -21005,6 +21046,7 @@
 		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182318.jpg?raw=true</image>
 		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182512.jpg?raw=true</image>
 		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182601.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%9F%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C%2001_1.mp4?raw=true</image>
 		<area>
 			<value>72.7</value>
 			<unit>sq. m</unit>
@@ -21044,13 +21086,14 @@
 		<rubbish-chute>0</rubbish-chute>
 	</offer>
 	<offer internal-id="apartment_426">
-		<creation-date>2022-08-09T00:00:00+03:00</creation-date>
+		<creation-date>2022-08-17T00:00:00+03:00</creation-date>
 		<location>
 			<country>Россия</country>
 			<region>Ярославская область</region>
 			<locality-name>Ярославль</locality-name>
 			<sub-locality-name>Красноперекопский район</sub-locality-name>
 			<address>Большая Донская, 10</address>
+			<apartment>32</apartment>
 		</location>
 		<sales-agent>
 			<name>Вадим</name>
@@ -21076,6 +21119,7 @@
 		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182318.jpg?raw=true</image>
 		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182512.jpg?raw=true</image>
 		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182601.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%9F%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C%2001_1.mp4?raw=true</image>
 		<area>
 			<value>76</value>
 			<unit>sq. m</unit>
@@ -21115,13 +21159,14 @@
 		<rubbish-chute>0</rubbish-chute>
 	</offer>
 	<offer internal-id="apartment_427">
-		<creation-date>2022-08-09T00:00:00+03:00</creation-date>
+		<creation-date>2022-08-17T00:00:00+03:00</creation-date>
 		<location>
 			<country>Россия</country>
 			<region>Ярославская область</region>
 			<locality-name>Ярославль</locality-name>
 			<sub-locality-name>Красноперекопский район</sub-locality-name>
 			<address>Большая Донская, 10</address>
+			<apartment>33</apartment>
 		</location>
 		<sales-agent>
 			<name>Вадим</name>
@@ -21147,6 +21192,7 @@
 		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182318.jpg?raw=true</image>
 		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182512.jpg?raw=true</image>
 		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182601.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%9F%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C%2001_1.mp4?raw=true</image>
 		<area>
 			<value>43.4</value>
 			<unit>sq. m</unit>
@@ -21183,13 +21229,14 @@
 		<rubbish-chute>0</rubbish-chute>
 	</offer>
 	<offer internal-id="apartment_428">
-		<creation-date>2022-08-09T00:00:00+03:00</creation-date>
+		<creation-date>2022-08-17T00:00:00+03:00</creation-date>
 		<location>
 			<country>Россия</country>
 			<region>Ярославская область</region>
 			<locality-name>Ярославль</locality-name>
 			<sub-locality-name>Красноперекопский район</sub-locality-name>
 			<address>Большая Донская, 10</address>
+			<apartment>34</apartment>
 		</location>
 		<sales-agent>
 			<name>Вадим</name>
@@ -21215,6 +21262,7 @@
 		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182318.jpg?raw=true</image>
 		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182512.jpg?raw=true</image>
 		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182601.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%9F%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C%2001_1.mp4?raw=true</image>
 		<area>
 			<value>43.4</value>
 			<unit>sq. m</unit>
@@ -21251,13 +21299,14 @@
 		<rubbish-chute>0</rubbish-chute>
 	</offer>
 	<offer internal-id="apartment_429">
-		<creation-date>2022-08-09T00:00:00+03:00</creation-date>
+		<creation-date>2022-08-17T00:00:00+03:00</creation-date>
 		<location>
 			<country>Россия</country>
 			<region>Ярославская область</region>
 			<locality-name>Ярославль</locality-name>
 			<sub-locality-name>Красноперекопский район</sub-locality-name>
 			<address>Большая Донская, 10</address>
+			<apartment>35</apartment>
 		</location>
 		<sales-agent>
 			<name>Вадим</name>
@@ -21283,6 +21332,7 @@
 		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182318.jpg?raw=true</image>
 		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182512.jpg?raw=true</image>
 		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182601.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%9F%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C%2001_1.mp4?raw=true</image>
 		<area>
 			<value>72.7</value>
 			<unit>sq. m</unit>
@@ -21322,13 +21372,14 @@
 		<rubbish-chute>0</rubbish-chute>
 	</offer>
 	<offer internal-id="apartment_430">
-		<creation-date>2022-08-09T00:00:00+03:00</creation-date>
+		<creation-date>2022-08-17T00:00:00+03:00</creation-date>
 		<location>
 			<country>Россия</country>
 			<region>Ярославская область</region>
 			<locality-name>Ярославль</locality-name>
 			<sub-locality-name>Красноперекопский район</sub-locality-name>
 			<address>Большая Донская, 10</address>
+			<apartment>36</apartment>
 		</location>
 		<sales-agent>
 			<name>Вадим</name>
@@ -21354,6 +21405,7 @@
 		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182318.jpg?raw=true</image>
 		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182512.jpg?raw=true</image>
 		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182601.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%9F%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C%2001_1.mp4?raw=true</image>
 		<area>
 			<value>76</value>
 			<unit>sq. m</unit>
@@ -21393,13 +21445,14 @@
 		<rubbish-chute>0</rubbish-chute>
 	</offer>
 	<offer internal-id="apartment_431">
-		<creation-date>2022-08-09T00:00:00+03:00</creation-date>
+		<creation-date>2022-08-17T00:00:00+03:00</creation-date>
 		<location>
 			<country>Россия</country>
 			<region>Ярославская область</region>
 			<locality-name>Ярославль</locality-name>
 			<sub-locality-name>Красноперекопский район</sub-locality-name>
 			<address>Большая Донская, 10</address>
+			<apartment>37</apartment>
 		</location>
 		<sales-agent>
 			<name>Вадим</name>
@@ -21425,6 +21478,7 @@
 		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182318.jpg?raw=true</image>
 		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182512.jpg?raw=true</image>
 		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182601.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%9F%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C%2001_1.mp4?raw=true</image>
 		<area>
 			<value>43.4</value>
 			<unit>sq. m</unit>
@@ -21461,13 +21515,14 @@
 		<rubbish-chute>0</rubbish-chute>
 	</offer>
 	<offer internal-id="apartment_432">
-		<creation-date>2022-08-09T00:00:00+03:00</creation-date>
+		<creation-date>2022-08-17T00:00:00+03:00</creation-date>
 		<location>
 			<country>Россия</country>
 			<region>Ярославская область</region>
 			<locality-name>Ярославль</locality-name>
 			<sub-locality-name>Красноперекопский район</sub-locality-name>
 			<address>Большая Донская, 10</address>
+			<apartment>38</apartment>
 		</location>
 		<sales-agent>
 			<name>Вадим</name>
@@ -21493,6 +21548,7 @@
 		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182318.jpg?raw=true</image>
 		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182512.jpg?raw=true</image>
 		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182601.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%9F%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C%2001_1.mp4?raw=true</image>
 		<area>
 			<value>43.4</value>
 			<unit>sq. m</unit>
@@ -21529,13 +21585,14 @@
 		<rubbish-chute>0</rubbish-chute>
 	</offer>
 	<offer internal-id="apartment_433">
-		<creation-date>2022-08-09T00:00:00+03:00</creation-date>
+		<creation-date>2022-08-17T00:00:00+03:00</creation-date>
 		<location>
 			<country>Россия</country>
 			<region>Ярославская область</region>
 			<locality-name>Ярославль</locality-name>
 			<sub-locality-name>Красноперекопский район</sub-locality-name>
 			<address>Большая Донская, 10</address>
+			<apartment>39</apartment>
 		</location>
 		<sales-agent>
 			<name>Вадим</name>
@@ -21561,6 +21618,7 @@
 		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182318.jpg?raw=true</image>
 		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182512.jpg?raw=true</image>
 		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182601.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%9F%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C%2001_1.mp4?raw=true</image>
 		<area>
 			<value>72.7</value>
 			<unit>sq. m</unit>
@@ -21600,13 +21658,14 @@
 		<rubbish-chute>0</rubbish-chute>
 	</offer>
 	<offer internal-id="apartment_434">
-		<creation-date>2022-08-09T00:00:00+03:00</creation-date>
+		<creation-date>2022-08-17T00:00:00+03:00</creation-date>
 		<location>
 			<country>Россия</country>
 			<region>Ярославская область</region>
 			<locality-name>Ярославль</locality-name>
 			<sub-locality-name>Красноперекопский район</sub-locality-name>
 			<address>Большая Донская, 10</address>
+			<apartment>40</apartment>
 		</location>
 		<sales-agent>
 			<name>Вадим</name>
@@ -21632,6 +21691,7 @@
 		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182318.jpg?raw=true</image>
 		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182512.jpg?raw=true</image>
 		<image>https://github.com/REMCAlpha/Photo_1/blob/main/%D0%AD%D0%BA%D1%81%D0%BA%D0%BB%D1%8E%D0%B7%D0%B8%D0%B2/20220805_182601.jpg?raw=true</image>
+		<image>https://github.com/REMCAlpha/XML_YML/blob/master/%D0%9F%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C%2001_1.mp4?raw=true</image>
 		<area>
 			<value>76</value>
 			<unit>sq. m</unit>
